@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "7f2b1be756eb03e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0bbe2e5226129e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf3a3251396fb4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trade-kb/reference/spread-trading/aggregator/description-aggregator/aggregator-configuration.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aggregator-configuration"
+            }
+          },
+          {
+            "id": "2ff5449d7e3fb35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adl-kb/reference/adl-overview/adl-basic-concepts/description-adl-basic-concepts/adl-designer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "adl-designer"
+            }
+          },
+          {
+            "id": "00d890e1c098bf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trade-kb/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "037b26a679490020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trade-kb/guides/spread-trading-autospreader.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "spread-trading-autospreader"
+            }
+          },
+          {
+            "id": "cedd9bb5a0a63628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adl-kb/guides/gotchas-and-limits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gotchas-and-limits"
+            }
+          },
+          {
+            "id": "62ea8da0dbdadfbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2ae8b2b4c444973",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d3d049623cd31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f2d4ae686fd45e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5e18e202e99db1c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "212e601413a129bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ad1f1cc295d0159",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a457a7e38d6e39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3783c471a598f15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "adl-kb/guides/gotchas-and-limits.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for gotchas-and-limits"
+            }
+          },
+          {
+            "id": "eaa19e49ba643dfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "adl-kb/reference/virtualized-blocks/creating-a-virtualized-group-of-blocks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from creating-a-virtualized-group-of-blocks"
+            }
+          },
+          {
+            "id": "babaa4c065d2b886",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c56f7a4a2325564",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "eb5e689c8f7d0fdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "adl-kb/reference/virtualized-blocks/creating-a-virtualized-group-of-blocks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of creating-a-virtualized-group-of-blocks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cedd9bb5a0a63628",
+  "lastOpenFiles": [
+    "adl-kb/guides/algo-types.md",
+    "trade-kb/guides/charts-and-analytics.md",
+    "trade-kb/guides/algo-ops.md",
+    "adl-kb/README.md",
+    "trade-kb/reference/spread-trading/autospreader/description-autospreader/spread-configuration.md",
+    "trade-kb/INDEX.md",
+    "trade-kb/reference/algo-trading/algo-dashboard/description-algo-dashboard/algo-dashboard-overview.md",
+    "adl-kb/INDEX.md",
+    "projects/INDEX.md",
+    "projects/vix-spread-tick-v1/PROJECT.md",
+    "projects/vix-spread-tick-v1/PROJECT.md.tmp.7712.86976171a477",
+    "projects/vix-spread-tick-v1",
+    "projects",
+    "trade-kb/reference/analytics/charts/technical-indicators/positive-volume-index-pvi.md",
+    "adl-kb/reference/basic-blocks/bool-block.md",
+    "adl-kb/reference/adl-overview/advanced-concepts/description/algo-sharing.md",
+    "trade-kb/reference/algo-trading/excel-integration-with-tt/reference/excel-rtd-properties.md",
+    "trade-kb/reference/spread-trading/autospreader/description-autospreader/autospreader-configuration-interface.md",
+    "trade-kb/guides/spread-trading-autospreader.md",
+    "trade-kb/README.md",
+    "trade-kb/reference/basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/coinbase-to-tt-transition-guide.md",
+    "trade-kb/guides/platform-and-workspace.md",
+    "adl-kb/reference/adl-overview/adl-basic-concepts/description-adl-basic-concepts/adl-designer.md",
+    "trade-kb/reference/spread-trading/aggregator/description-aggregator/aggregator-configuration.md",
+    "validate.py.tmp.44664.b5221330e984",
+    "trade-kb/guides/order-types-and-execution.md",
+    "trade-kb/guides/order-types-and-execution.md.tmp.44664.130424dd599b",
+    "trade-kb/guides/algo-ops.md.tmp.44664.5590d93ac3c8",
+    "trade-kb/guides/algo-ops.md.tmp.44664.0e46ffbc4098",
+    "trade-kb/guides/algo-ops.md.tmp.44664.004844c50290",
+    "trade-kb/guides/charts-and-analytics.md.tmp.44664.be0985a04c52",
+    "trade-kb/guides/spread-trading-autospreader.md.tmp.44664.c90497860b51",
+    "trade-kb/guides/order-management-and-risk.md",
+    "trade-kb/guides/market-data-and-depth.md",
+    "adl-kb/reference/arithmetic-blocks/divide-block.md",
+    "adl-kb/reference/arithmetic-blocks/add-block.md"
+  ]
+}
