@@ -26,6 +26,7 @@ Single Order Container, Algo Dashboard/Autotrader ↔ deploying an algo) are cro
 | **[Gotchas & Limits](guides/gotchas-and-limits.md)** | Every hard limit and surprising behaviour, plus a pre-deploy checklist. |
 | **[Algo Types](guides/algo-types.md)** | Standard vs OTA vs SOA vs OMA, user-defined variables, deployment, approval, sharing. |
 | **[Full Index](INDEX.md)** | All 132 source pages, grouped by section. |
+| **[.adl.json Format](../ADL-jsons/README.md)** ⎋ | You're reading or writing an exported algo **file** — schema, connector-GUID catalog, and the risk/throttle idioms observed in 13 TT production algos. *Different source: derived from the JSON corpus, not from TT's docs.* |
 
 ---
 

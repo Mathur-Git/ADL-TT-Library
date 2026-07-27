@@ -1,0 +1,7 @@
+# The .adl.json corpus is ground truth: the block catalog, the format spec and the
+# validator self-test are all derived from these exact files. Keep them byte-for-byte
+# as TT exported them - no line-ending conversion, no diff noise.
+*.adl.json -text diff=nodiff
+
+# block-catalog.json is generated from that corpus by extract_schema.py.
+block-catalog.json -text

@@ -1,7 +1,16 @@
-projects/
+# projects/ is deliberately TRACKED. It holds the PROJECT.md files that are the durable
+# record of each algo's thesis, design decisions and open blockers. It used to be listed
+# here, which quietly defeated the point of writing them down.
+
 .obsidian/
 .DS_Store
 *.log
 node_modules/
 .env
 .env.local
+
+# Working output from `patterns.py --extract`
+*.pattern.json
+
+__pycache__/
+*.pyc
