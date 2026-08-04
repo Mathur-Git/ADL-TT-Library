@@ -54,7 +54,7 @@ anything is missing.
 adl-kb/       ADL docs, 132 pages mirrored + 6 authored guides. START: guides/core-semantics.md
 trade-kb/     TT platform docs, 638 pages mirrored + 7 authored guides
 ADL-jsons/    13 TT algo exports, the reverse-engineering toolchain, the format spec
-projects/     one folder per algo being built; PROJECT.md is the durable record
+projects/     one folder per algo being built; PROJECT.md is the durable record (gitignored)
 OPEN-QUESTIONS.md   what is still unverified and how to settle it - check before promising anything
 ```
 
@@ -191,6 +191,12 @@ Lifted from TT's own custom block names (`lookup.py --names <Block>`):
 - **`projects/<name>/PROJECT.md` is the durable record.** Chat memory is not. Update it
   when a decision is made, and keep `projects/INDEX.md` in step. Copy
   `projects/_TEMPLATE/PROJECT.md` to start.
+- **`projects/` is gitignored** (since 2026-08-04; `_TEMPLATE` is the one exception, so
+  the scaffold survives a clone). "Durable" therefore means *durable against losing chat
+  context* - **not** version-controlled and not backed up off this machine. There is no
+  history to recover a PROJECT.md from and no `git checkout` to undo a bad edit, so
+  rewrite one in place with the same care as an untracked file. Anything that must
+  outlive the machine needs its own backup.
 - **Convert relative dates to absolute** in anything written to disk.
 - Windows + PowerShell primary; a Bash tool is available for POSIX scripts. Script
   output goes through a cp1252 console - keep `print()` ASCII-only.
