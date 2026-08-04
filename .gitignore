@@ -1,6 +1,9 @@
-# projects/ is deliberately TRACKED. It holds the PROJECT.md files that are the durable
-# record of each algo's thesis, design decisions and open blockers. It used to be listed
-# here, which quietly defeated the point of writing them down.
+# projects/ is UNTRACKED by choice (2026-08-04). Algo work in progress stays local and
+# does not get pushed. Consequence to be aware of: PROJECT.md files then have no version
+# history and no off-machine copy, so back them up some other way.
+# _TEMPLATE stays tracked - it is repo scaffolding that CLAUDE.md tells you to copy from.
+projects/*
+!projects/_TEMPLATE/
 
 .obsidian/
 .DS_Store
