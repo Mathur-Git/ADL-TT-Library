@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Tracking Recent Volume
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/tracking-recent-volume/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/tracking-recent-volume/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Market data, bars and indicators](../../../../guides/design-patterns.md#market-data-bars-and-indicators)
 
 This example shows how to estimate how many contracts have traded within a certain number of seconds in the past. This functionality is achieved using the Stopwatch Block.
 

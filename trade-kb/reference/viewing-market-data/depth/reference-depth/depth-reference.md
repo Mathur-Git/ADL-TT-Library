@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/depth/
 
 # Depth reference
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/reference-depth/depth-reference/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/reference-depth/depth-reference/)
+>
+> **Interpreted in:** [Market Data & Depth § Depth widget & book imbalance](../../../../guides/market-data-and-depth.md#depth-widget-book-imbalance)
 
 ## Available settings
 
@@ -16,7 +18,7 @@ This setting affects only the selected Depth widget. To update the default setti
 
 In the **Display** section, the following settings are available:
 
-* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget.
+* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget.
 
   Includes **Depth Bids** and **Depth Asks** color options.
 * **Depth row colors** — Options to set colors for the following in the Depth widget:

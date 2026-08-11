@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Positive Volume Index (PVI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/positive-volume-index-pvi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/positive-volume-index-pvi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Positive Volume Index (PVI), as well as the [Negative Volume Index (VMI](negative-volume-index.md)), indicator tracks the changes in the number of transactions, or trading volume, of an instrument. Price changes on decreasing trading volume are considered to be a positive indicator, while price changes during periods of increased trading volume are considered to be a negative indicator. The idea behid the indicator is that well-informed traders (“smart money”) are involved when trading volumes decrease, while increasing trading volumes can indicate a follow-the-crowd mentality (“not-so-smart money”).
 

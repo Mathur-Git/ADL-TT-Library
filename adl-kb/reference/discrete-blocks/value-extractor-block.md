@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/value-extrac
 
 # Value Extractor block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/value-extractor-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/value-extractor-block/)
+>
+> **Interpreted in:** [Core Semantics § 2. The freeze rule](../../guides/core-semantics.md#2-the-freeze-rule) · [Core Semantics § 7. Virtualization](../../guides/core-semantics.md#7-virtualization) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas) · [Formula Editor Reference § Message fields](../../guides/formula-reference.md#message-fields)
 
 ### Value Extractor block
 

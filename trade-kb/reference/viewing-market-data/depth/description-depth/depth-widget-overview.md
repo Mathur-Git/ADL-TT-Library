@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/depth/
 
 # Depth widget overview
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/description-depth/depth-widget-overview/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/description-depth/depth-widget-overview/)
+>
+> **Interpreted in:** [Market Data & Depth § Depth widget & book imbalance](../../../../guides/market-data-and-depth.md#depth-widget-book-imbalance) · [Market Data & Depth § Quick lookup](../../../../guides/market-data-and-depth.md#quick-lookup)
 
 The Depth widget supports viewing detailed or aggregate depth for a single instrument. When displaying detailed depth, the widget also shows counterparty information for exchanges that provide this data on their price feed (e.g., B3).
 

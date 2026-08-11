@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Integration with a web proxy
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/reference/integration-with-a-web-proxy/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/reference/integration-with-a-web-proxy/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Excel / RTD linking](../../../../guides/algo-ops.md#excel-rtd-linking)
 
 To use Excel integration in TT, the client workstation requires DNS access to localhost-tradingtechnologies.com on port 8181. If your corporate network uses a web proxy, you will need to make some additional configuration changes to ensure that communiation between TT or TT Desktop and the Excel COM add-in functions properly.
 

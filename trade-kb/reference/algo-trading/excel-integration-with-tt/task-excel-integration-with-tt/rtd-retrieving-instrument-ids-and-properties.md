@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # RTD – Retrieving instrument IDs and properties
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/rtd-retrieving-instrument-ids-and-properties/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/rtd-retrieving-instrument-ids-and-properties/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Pulling live data into Excel (RTD)](../../../../guides/algo-ops.md#pulling-live-data-into-excel-rtd)
 
 When retrieving instrument data using RTD, you need to specify the ID of the instrument and the properties you want
 to retrieve.
@@ -115,8 +117,8 @@ instrument:
 
 The TT RTD Server supports two types of properties you can retrieve from TT:
 
-* [Type 1 properties](../reference/excel-rtd-properties.md#type1) return single values with no filtering support.
-* [Type 2 properties](../reference/excel-rtd-properties.md#type2) also return single values but allow you apply
+* [Type 1 properties](../reference/excel-rtd-properties.md) return single values with no filtering support.
+* [Type 2 properties](../reference/excel-rtd-properties.md) also return single values but allow you apply
   filters for the results.
 
 ### Retrieving instrument properties: type 1

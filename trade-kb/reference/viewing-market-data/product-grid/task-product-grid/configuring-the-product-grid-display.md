@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Configuring the Product Grid display
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/configuring-the-product-grid-display/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/configuring-the-product-grid-display/)
 
 You can configure the display of instruments and market data in the Product Grid by doing the following:
 

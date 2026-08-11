@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Order Profiles Overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/description-order-profiles/order-profiles-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/description-order-profiles/order-profiles-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Order profiles](../../../../guides/order-types-and-execution.md#order-profiles)
+>
+> **Also in this section:** [Order Profiles Reference](../reference-order-profiles/order-profiles-reference.md)
 
 Using the **Order Profiles** widget, you can create order default settings that seed order entry widgets on TT. In addition to the profiles set up by your administrator, you can define and apply your own custom order profiles and local default settings with seeding rules for order entry based on the market, product, product group, and product type. You can also define fields in the profile that can be applied to the order, such as order type, maximum order size, time-in-force restriction, and more.
 
@@ -46,7 +50,7 @@ Order templates can be included in [order profiles uploaded to your workspace](.
 
 If MiFID II fields are configured for a profile in Setup by your risk administrator, the profile will appear in the left panel of **Order Profiles**. If you select that profile for trading, the applicable MiIFD II fields  will be applied to the order and sent to the exchange. Profiles with MiFID II fields set by your administrator cannot be edited in the Order Profiles widget.
 
-Refer to [Order Profiles Reference](../../../viewing-market-data/depth/reference-depth/depth-reference.md#columns) for a description of each column.
+Refer to [Order Profiles Reference](../../../viewing-market-data/depth/reference-depth/depth-reference.md) for a description of each column.
 
 [Next PostOrder Profiles Display](order-profiles-display.md)→
 

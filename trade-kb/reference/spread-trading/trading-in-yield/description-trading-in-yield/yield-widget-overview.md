@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/trading-in-
 
 # Yield Widget Overview
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/description-trading-in-yield/yield-widget-overview/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/description-trading-in-yield/yield-widget-overview/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Trading in Yield](../../../../guides/spread-trading-autospreader.md#trading-in-yield)
 
 The Yield widget gives you the ability to create and manage yield configurations for trading and viewing prices in yield for fixed income products. The widget also displays yield configurations created directly in Autospreader or MD Trader. Currently, yield can only be configured for US Treasury Bonds products.
 

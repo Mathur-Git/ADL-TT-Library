@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/arithmetic-blocks/average-bl
 
 # Average block
 
-> Category: **Arithmetic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/average-block/)
+> Category: **Arithmetic Blocks** · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/average-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Arithmetic blocks](../../guides/block-catalog.md#arithmetic-blocks)
 
 ### Average block
 

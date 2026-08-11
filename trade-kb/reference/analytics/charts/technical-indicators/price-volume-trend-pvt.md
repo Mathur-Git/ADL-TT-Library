@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Price Volume Trend (PVT)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/price-volume-trend-pvt/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/price-volume-trend-pvt/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Price Volume Trend (PVT) study attempts to quantify the amount of volume flowing into or out of an instrument by identifying the close of the period in relation to the previous period’s close. The volume for the period is then added to a running continuous total.
 

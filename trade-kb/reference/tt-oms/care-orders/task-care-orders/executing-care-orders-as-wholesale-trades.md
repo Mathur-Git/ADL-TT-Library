@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Executing care orders as wholesale trades
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/executing-care-orders-as-wholesale-trades/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/executing-care-orders-as-wholesale-trades/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 Blocktrader supports executing staged care orders as two sides of a wholesale trade for HKEX and JPX markets. Select two single, bulked, or split care orders for the same instrument and order quantity with opposite Buy/Sell sides in the Order Book, then right-click and select **Order staging** | **Send to Blocktrader** in the context menu.
 

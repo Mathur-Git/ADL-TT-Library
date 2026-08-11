@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Exchange-specific functionality in MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/exchange-specific-functionality-in-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/exchange-specific-functionality-in-md-trader/)
 
 MD Trader exposes some additional buttons to support exchange-specific order functionality.
 
@@ -51,7 +51,7 @@ For China markets, you can also indicate the trading strategy for the order by u
 
 ## TT support for MiFID II exchanges
 
-For exchanges that need to comply with the MiFID II regulations, the **Show order entry compliance fields** setting in the **Orders** section of [Preferences](../../../overview/preferences/description-preferences/orders-preferences.md#cdi) can be enabled to add compliance fields to MD Trader.
+For exchanges that need to comply with the MiFID II regulations, the **Show order entry compliance fields** setting in the **Orders** section of [Preferences](../../../overview/preferences/description-preferences/orders-preferences.md) can be enabled to add compliance fields to MD Trader.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/trade-mdt-cdi-dropdown.png)
 

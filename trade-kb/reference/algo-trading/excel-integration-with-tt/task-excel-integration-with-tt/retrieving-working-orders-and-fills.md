@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Retrieving working orders and fills
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/retrieving-working-orders-and-fills/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/retrieving-working-orders-and-fills/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Pulling live data into Excel (RTD)](../../../../guides/algo-ops.md#pulling-live-data-into-excel-rtd)
 
 The TT RTD Server allows you to retrieve information about working orders and fills, such as the columns available in the Order Book and Fills widgets, using various RTD formulas. You can:
 
@@ -45,7 +47,7 @@ where *filter-criteria* contains comma-separated strings of filters using the fo
 > <column-name><operator><value>
 > ```
 
-where *column-name* is the name of an [Order Book column](../../../order-management/order-book/reference-order-book/order-book-reference.md#ob-col-desc) or [Fills column](../../../order-management/fills/reference-fills/fills-reference.md#fills-col-desc), as well as any input and output parameters of an algo order.
+where *column-name* is the name of an [Order Book column](../../../order-management/order-book/reference-order-book/order-book-reference.md) or [Fills column](../../../order-management/fills/reference-fills/fills-reference.md), as well as any input and output parameters of an algo order.
 
 **Notes**:
 
@@ -60,7 +62,7 @@ For example, to create an order set that includes all orders for the ES product 
 
 ## Retrieving working orders
 
-You can use RTD to create custom order books in your spreadsheet. You can use an order set to focus on a particular set of orders and, for each order, include values for columns available in the [Order Book](../../../order-management/order-book/reference-order-book/order-book-reference.md#ob-col-desc).
+You can use RTD to create custom order books in your spreadsheet. You can use an order set to focus on a particular set of orders and, for each order, include values for columns available in the [Order Book](../../../order-management/order-book/reference-order-book/order-book-reference.md).
 
 The RTD formula for retrieving order information uses the following format:
 
@@ -98,7 +100,7 @@ The RTD formula for retrieving order information uses the following format:
 where:
 
 * *orderset-id* is an optional order set ID returned from the [OS formula](#os) to filter the orders. If you omit this parameter, you must account for it in the formula with a comma. Also, if you omit this parameter, the formula will return unfiltered orders.
-* *orderstat-column* is one of the following [Order Book](../../../order-management/order-book/reference-order-book/order-book-reference.md#ob-col-desc) columns:
+* *orderstat-column* is one of the following [Order Book](../../../order-management/order-book/reference-order-book/order-book-reference.md) columns:
   * BuyCnt
   * SellCnt
   * NetCnt
@@ -117,7 +119,7 @@ For example, the following RTD formula retrieves number of working Buy orders wi
 
 ## Retrieving fills
 
-You can use RTD to monitor fills in your spreadsheet. You can use a fill set to focus on fills for a particular set of orders and, for each fill, include values for columns available in the [Fills](../../../order-management/fills/reference-fills/fills-reference.md#fills-col-desc) widget.
+You can use RTD to monitor fills in your spreadsheet. You can use a fill set to focus on fills for a particular set of orders and, for each fill, include values for columns available in the [Fills](../../../order-management/fills/reference-fills/fills-reference.md) widget.
 
 The RTD formula for retrieving fill information uses the following format:
 
@@ -155,7 +157,7 @@ The RTD formula for retrieving order information uses the following format:
 where:
 
 * *fillset-id* is an optional order set ID returned from the [TTFills formula](#os) to filter the fills. If you omit this parameter, you must account for it in the formula with a comma. Also, if you omit this parameter, the formula will return all fills.
-* *fillstat-column* is one of the following [Fills](../../../order-management/fills/reference-fills/fills-reference.md#fills-col-desc) columns:
+* *fillstat-column* is one of the following [Fills](../../../order-management/fills/reference-fills/fills-reference.md) columns:
   * BuyFillCnt
   * SellFillCnt
   * NetFillCnt

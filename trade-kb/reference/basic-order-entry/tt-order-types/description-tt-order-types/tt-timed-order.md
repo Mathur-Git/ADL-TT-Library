@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Timed order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-timed-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-timed-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 Timed orders are used to manage a trading day (e.g., exit by market close). For instance, you might want to submit
 an order as soon as the market opens, or exit a position just before the market closes. TT Timed order parameters

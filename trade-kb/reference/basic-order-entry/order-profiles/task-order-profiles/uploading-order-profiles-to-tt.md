@@ -6,11 +6,11 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Uploading Order Profiles to TT
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/uploading-order-profiles-to-tt/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/uploading-order-profiles-to-tt/)
 
 As a company administrator, you can use the Order Profiles widget to upload one or more custom order profiles into the TT platform. Uploaded profiles are environment specific, so you can upload and use different profiles in the Simulation and Live environments. For example, profiles verified in Simulation can then be uploaded to Live.
 
-**Note**: Before uploading, ensure that the order profiles are in the [CSV file format](../../../viewing-market-data/depth/reference-depth/depth-reference.md#upload) and are properly formatted.
+**Note**: Before uploading, ensure that the order profiles are in the [CSV file format](../../../viewing-market-data/depth/reference-depth/depth-reference.md) and are properly formatted.
 
 **Tip**: To upload order profiles as rules under existing Setup profiles created by an administrator, the profile names must match exactly, including case sensitivity.
 

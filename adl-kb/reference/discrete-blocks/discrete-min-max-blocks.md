@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/discrete-min
 
 # Discrete Min/Max blocks
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/discrete-min-max-blocks/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/discrete-min-max-blocks/)
+>
+> **Interpreted in:** [Core Semantics § 8. NaN is contagious and destructive](../../guides/core-semantics.md#8-nan-is-contagious-and-destructive) · [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas)
 
 ### Discrete Min/Max block
 

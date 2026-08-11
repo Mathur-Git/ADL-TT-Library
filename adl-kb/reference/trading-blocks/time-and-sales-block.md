@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/time-and-sale
 
 # Time And Sales block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/time-and-sales-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/time-and-sales-block/)
+>
+> **Interpreted in:** [Core Semantics § 1. Two kinds of message](../../guides/core-semantics.md#1-two-kinds-of-message) · [Design Patterns & Recipe Index § Market data, bars and indicators](../../guides/design-patterns.md#market-data-bars-and-indicators) · [Formula Editor Reference § Message fields](../../guides/formula-reference.md#message-fields) · [Gotchas, Hard Limits & Platform Constraints § Environment restrictions](../../guides/gotchas-and-limits.md#environment-restrictions) · [Market Data & Depth § Time and Sales](../../../trade-kb/guides/market-data-and-depth.md#time-and-sales)
 
 ### Time And Sales block
 

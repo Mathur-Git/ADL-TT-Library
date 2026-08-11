@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Rainbow Moving Average
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/rainbow-moving-average/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/rainbow-moving-average/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Rainbow Moving Average indicator shows multiple simple moving averages (SMAs) all at once for a specific time period. Each SMA is calculated based on the previous SMA and is color-coded in the chart.
 

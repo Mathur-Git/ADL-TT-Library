@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/descri
 
 # TT Desktop platform requirements
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/tt-desktop-platform-requirements/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/tt-desktop-platform-requirements/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 Before accessing the TT Desktop platform, ensure that you meet the TT [system](#system),
 [network](#network), and [email](#email) requirements.
@@ -56,9 +58,9 @@ You can verify connectivity by pointing a web browser on the client workstation 
 
 ## Email requirements
 
-Trading Technologies uses email to send a number of communications including users’ initial invitations and notices for general system maintenance. To ensure receipt of invitations, notices, and advisories, users must ensure they can receive emails from **[[email protected]](/cdn-cgi/l/email-protection)**.
+Trading Technologies uses email to send a number of communications including users’ initial invitations and notices for general system maintenance. To ensure receipt of invitations, notices, and advisories, users must ensure they can receive emails from **TT’s sender address**.
 
-Users should add **[[email protected]](/cdn-cgi/l/email-protection)** as a contact in their mail client. In addition, company administrators should configure **[[email protected]](/cdn-cgi/l/email-protection)** as a valid address for their company email.
+Users should add **TT’s sender address** as a contact in their mail client. In addition, company administrators should configure **TT’s sender address** as a valid address for their company email.
 
 ←[Previous PostTT Desktop overview](tt-desktop-overview.md)
 

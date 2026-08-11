@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/hedge-manag
 
 # Filling the entire order quantity
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/task-hedge-manager/filling-the-entire-order-quantity/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/task-hedge-manager/filling-the-entire-order-quantity/)
 
 If you want to increase the chances of fully filling an order, you can try to fill the order at a limit price. Hedge Manager will reprice the order to a price level with sufficient liquidity to cover the remaining order quantity. Note that choosing this option might reprice the order multiple ticks across the inside market.
 

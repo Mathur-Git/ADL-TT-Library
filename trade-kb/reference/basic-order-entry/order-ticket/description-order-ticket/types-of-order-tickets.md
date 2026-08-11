@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Types of Order Tickets
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/types-of-order-tickets/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/types-of-order-tickets/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Ticket](../../../../guides/order-types-and-execution.md#order-ticket)
 
 You can open three different types of order tickets:
 

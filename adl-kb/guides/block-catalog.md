@@ -3,7 +3,7 @@
 Every block ADL provides, with ports, purpose, and the gotcha that most often bites.
 Sorted by category. `→` marks the linked reference page.
 
-[KB Home](../README.md) · [Core Semantics](core-semantics.md) · [Formulas](formula-reference.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md) · [Full Index](../INDEX.md)
+[ADL KB Home](../ADL-KB-Home.md) · [Core Semantics](core-semantics.md) · [Formulas](formula-reference.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md)
 
 ## Port type legend
 

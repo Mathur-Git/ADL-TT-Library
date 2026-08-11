@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Volume Delta
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/volume-delta/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/volume-delta/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Volume Delta indicator displays the
 total amount of transactions occurring on both the Bid and the Ask

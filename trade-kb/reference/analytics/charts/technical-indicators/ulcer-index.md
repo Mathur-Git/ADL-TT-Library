@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Ulcer Index
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/ulcer-index/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/ulcer-index/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Ulcer Index (UI) indicator can be used to determine downside risk by displaying the depth and duration of price declines from their earlier highs. A high UI value is generally an indication that the instrument’s price has moved further away from its previous high and may take longer to return to this value.
 

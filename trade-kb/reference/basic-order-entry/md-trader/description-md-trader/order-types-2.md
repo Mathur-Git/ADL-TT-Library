@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Order Types
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/order-types-2/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/order-types-2/)
+>
+> **Interpreted in:** [Order Types & Execution § The ADL bridge](../../../../guides/order-types-and-execution.md#the-adl-bridge) · [Order Types & Execution § Native order types](../../../../guides/order-types-and-execution.md#native-order-types)
 
 Order types allow you to specify how an order behaves when it enters the market. For example, you may want an
 order to immediately fill at the current best price (market order) or to fill only at a particular price (limit

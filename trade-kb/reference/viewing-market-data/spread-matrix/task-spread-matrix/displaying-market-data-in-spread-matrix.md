@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Displaying market data in spread matrix
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/displaying-market-data-in-spread-matrix/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/displaying-market-data-in-spread-matrix/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads)
 
 You can easily configure the Spread Matrix to display specific contract months.
 

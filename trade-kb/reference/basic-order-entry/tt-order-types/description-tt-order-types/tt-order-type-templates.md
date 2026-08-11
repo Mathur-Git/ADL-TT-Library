@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Order Type Templates
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-order-type-templates/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-order-type-templates/)
 
 TT Order Types provide the ability to create and manage order templates. These templates allow you to save frequently-used order settings for future use. For example, suppose you created a set of order parameters designed for different instruments, but do not want to change the instrument each time that you submit the order. Instead, you can change the instrument variable and save the order parameters as a new template.
 

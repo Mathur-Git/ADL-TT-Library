@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Copying an aggregated instrument
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/copying-an-aggregated-instrument/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/copying-an-aggregated-instrument/)
 
 To copy an aggregated instrument:
 

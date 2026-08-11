@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Boll %B
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/boll-b/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/boll-b/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Boll %B indicator finds the position of a security within [Bollinger Bands](bollinger-bands.md). BBoll %B is simply a percentage measure of a security’s location between the bands. Boll %B can be lower than 0 or higher than 100 if price moves outside the bands
 

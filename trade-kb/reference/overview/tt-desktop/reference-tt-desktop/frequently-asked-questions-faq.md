@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/refere
 
 # Frequently-Asked Questions (FAQ)
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/reference-tt-desktop/frequently-asked-questions-faq/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/reference-tt-desktop/frequently-asked-questions-faq/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 1. **By default, TT Desktop installs to path: **C:Program FilesTrading Technologies**. Can it be moved to a different location?**Yes. You can select a different default folder location while running the default installer.
 2. **Can TT Desktop be delivered via SCCM?**Yes. The default TTD executable file can be made into a Microsoft SCCM package to help manage deployments across multiple workstations. However, this method will not provide version control for the application.

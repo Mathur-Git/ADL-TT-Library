@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/trading-in-
 
 # Yield configuration options
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/reference-trading-in-yield/yield-configuration-options/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/reference-trading-in-yield/yield-configuration-options/)
 
 The following table shows the custom configuration options available when trading in yield on TT.
 

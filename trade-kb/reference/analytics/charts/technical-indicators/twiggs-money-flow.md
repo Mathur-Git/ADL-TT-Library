@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Twiggs Money Flow
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/twiggs-money-flow/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/twiggs-money-flow/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 Colin Twiggs’ Money Flow indicator is similar to the Chaikin Money Flow (CMF). Where Chaikin Money Flow uses CLV (Close Location Value) to to evaluate volume (money flow) as bullish or as bearish, Twigs Money Flow, uses the TR (True Range). Twiggs Money Flow also relies on moving averages in its calculation while Chaikin uses cumulative volume.
 

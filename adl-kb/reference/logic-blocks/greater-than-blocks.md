@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/logic-blocks/greater-than-bl
 
 # Greater Than blocks
 
-> Category: **Logic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/greater-than-blocks/)
+> Category: **Logic Blocks** · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/greater-than-blocks/)
+>
+> **Interpreted in:** [ADL Block Catalog § Logic blocks](../../guides/block-catalog.md#logic-blocks)
 
 ### Greater Than blocks
 

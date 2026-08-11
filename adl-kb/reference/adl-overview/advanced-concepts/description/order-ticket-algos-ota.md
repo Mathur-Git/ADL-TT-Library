@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Order Ticket Algos (OTA)
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/order-ticket-algos-ota/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/order-ticket-algos-ota/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § OTA — Order Ticket Algo](../../../../guides/algo-types.md#ota-order-ticket-algo)
 
 An algorithm in ADL can be designed as an Order Ticket Algo (OTA), which means that the algorithm can be launched directly from either [MD Trader](../../../../../trade-kb/reference/basic-order-entry/md-trader/description-md-trader/md-trader-display.md) or [Order Ticket](../../../../../trade-kb/reference/basic-order-entry/order-ticket/description-order-ticket/order-ticket-overview.md) widget as you would any other type of order. The OTA functionality is especially useful for strategies that require a fast “single-click” style of execution.
 

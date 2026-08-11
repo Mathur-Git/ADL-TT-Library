@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/branch-block
 
 # Branch block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/branch-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/branch-block/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas) · [Formula Editor Reference § Worked patterns](../../guides/formula-reference.md#worked-patterns)
 
 ### Branch block
 

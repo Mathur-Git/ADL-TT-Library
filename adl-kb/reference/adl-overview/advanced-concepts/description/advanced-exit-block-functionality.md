@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Advanced Exit Block Functionality
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/advanced-exit-block-functionality/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/advanced-exit-block-functionality/)
+>
+> **Interpreted in:** [ADL Block Catalog § Virtualized (a Group with Virtual = True) →](../../../../guides/block-catalog.md#virtualized-a-group-with-virtual-true-ref) · [Core Semantics § 7. Virtualization](../../../../guides/core-semantics.md#7-virtualization)
 
 An Exit Block is used within virtualized group blocks, and is used to dispose of unwanted or unnecessary instances. To add an Exit Block to an algorithm, right click on the canvas within a virtualized group block and select “add exit block”. Using either the Boolean or discrete message inputs, you can build logic in your algorithm to dispose of virtualized instances whenever they are no longer needed.
 

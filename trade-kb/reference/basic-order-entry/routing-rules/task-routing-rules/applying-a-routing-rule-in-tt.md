@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/routing-
 
 # Applying a routing rule in TT
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/task-routing-rules/applying-a-routing-rule-in-tt/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/task-routing-rules/applying-a-routing-rule-in-tt/)
 
 Routing rules are applied at order entry using MD Trader or the Order Ticket. The rules created in the Routing Rules widget are displayed in the account selector in these widgets.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Donchian Width
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/donchian-width/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/donchian-width/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Donchian Width (DW) indicator measures the difference between the high and low bands of the [Donchian Channel](donchian-channel.md) indicator. The DW indicator rises when the width of the channel increases and descends when the width of the channel decreases, which indicates whether the volatility is increasing or descreasing.
 

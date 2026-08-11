@@ -3,7 +3,7 @@
 What kind of algo you are building determines how it is launched, whether it produces parent fills, and
 which blocks are mandatory. Decide this first — it is not easily changed later.
 
-[KB Home](../README.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md) · [Full Index](../INDEX.md)
+[ADL KB Home](../ADL-KB-Home.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md)
 
 ---
 

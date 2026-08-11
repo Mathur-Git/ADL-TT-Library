@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Creating OHLC and VWAP Time Bars
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-ohlc-and-vwap-time-bars/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-ohlc-and-vwap-time-bars/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Market data, bars and indicators](../../../../guides/design-patterns.md#market-data-bars-and-indicators)
 
 ### How to create Open, High, Low, Close, VWAP logic
 

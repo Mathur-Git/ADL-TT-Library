@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Aroon Oscillator (ARO)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/aroon-oscillator-aro/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/aroon-oscillator-aro/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Aroon Oscillator is a derivative of the [Aroon](aroon-ar.md) indicator that provides a different way to view the results. It is constructed by subtracting Aroon Down from Aroon Up. The Aroon Oscillator oscillates between -100 and +100 with zero as the center line.
 

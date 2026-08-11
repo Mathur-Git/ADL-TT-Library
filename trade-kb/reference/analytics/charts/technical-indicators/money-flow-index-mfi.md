@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Money Flow Index (MFI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/money-flow-index-mfi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/money-flow-index-mfi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Money Flow Index (MFI), developed by Gene Quong and Avrum Soudack, uses both price and volume to measure buying and selling pressure. The MFI value ranges from 0 to 100. A MFI value above 80 indicates a possible overbought situation and a value below 20 indicates a possible oversold condition.
 

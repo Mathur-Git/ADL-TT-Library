@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Market Grid Reference
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/reference-market-grid/market-grid-reference/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/reference-market-grid/market-grid-reference/)
+>
+> **Interpreted in:** [Market Data & Depth § Market Grid / Product Grid](../../../../guides/market-data-and-depth.md#market-grid-product-grid)
 
 ## Available settings
 
@@ -18,7 +20,7 @@ newly-opened Market Grid widgets, or to apply them to existing opened widgets, c
 In the **Display** section, the following settings are available:
 
 * **Grid font size**: Adjust the font size to suit your preferences and use bold text, if desired.
-* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget.
+* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget.
 * **Depth increment**: Set the number of additional depth levels to show or hide when displaying market depth for an instrument.
 * **Bold font**: Enable this setting to use bold text in the widget.
 * **Color rows by years**: Enable this setting to highlight the contracts that expire within a year.

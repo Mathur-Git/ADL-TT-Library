@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premi
 
 # TT Premium Order Type Templates
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/description-tt-premium-order-types/tt-premium-order-type-templates/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/description-tt-premium-order-types/tt-premium-order-type-templates/)
+>
+> **Also in this section:** [Managing TT Order Type templates](../task-tt-premium-order-types/managing-tt-order-type-templates-2.md)
 
 Both TT Order Types and TT Premium Order Types leverage the same ability to create and manage order templates.
 These templates allow you to save frequently-used order settings for future

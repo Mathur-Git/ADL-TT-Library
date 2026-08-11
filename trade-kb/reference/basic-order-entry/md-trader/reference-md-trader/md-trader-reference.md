@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # MD Trader Reference
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/reference-md-trader/md-trader-reference/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/reference-md-trader/md-trader-reference/)
+>
+> **Interpreted in:** [Order Types & Execution § MD Trader mechanics](../../../../guides/order-types-and-execution.md#md-trader-mechanics)
 
 ## Available settings
 
@@ -21,7 +23,7 @@ newly-opened MD Trader widgets, or to apply them to existing opened widgets, cli
 
 | Setting | Description |
 | --- | --- |
-| Colors | Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget. |
+| Colors | Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget. |
 | Highlight midpoint of last recenter | Sets whether to show the midpoint (white line) after the ladder is re-centered. |
 | Price increment per row | Sets the multiplier for the tick size at each price in the ladder. For example, if an instrument tick size is .25 and you set **Price increment per row** to “2”, each price in the ladder would tick by .50. This setting consolidates the display of prices in the price ladder and displays a greater range of prices while still showing the total quantity available. If you click the checkbox to enable this setting, the **Increment** field appears in the MD Trader widget with the tick interval value that you entered. |
 | Only show available prices | Displays a floating price ladder by only showing price levels where there is available liquidity. |
@@ -35,7 +37,7 @@ newly-opened MD Trader widgets, or to apply them to existing opened widgets, cli
 | Ignore global Account List broadcasts | Configures the widget to ignore account selections made in an Account List. When checked (enabled), the widget ignores account selections broadcast by an Account List widget. |
 | Display algo flyout panel based on mouse location | Sets whether to display the algo flyouts at the top of the widget or parallel to the mouse location when selecting a TT Order Type or algo from the **Order Type** dropdown, |
 | Display all algo parameters in confirmation mode | Shows the algo parameters flyout panel in expanded mode when confirming an order. This allows you to review and verify all algo parameters before submitting an algo order or TT Order Type. |
-| Display only the working qty for orders | Sets whether to display only the total working quantity of orders at each price level instead of the [detailed view](../description-md-trader/trading-with-md-trader.md#working_orders) for working orders. |
+| Display only the working qty for orders | Sets whether to display only the total working quantity of orders at each price level instead of the [detailed view](../description-md-trader/trading-with-md-trader.md) for working orders. |
 | Show LTQ on VAP column | Shows the last-traded quantity (LTQ) in the VAP column. |
 | Show aggregated leg columns | If trading an aggregated instrument and you enable this setting, MD Trader will open the corresponding legs of the instrument in separate MD Trader widgets. |
 | Show order qty and cancel buttons on bottom | Sets whether to display the order quantity field and cancel buttons in the side Order Entry panel or at the bottom of the ladder. |
@@ -56,16 +58,16 @@ These settings allow you to add or remove columns on the MD Trader widget.
 | --- | --- |
 | Work | Shows/hides the Work column, which shows your working orders. |
 | PIQ | Shows/hides the PIQ column, which displays how many contracts are in front of your order at any given price.    Showing this column also enables the **Enable Position in Queue (PIQ)** setting in the [Preferences](https://library.tradingtechnologies.com/trade/win-reference.html#orders). If this preference is disabled when the PIQ column is shown in MD Trader, each cell in the column will be blank.   **Note:** Position In Queue values are estimated on non-CME markets. |
-| BCnt | Shows/hides the **BCnt**  [column](../description-md-trader/trading-with-md-trader.md#headcount). Check this option to show the columns; uncheck to hide the column. The **BCnt** column shows the number of orders comprising the total bid quantity at a price level. |
+| BCnt | Shows/hides the **BCnt**  [column](../description-md-trader/trading-with-md-trader.md). Check this option to show the columns; uncheck to hide the column. The **BCnt** column shows the number of orders comprising the total bid quantity at a price level. |
 | Bids | Shows/hides the Bids column, which shows the total bid quantity at each price level. |
 | Price | Shows/hides the Price column. |
 | Asks | Shows/hides the Asks column, which shows the total ask quantity at each price level. |
-| ACnt | Shows/hides the **ACnt**  [column](../description-md-trader/trading-with-md-trader.md#headcount). Check this option to show the columns; uncheck to hide the columns. The **ACnt** column shows the number of orders comprising the total ask quantity at a price level. |
-| Volume at Price (VAP) | Show/hide the VAP column to display [volume-at-price](../description-md-trader/market-data-in-md-trader.md#vap) data.   **Note:** Enabling this setting also adds the [VAP sub-menu](#vap-item) to the MD Trader context menu. |
+| ACnt | Shows/hides the **ACnt**  [column](../description-md-trader/trading-with-md-trader.md). Check this option to show the columns; uncheck to hide the columns. The **ACnt** column shows the number of orders comprising the total ask quantity at a price level. |
+| Volume at Price (VAP) | Show/hide the VAP column to display [volume-at-price](../description-md-trader/market-data-in-md-trader.md) data.   **Note:** Enabling this setting also adds the [VAP sub-menu](#vap-item) to the MD Trader context menu. |
 | Last Traded Qty (LTQ) | Sets whether to show the [LTQ column](mdt-market-data-in-mdtrader#ltq-display) |
 
 You can also choose which columns to display from the [column heading
-context menu](../task-md-trader/configuring-md-trader.md#columns).
+context menu](../task-md-trader/configuring-md-trader.md).
 
 ### Market Data settings
 

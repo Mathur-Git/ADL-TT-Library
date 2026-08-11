@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Synthetic Order Algos (SOA)
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/synthetic-order-algos-soa/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/synthetic-order-algos-soa/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § SOA — Synthetic Order Algo](../../../../guides/algo-types.md#soa-synthetic-order-algo)
 
 A Synthetic Order Algo (SOA) in ADL is similar to an [Order Ticket Algo (OTA)](order-ticket-algos-ota.md) in that it’s launched at order entry like a TT Order Type. However, an SOA differs from an OTA in three significant ways:
 

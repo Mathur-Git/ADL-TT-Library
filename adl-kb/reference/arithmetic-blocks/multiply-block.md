@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/arithmetic-blocks/multiply-b
 
 # Multiply block
 
-> Category: **Arithmetic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/multiply-block/)
+> Category: **Arithmetic Blocks** · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/multiply-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Arithmetic blocks](../../guides/block-catalog.md#arithmetic-blocks)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ab-multiply-block.png)
 

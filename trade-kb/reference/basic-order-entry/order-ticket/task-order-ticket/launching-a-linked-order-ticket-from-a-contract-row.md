@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Launching a linked Order Ticket from a contract row
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/launching-a-linked-order-ticket-from-a-contract-row/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/launching-a-linked-order-ticket-from-a-contract-row/)
 
 A linked Order Ticket lets you enter orders for a selected contract in the Market Grid. Unlike a floating order ticket, a linked Order Ticket remains open after you place an order.
 

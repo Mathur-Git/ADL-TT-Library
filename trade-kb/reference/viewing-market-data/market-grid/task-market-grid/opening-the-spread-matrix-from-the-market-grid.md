@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Opening the Spread Matrix from the Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/opening-the-spread-matrix-from-the-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/opening-the-spread-matrix-from-the-market-grid/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads) · [Market Data & Depth § Market Grid / Product Grid](../../../../guides/market-data-and-depth.md#market-grid-product-grid)
 
 In the Market Grid, you can right-click any single instrument row to open all expiries in the Spread Matrix. You can also highlight specific rows to select speific contracts to appear within the Spread Matrix.
 

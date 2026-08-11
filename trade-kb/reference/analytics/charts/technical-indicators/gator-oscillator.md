@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Gator Oscillator
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/gator-oscillator/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/gator-oscillator/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Gator Oscillator indicator provides a different view of the [Alligator](alligator.md) indicator. It is a histogram that plots the absolute distance between the red and green averages. Expanding green bars mean the averages are widening and the trend is stronger. Contracting red bars mean the averages are narrowing and the trend is slowing or stopping.
 

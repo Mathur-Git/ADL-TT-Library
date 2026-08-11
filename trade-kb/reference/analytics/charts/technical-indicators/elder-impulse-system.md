@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Elder Impulse System
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/elder-impulse-system/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/elder-impulse-system/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Elder Impulse System indicator identifies transitions where a trend speeds up or slows down. The Impulse System is based on two indicators, a exponential moving average over a number of days and the MACD histogram. The moving average identifies the trend, while the MACD histogram measures momentum. As a result, the Elder Impulse System combines trend following and momentum to show tradable impulses.
 

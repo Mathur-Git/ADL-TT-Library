@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-tra
 
 # Filtering the contents of the Audit Trail
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/task-audit-trail/filtering-the-contents-of-the-audit-trail/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/task-audit-trail/filtering-the-contents-of-the-audit-trail/)
+>
+> **Interpreted in:** [Order Management & Risk § Audit trail / query](../../../../guides/order-management-and-risk.md#audit-trail-query)
 
 You can click the arrow next to the column name to access filters for the column
 values.

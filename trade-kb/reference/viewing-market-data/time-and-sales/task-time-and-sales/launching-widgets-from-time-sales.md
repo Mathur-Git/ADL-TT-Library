@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/time-a
 
 # Launching widgets from Time & Sales
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/task-time-and-sales/launching-widgets-from-time-sales/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/task-time-and-sales/launching-widgets-from-time-sales/)
+>
+> **Interpreted in:** [Market Data & Depth § Time and Sales](../../../../guides/market-data-and-depth.md#time-and-sales)
 
 From a Time and Sales widget, you can also quickly open the following widgets for a selected instrument to place orders:
 

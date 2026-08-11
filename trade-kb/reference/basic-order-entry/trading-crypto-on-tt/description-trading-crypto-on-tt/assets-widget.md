@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Assets Widget
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/description-trading-crypto-on-tt/assets-widget/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/description-trading-crypto-on-tt/assets-widget/)
 
 You can view crypto exchange wallet balances using the Assets widget. The widget refreshes your balances automatically within one second of every order action or full or partial fill.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Bollinger Bandwidth
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/bollinger-bandwidth/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/bollinger-bandwidth/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Bollinger Bandwidth indicator identifioes situations where the direction of an instrument’s prices are about to move. [Bollinger Bands](bollinger-bands.md) form an envelope drawn a number of standard deviations above and below a moving average. Bandwidth measures the percentage difference between the upper and lower bands, giving an indication to its volatility.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Placing orders on hold
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/placing-orders-on-hold/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/placing-orders-on-hold/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 You can place an order on hold from the Order Book widget. When you place an order on hold, you can change it as you would any other order. A held order remains in the widget until it is resubmitted or deleted. To put on order on hold, click ![the Hold button](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/btn-hold-order-2.png).
 

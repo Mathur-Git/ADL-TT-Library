@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # Single Theo (MMA)
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/single-theo-mma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/single-theo-mma/)
+>
+> **Interpreted in:** [Order Types & Execution § Market-Making Algos (MMA)](../../../../guides/order-types-and-execution.md#market-making-algos-mma)
 
 Single Theo is a type of [Market-Making Algo](../../../algo-trading/market-making-algos/market-making-algos.md). A
 single theo order type submits the quoting orders a user-defined number of ticks (**Bid Offset** and **Ask

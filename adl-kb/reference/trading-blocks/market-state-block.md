@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/market-state-
 
 # Market State block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/market-state-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/market-state-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § Algo settings (Information Panel → Settings)](../../guides/algo-types.md#algo-settings-information-panel-settings) · [Core Semantics § 10. What pauses or cancels an algo](../../guides/core-semantics.md#10-what-pauses-or-cancels-an-algo) · [Design Patterns & Recipe Index § Risk](../../guides/design-patterns.md#risk) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ### Market State block
 

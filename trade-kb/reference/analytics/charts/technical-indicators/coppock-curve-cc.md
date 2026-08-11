@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Coppock Curve (CC)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/coppock-curve-cc/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/coppock-curve-cc/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Coppock Curve indicator tries to identify buy signals in a market by looking at market activity on a monthly time scale. It adds the rates of change for a short and a long period of months and then smooths by another period’s weighted moving average. Typically, a potential buy signal occurs when the indicator is below 0 and then rises above it.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/autotrader/ta
 
 # Launching an algo in Autotrader
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/launching-an-algo-in-autotrader-2/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/launching-an-algo-in-autotrader-2/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Algo Dashboard vs Autotrader](../../../../guides/algo-ops.md#algo-dashboard-vs-autotrader) · [Algo Ops: Dashboard, Autotrader & Excel § From Autotrader](../../../../guides/algo-ops.md#from-autotrader)
 
 Autotrader allows you to run multiple algos and multiple instances of each algo from within a single widget. Users
 who run large numbers of algo instances simultaneously should check the [Algo Server

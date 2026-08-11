@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/descripti
 
 # Widgets context menus
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/widgets-context-menus/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/widgets-context-menus/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 All widgets have a context menu that can be displayed by right-clicking the widget’s titlebar. A similar context menu is also available from within the widget.
 
@@ -14,8 +16,8 @@ All widgets have a context menu that can be displayed by right-clicking the widg
 
 The following settings are provided:
 
-* **Create group widget**: Combines multiple widgets into a single [widget group](../task-widgets/working-with-widget-groups.md#create-group).
-* **Save as Custom widget**: Saves a widget group as a [custom widget](../task-widgets/working-with-widget-groups.md#saving-custom-widget) that is added to the Widgets menu.
+* **Create group widget**: Combines multiple widgets into a single [widget group](../task-widgets/working-with-widget-groups.md).
+* **Save as Custom widget**: Saves a widget group as a [custom widget](../task-widgets/working-with-widget-groups.md) that is added to the Widgets menu.
 * **Clone widget**: Opens a duplicate copy of the selected widget.
 * **Rename widget**: Allows you to create a custom name for the widget.
 * **Set always on top**: Sets the widget to display “always on top” of other widgets. To disable this setting, select **Remove always on top**.

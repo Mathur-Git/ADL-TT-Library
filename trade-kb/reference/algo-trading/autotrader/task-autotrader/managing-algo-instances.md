@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/autotrader/ta
 
 # Managing algo instances
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/managing-algo-instances/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/managing-algo-instances/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Algo Dashboard vs Autotrader](../../../../guides/algo-ops.md#algo-dashboard-vs-autotrader) · [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../guides/algo-ops.md#monitoring-a-running-algo)
 
 Autotrader lets you manage algo instances individually or in groups. You can:
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-t
 
 # Logging in to TT Desktop
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-tt-desktop/logging-in-to-tt-desktop/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-tt-desktop/logging-in-to-tt-desktop/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 To log in to TT Desktop:
 

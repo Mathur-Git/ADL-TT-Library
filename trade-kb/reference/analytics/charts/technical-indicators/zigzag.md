@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # ZigZag
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/zigzag/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/zigzag/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The ZigZag indicator can be used to determine a reversing market trend.
 The indicator determines support and resistance levels on the chart based on a percentage of reversing price movements. The percentage of price movement is user-defined and the value can be used to filter out smaller price fluctuations.

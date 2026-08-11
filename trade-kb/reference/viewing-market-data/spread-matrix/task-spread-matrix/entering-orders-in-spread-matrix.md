@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Entering orders in Spread Matrix
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/entering-orders-in-spread-matrix/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/entering-orders-in-spread-matrix/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads)
 
 Using the Spread Matrix and a floating order entry screen, you can quickly enter orders for all outrights, calendar spreads, or inter-product spreads within a single window for active spread trading.
 

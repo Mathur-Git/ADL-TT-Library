@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/descr
 
 # User Acceptance Testing (UAT) Environment
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/user-acceptance-testing-uat-environment/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/user-acceptance-testing-uat-environment/)
+>
+> **Interpreted in:** [Platform & Workspace § Mock trading and UAT — the two pre-production environments](../../../../guides/platform-and-workspace.md#mock-trading-and-uat-the-two-pre-production-environments)
 
 Prior to releasing new functionality to the Production environment, TT® provides a
 separate User Acceptance Testing (UAT) Certification environment at [uat.trade.tt](https://uat.trade.tt/). The TT UAT environment connects to actual exchange certification environments for both market data and order routing.

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/trader-analytics
 
 # Trader Analytics Display
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/description-trader-analytics/trader-analytics-display/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/description-trader-analytics/trader-analytics-display/)
+>
+> **Interpreted in:** [Charts & Analytics § Trader Analytics](../../../../guides/charts-and-analytics.md#trader-analytics)
 
 The Trader Analytics display consists of the following:
 

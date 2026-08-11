@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-que
 
 # Audit Query Overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-query/description-audit-query/audit-query-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-query/description-audit-query/audit-query-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Audit trail / query](../../../../guides/order-management-and-risk.md#audit-trail-query)
+>
+> **Also in this section:** [Audit Query reference](../reference-audit-query/audit-query-reference.md)
 
 The Audit Query widget searches the audit trail data in TT and filters the results based on your custom queries. The widget then allows you to search the results further or export the results to a .csv or .xls file. Each query that you enter can be saved and reused or modified.
 

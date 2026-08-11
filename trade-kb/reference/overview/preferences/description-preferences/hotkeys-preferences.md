@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/preferences/descr
 
 # Hotkeys Preferences
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/hotkeys-preferences/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/hotkeys-preferences/)
+>
+> **Interpreted in:** [Platform & Workspace § Preferences](../../../../guides/platform-and-workspace.md#preferences) · [Platform & Workspace § Hotkeys — high-value defaults](../../../../guides/platform-and-workspace.md#hotkeys-high-value-defaults)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/wrk-preferences-hotkeys2.png)
 

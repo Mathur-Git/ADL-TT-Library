@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Moving Average (MA)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/moving-average-ma/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/moving-average-ma/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 A moving average creates a series of averages of different subsets. Each new subset remains a constant length by adding the newest value and removing the oldest. A moving average is defined by the user over n-periods of data. This technical indicator along with several others allow the user to select which type of moving average to use in the calculation. The [Formula](#formula) section shows the formula for each type.
 

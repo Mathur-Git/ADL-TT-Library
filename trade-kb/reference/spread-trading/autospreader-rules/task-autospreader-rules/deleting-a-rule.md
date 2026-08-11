@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Deleting a rule
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/task-autospreader-rules/deleting-a-rule/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/task-autospreader-rules/deleting-a-rule/)
 
 ### To delete a rule
 

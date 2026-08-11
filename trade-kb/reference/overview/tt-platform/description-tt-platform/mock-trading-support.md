@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/descr
 
 # Mock Trading Support
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/mock-trading-support/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/mock-trading-support/)
+>
+> **Interpreted in:** [Platform & Workspace § Mock trading and UAT — the two pre-production environments](../../../../guides/platform-and-workspace.md#mock-trading-and-uat-the-two-pre-production-environments)
 
 To support mock trading, TT® provides a
 separate trading environment at [mock.trade.tt](https://mock.trade.tt/home) that is accessible through your browser or TT Desktop. Mock trading is different from regular certification testing as it is done using production connectivity and equipment, and is conducted outside of production trading hours.

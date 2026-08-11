@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Submitting Trades in Blocktrader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/task-blocktrader/submitting-trades-in-blocktrader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/task-blocktrader/submitting-trades-in-blocktrader/)
 
 Use the Blocktrader widget to submit over-the-counter transactions (block, off-exchange, wholesale, etc.), supported
 by

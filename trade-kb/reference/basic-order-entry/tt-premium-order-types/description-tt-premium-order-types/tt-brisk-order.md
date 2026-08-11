@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premi
 
 # TT Brisk order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/description-tt-premium-order-types/tt-brisk-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/description-tt-premium-order-types/tt-brisk-order/)
+>
+> **Interpreted in:** [Order Types & Execution § TT Premium Order Types](../../../../guides/order-types-and-execution.md#tt-premium-order-types)
 
 ## Overview
 
@@ -52,7 +54,7 @@ the execution of your orders in the market.
 
 | Parameter Name | Required/Optional | Description | Default Value |
 | --- | --- | --- | --- |
-| Order Type | Required | Sets the order type for the parent order. Possible values include:  * [Market](../../order-ticket/description-order-ticket/order-types.md#market-type) * [Limit](../../order-ticket/description-order-ticket/order-types.md#limit-type) * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md#stop-limit-type) * [Stop Market](../../order-ticket/description-order-ticket/order-types.md#stop-market-type) | Market |
+| Order Type | Required | Sets the order type for the parent order. Possible values include:  * [Market](../../order-ticket/description-order-ticket/order-types.md) * [Limit](../../order-ticket/description-order-ticket/order-types.md) * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md) * [Stop Market](../../order-ticket/description-order-ticket/order-types.md) | Market |
 | Stop Price | Conditional | The desired stop order’s price level.  **Note:** Required when **Order Type** is set to either **Stop Market** or **Stop Limit**. | 0 |
 | Participation Rate | Optional | Gives the trader the option to set the maximum participation rate with respect to total eligible market activity. | Null |
 | Aggression | Optional | Influences how strongly to tilt order trajectory (TT Close, TT Brisk), how tightly to track max participation (TT POV, TT Scale POV), or how tightly to follow an order schedule (TT TWAP+, TT VWAP+).  For TT Brisk orders, this means:   * Lower aggression (e.g. 0) trades close to a normal VWAP curve. * Mid/Default aggression (e.g. 5) trades faster upfront than VWAP based upon   product-specific optimizations to balance the risk of market impact vs price   drift. * High aggression (e.g. 10) trades most quickly with respect to a standard   VWAP, expressing greater preference for minimizing price drift. | 5 |

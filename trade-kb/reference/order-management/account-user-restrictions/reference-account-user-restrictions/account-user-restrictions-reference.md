@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/account-u
 
 # Account & User Restrictions Reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/account-user-restrictions/reference-account-user-restrictions/account-user-restrictions-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/account-user-restrictions/reference-account-user-restrictions/account-user-restrictions-reference/)
 
 The Account & User Restrictions widget contains the following columns in the “Account Restrictions” and “User Restrictions” tabbed views.
 

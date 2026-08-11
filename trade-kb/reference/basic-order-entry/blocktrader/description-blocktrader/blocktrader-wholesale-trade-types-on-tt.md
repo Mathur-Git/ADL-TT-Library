@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Blocktrader wholesale trade types on TT
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/description-blocktrader/blocktrader-wholesale-trade-types-on-tt/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/description-blocktrader/blocktrader-wholesale-trade-types-on-tt/)
+>
+> **Interpreted in:** [Order Types & Execution § Block trading](../../../../guides/order-types-and-execution.md#block-trading)
 
 The following table shows the wholesale trade types supported per exchange in Blocktrader on TT.
 

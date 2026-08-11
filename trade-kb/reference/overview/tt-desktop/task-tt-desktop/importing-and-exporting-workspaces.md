@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-t
 
 # Importing and exporting workspaces
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-tt-desktop/importing-and-exporting-workspaces/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-tt-desktop/importing-and-exporting-workspaces/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 TT Desktop allows you to save a configured workspace by exporting it as single files on your workstation. You can also give the file to others who can then import it to their own list of workspaces.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Chaikin Money Flow (CMF)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/chaikin-money-flow-cmf/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/chaikin-money-flow-cmf/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Chaikin Money Flow (CMF) indicator measures Money Flow Volume over a period of time to determine buying and selling pressure by comparing the closing price in relation to the high-low range and the volume. When the CMF is above zero, it can indicate buying pressure; likewise, it indicates selling pressure when the CMF is below zero. Values farther away from zero indicate greater pressures.
 

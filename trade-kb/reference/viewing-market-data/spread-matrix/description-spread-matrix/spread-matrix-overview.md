@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Spread Matrix overview
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/description-spread-matrix/spread-matrix-overview/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/description-spread-matrix/spread-matrix-overview/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § What AutoSpreader is](../../../../guides/spread-trading-autospreader.md#what-autospreader-is)
 
 The Spread Matrix provides you the ability to view market data for multiple instruments and the spreads between those outright instruments. Use the Spread Matrix to view market data and quickly enter orders for all contract expirations of a product  in a single screen.  By using the Spread Matrix and a floating order entry window for active spread trading, you can trade all outrights and Calendar spreads, as well as Butterfly and Condor spreads for a single product.
 

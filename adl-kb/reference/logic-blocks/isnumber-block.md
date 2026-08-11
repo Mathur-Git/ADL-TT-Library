@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/logic-blocks/isnumber-block/
 
 # IsNumber block
 
-> Category: **Logic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/isnumber-block/)
+> Category: **Logic Blocks** · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/isnumber-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Logic blocks](../../guides/block-catalog.md#logic-blocks) · [Core Semantics § 8. NaN is contagious and destructive](../../guides/core-semantics.md#8-nan-is-contagious-and-destructive) · [Formula Editor Reference § Guarding formulas](../../guides/formula-reference.md#guarding-formulas) · [Gotchas, Hard Limits & Platform Constraints § NaN](../../guides/gotchas-and-limits.md#nan)
 
 ### Is Number block
 

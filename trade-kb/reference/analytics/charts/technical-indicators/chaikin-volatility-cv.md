@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Chaikin Volatility (CV)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/chaikin-volatility-cv/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/chaikin-volatility-cv/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Chaikin Volatility, developed by Marc Chaikin, uses the bar range to measure volatility by comparing the differences between the high and low prices using a standard rate of change formula. The Chaikin curve oscillated -100% and +100% of the difference, with values below 0 indicating lower volatility and values above 0 indicating higher volatility.
 

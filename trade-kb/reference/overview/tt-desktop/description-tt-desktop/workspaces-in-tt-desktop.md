@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/descri
 
 # Workspaces in TT Desktop
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/workspaces-in-tt-desktop/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/workspaces-in-tt-desktop/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 A workspace in TT Desktop is a collection of separate windows that can be viewed simultaneously across as many monitors as the computer hardware and software support. Within each workspace window, traders can add one or more TT widgets to suit their trading preferences. For example, the following workspace includes three windows, each containing a set of widgets.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Setting Excel throttle limits
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/setting-excel-throttle-limits/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/setting-excel-throttle-limits/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Pulling live data into Excel (RTD)](../../../../guides/algo-ops.md#pulling-live-data-into-excel-rtd)
 
 Excel automatically limits the rate at which it checks for updates. By default, it sets the throttling rate to 2000
 milliseconds (2 seconds). In a fast-paced trading environment, such an update might not be sufficient. TT recommends

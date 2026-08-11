@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/routing-
 
 # Uploading Routing Rules
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/task-routing-rules/uploading-routing-rules/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/task-routing-rules/uploading-routing-rules/)
 
 You can use the Routing Rules widget to upload one or more custom routing rules into the TT platform.
 

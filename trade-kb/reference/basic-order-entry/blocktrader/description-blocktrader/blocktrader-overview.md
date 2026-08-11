@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Blocktrader overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/description-blocktrader/blocktrader-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/description-blocktrader/blocktrader-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Block trading](../../../../guides/order-types-and-execution.md#block-trading)
 
 The **Blocktrader** widget provides you with the ability to submit options and futures block trades and other OTC (over-the-counter) trades to exchanges for reporting and clearing purposes. You can use the widget to submit transactions for multiple accounts and counterparties, and can select a counterparty and account for one/both side(s) of the trade and submit one/both side(s) at once.
 

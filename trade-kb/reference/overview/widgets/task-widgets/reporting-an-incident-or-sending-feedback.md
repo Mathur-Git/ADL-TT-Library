@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/task-widg
 
 # Reporting an incident or sending feedback
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/reporting-an-incident-or-sending-feedback/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/reporting-an-incident-or-sending-feedback/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 To report an incident or send feedback:
 

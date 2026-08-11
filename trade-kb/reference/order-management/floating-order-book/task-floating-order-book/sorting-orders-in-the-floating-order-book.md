@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/floating-
 
 # Sorting orders in the Floating Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/sorting-orders-in-the-floating-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/sorting-orders-in-the-floating-order-book/)
 
 You can sort the list of orders based on the values in the Floating Order Book columns. To change the sorting order in the Floating Order Book, left-click the desired column to toggle between increasing and decreasing values.
 

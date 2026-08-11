@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Retrieving order properties
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/retrieving-order-properties/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/retrieving-order-properties/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Pulling live data into Excel (RTD)](../../../../guides/algo-ops.md#pulling-live-data-into-excel-rtd)
 
 The TT RTD Server allows you to retrieve information about individual orders, such as the order properties shown in an Order Book, using an RTD formula. In the following example, the formula retrieves the value of the **Price** order property for the order identified by a **TextTT** value of **ABC**.
 
@@ -20,14 +22,14 @@ The RTD formula for extracting order information uses the following format.
 
 **Note**: The second parameter is the name of the external server running the RTD Server. As the TT RTD Server always runs locally, you must omit a value for the second parameter or supply an empty string (“”). However, you must account for the parameter in the formula.
 
-The *order-property* parameter can be any property available in the [Order Book columns](../../../order-management/order-book/reference-order-book/order-book-reference.md#ob-col-desc), as well as any input and output parameters of an algo order.
+The *order-property* parameter can be any property available in the [Order Book columns](../../../order-management/order-book/reference-order-book/order-book-reference.md), as well as any input and output parameters of an algo order.
 
 Note: The name of the property must match exactly, including capitals, spaces, and special characters.
 
 The *filter* parameter must identify precisely one order, using either of the following formulas:
 
 * **TTOrderID=*order-id***, where *order-id* is the TT Order ID for the order.
-* **TextTT=*tag-value***, where *tag-value* is the value of TextTT field associated with the order.For ADL algos launched with an **Instance name** in [Algo Dashboard](../../algo-dashboard/task-algo-dashboard/launching-an-algo-from-the-algo-dashboard.md) that also set the **Order Tag** property of the [Order](../../../../../adl-kb/reference/trading-blocks/order-block.md#order-tag) or [Discrete Order](../../../../../adl-kb/reference/trading-blocks/discrete-order-block.md#order-tag) blocks, the TextTT field for child orders will be modified using the form, *instance-name***:***order-tag-value*.
+* **TextTT=*tag-value***, where *tag-value* is the value of TextTT field associated with the order.For ADL algos launched with an **Instance name** in [Algo Dashboard](../../algo-dashboard/task-algo-dashboard/launching-an-algo-from-the-algo-dashboard.md) that also set the **Order Tag** property of the [Order](../../../../../adl-kb/reference/trading-blocks/order-block.md) or [Discrete Order](../../../../../adl-kb/reference/trading-blocks/discrete-order-block.md) blocks, the TextTT field for child orders will be modified using the form, *instance-name***:***order-tag-value*.
 
 **Note**: If the filter matches more than one order, the RTD formula returns an error.
 

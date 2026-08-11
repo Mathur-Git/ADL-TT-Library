@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Moving Average Envelope (MAE)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/moving-average-envelope-mae/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/moving-average-envelope-mae/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Moving Average Envelope creates an envelope around a moving average to find overbought or oversold conditions, to smooth the price trend and as an indicator of price breakouts. The moving average envelope uses a moving average as the center line with a lower and upper bands added a percetnage above and below the center line.
 

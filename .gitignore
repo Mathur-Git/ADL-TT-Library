@@ -1,9 +1,9 @@
-# projects/ is UNTRACKED by choice (2026-08-04). Algo work in progress stays local and
-# does not get pushed. Consequence to be aware of: PROJECT.md files then have no version
-# history and no off-machine copy, so back them up some other way.
-# _TEMPLATE stays tracked - it is repo scaffolding that CLAUDE.md tells you to copy from.
-projects/*
-!projects/_TEMPLATE/
+# projects/ is UNTRACKED by choice (2026-08-04; the _TEMPLATE exception was removed and
+# the whole directory untracked 2026-08-11). This repo is PUBLIC, and projects/ holds
+# trading theses, strategy economics and desk knowledge. Nothing in here gets pushed.
+# Consequence to be aware of: PROJECT.md files have no version history and no off-machine
+# copy, so back them up some other way - a PRIVATE remote or a synced folder, not this repo.
+projects/
 
 .obsidian/
 .DS_Store

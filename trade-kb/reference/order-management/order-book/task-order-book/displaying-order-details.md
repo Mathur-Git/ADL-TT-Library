@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Displaying order details
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/displaying-order-details/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/displaying-order-details/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 To display the order details, select an order and click ![Order History](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/btn-order-history-3.png) icon.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/group-blocks/creating-a-grou
 
 # Creating a Group block
 
-> Category: **Group Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/group-blocks/creating-a-group-block/)
+> Category: **Group Blocks** · [Source](https://library.tradingtechnologies.com/adl/group-blocks/creating-a-group-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Group →](../../guides/block-catalog.md#group-ref)
 
 ### Creating a Group block
 

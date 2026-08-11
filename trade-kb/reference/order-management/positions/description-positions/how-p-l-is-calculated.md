@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/positions
 
 # How P/L is calculated
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/description-positions/how-p-l-is-calculated/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/description-positions/how-p-l-is-calculated/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 In general, your P/L is calculated using your incoming or start of day (SOD) positions, which use the
 settlement price from the previous session, your exchange fills from the current session, and any administrative
@@ -14,10 +16,10 @@ fills. When the market is open, the P/L for all open positions is calculated usi
 selected in the Positions widget settings. If the market is closed, open P/L is calculated using settlement or
 closing prices.
 
-Note: You can enable the **Use indicative settlement price when available** [setting](../../../basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference.md#indicative-settle) if you want the P/L calculations to use the indicative
+Note: You can enable the **Use indicative settlement price when available** [setting](../../../basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference.md) if you want the P/L calculations to use the indicative
 settlement prices instead of the settlement prices.
 
-You can select how P/L is calculated for your open positions by selecting a price type in the [**P/L Calculation** setting](../../../basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference.md#pos-col-desc) in the Positions widget. The selected
+You can select how P/L is calculated for your open positions by selecting a price type in the [**P/L Calculation** setting](../../../basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference.md) in the Positions widget. The selected
 price type option appears in the **P/L Price Type** column. This column is hidden in the Positions widget by
 default, and can be shown using the context menu settings.
 

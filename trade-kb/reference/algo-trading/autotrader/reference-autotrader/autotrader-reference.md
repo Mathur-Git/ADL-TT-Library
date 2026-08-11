@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/autotrader/re
 
 # Autotrader reference
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/reference-autotrader/autotrader-reference/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/reference-autotrader/autotrader-reference/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../guides/algo-ops.md#monitoring-a-running-algo)
 
 ## Algo status
 

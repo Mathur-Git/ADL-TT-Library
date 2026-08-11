@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/descr
 
 # TT Overview
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/tt-overview/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/tt-overview/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 TT gives you the trading tools that you expect in an easy-to-access platform. View real-time and historical market data and trade with the click of your mouse or automate your trading strategy and deploy your algo to servers throughout our global network of co-located data centers for superior execution.
 

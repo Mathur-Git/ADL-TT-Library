@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Market Data in MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/market-data-in-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/market-data-in-md-trader/)
 
 MD Trader is the industry-leading interface that provides single-click order entry for an instrument while displaying market depth against a static, vertical price axis. The static price display gives you a visual sense of market movement over a period of time or relative to other markets.111
 
@@ -64,7 +64,7 @@ price (LTP):
 
 Optionally, you can highlight the Last Traded Price (LTP) in the static price display by using the **Highlight Last Traded Price (LTP) on price column** option in the local **MD Trader: Settings**.
 
-The highlighted LTP value is color-coded to indicate if the trade occurred at a price that was higher, lower, or the same as the previous LTP. MD Trader highlights the price column cell with the default LTP [color settings](../task-md-trader/configuring-md-trader.md#mdt-colors) or your customized settings:
+The highlighted LTP value is color-coded to indicate if the trade occurred at a price that was higher, lower, or the same as the previous LTP. MD Trader highlights the price column cell with the default LTP [color settings](../task-md-trader/configuring-md-trader.md) or your customized settings:
 
 * A trade at the same price uses the LTP Column “Stable” colors
 * A trade at a higher price uses the LTP Column “Uptick” colors
@@ -97,7 +97,7 @@ When the **Only show direct prices** setting is checked (enabled), implied price
 
 MD Trader displays indicative or theoretical open prices that are provided by the exchange during Pre-Open or Auction market states. During these market states, the indicative price is used for calculating the net change displayed in MD Trader and your P/L displayed in the Positions widget. If you [recenter MD Trader](../task-md-trader/recentering-md-trader.md), the indicative open price is used as the reference price for recentering the market.
 
-If an exchange provides an indicative open (matched) price, MD Trader highlights the price column cell with the default LTP Column [color settings](../task-md-trader/configuring-md-trader.md#mdt-colors) (or your customized settings):
+If an exchange provides an indicative open (matched) price, MD Trader highlights the price column cell with the default LTP Column [color settings](../task-md-trader/configuring-md-trader.md) (or your customized settings):
 
 * The initial indicative price uses the Last Trade Price “Stable” colors.
 * If the indicative price is higher than the previous indicative price, MD Trader highlights the price using the Last Traded Price “Uptick” colors

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Directional Movement Index (DMI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/directional-movement-index-dmi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/directional-movement-index-dmi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Directional Movement Indicators (DMI) are components of the Directional Movement system published by J. Welles Wilder, and are computed with the Average Directional Movement Index (ADX). Two indicators are plotted, a Positive DI ( +DI ) and a Negative DI ( -DI ).
 

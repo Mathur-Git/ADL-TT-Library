@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Creating spreads in Spread Matrix
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/creating-spreads-in-spread-matrix/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/creating-spreads-in-spread-matrix/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads)
 
 When you enter a spread order for an inter-product spread in Spread Matrix, Autospreader® automatically creates a
 synthetic instrument for the spread.

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Care order passing
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/care-order-passing/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/care-order-passing/)
 
 You can use order passing to pass staged orders. Once care orders are passed and accepted, the new caretaker can still perform the advanced OMS features on one or more passed care orders, such as bulking, splitting and stitching. Also, passed care orders can be bulked/stitched with other non-passed care orders.
 

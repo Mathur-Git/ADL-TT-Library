@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/descripti
 
 # Widgets menu
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/widgets-menu/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/widgets-menu/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 ### Widgets menu overview
 
@@ -15,7 +17,7 @@ The Widgets menu is a configurable menu that contains the default widgets as wel
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/wgt-widgets-menu-overview.png)
 
 1. **Favorites**. Default and user-specified favorite widgets listed at the top for quick access.
-2. **Widget menu categories**. Sub-menus organizing the widgets by functional categories and for user-created [custom](../task-widgets/working-with-widget-groups.md#saving-custom-widget) widgets.
+2. **Widget menu categories**. Sub-menus organizing the widgets by functional categories and for user-created [custom](../task-widgets/working-with-widget-groups.md) widgets.
 3. **Favorites indicator**. Selectable indicators for identifying widgets to show in the top menu section.
 4. **Open Widgets**. Widgets menu displays the number of widgets open for each type of widget.
 
@@ -27,7 +29,7 @@ The favorites section of the Widget menu serves three purposes:
 * It identifies which widget icons appear in the instrument and product [search](../../workspace-windows/description-workspace-windows/search-overview.md) quick launch, as well as the order in which they appear.
 * It specifies the order in which the icons are shown in the search results.
 
-You can [add](../task-widgets/organizing-the-widgets-menu.md#select), [remove](../task-widgets/organizing-the-widgets-menu.md#remove) and [reorder](../task-widgets/organizing-the-widgets-menu.md#rearrange) widgets within your Favorites menu.
+You can [add](../task-widgets/organizing-the-widgets-menu.md), [remove](../task-widgets/organizing-the-widgets-menu.md) and [reorder](../task-widgets/organizing-the-widgets-menu.md) widgets within your Favorites menu.
 
 For example, if you use the [Chart](../../../analytics/charts/description-charts/chart-overview.md) and [Time & Sales](../../../viewing-market-data/time-and-sales/description-time-and-sales/time-sales-overview.md) widgets frequently, but do not often launch the [Positions](../../../order-management/positions/description-positions/positions-overview.md), [Fills](../../../order-management/fills/description-fills/fills-overview.md) and [Audit Trail](../../../order-management/audit-trail/description-audit-trail/audit-trail-overview.md) widgets, you can move the frequently used widgets to the top of your list and remove the less-frequently used widgets from the list.
 

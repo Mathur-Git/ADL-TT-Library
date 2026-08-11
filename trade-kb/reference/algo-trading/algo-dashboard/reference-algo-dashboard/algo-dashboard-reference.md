@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Algo Dashboard Reference
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/reference-algo-dashboard/algo-dashboard-reference/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/reference-algo-dashboard/algo-dashboard-reference/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../guides/algo-ops.md#monitoring-a-running-algo)
 
 ## Available settings
 
@@ -18,7 +20,7 @@ These “Order Book” settings affect only the selected Algo Orders pane in the
 
 | Setting | Description |
 | --- | --- |
-| Colors | Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget. There are separate settings for text and background colors. |
+| Colors | Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget. There are separate settings for text and background colors. |
 | Grid font size | Adjust the font size to suit your preferences and use bold text, if desired. |
 | Bold font | Sets the use of bold text in the widget. |
 | Row numbers | Displays the row numbers column. |

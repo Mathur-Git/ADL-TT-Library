@@ -6,13 +6,13 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # Managing TT Order Type templates
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/task-tt-order-types/managing-tt-order-type-templates/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/task-tt-order-types/managing-tt-order-type-templates/)
 
-Templates allow you to save frequently-used TT Order Type settings for future use. They let you quickly select a set of predefined values from a TT Order Type flyout or to assign the set of values to a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md#buttons) in MD Trader. You can create multiple templates for a specific TT Order Type as well as create different sets of templates for different TT Order Types. These templates can be selected from the drop-down to populate the order parameter fields with the saved values.
+Templates allow you to save frequently-used TT Order Type settings for future use. They let you quickly select a set of predefined values from a TT Order Type flyout or to assign the set of values to a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md) in MD Trader. You can create multiple templates for a specific TT Order Type as well as create different sets of templates for different TT Order Types. These templates can be selected from the drop-down to populate the order parameter fields with the saved values.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tto-default-template.png)
 
-The template drop-down menu also lets you [specify a default template](managing-tt-order-type-templates.md#default-template) (indicated by the yellow star) that will appear pre-selected every time you select the associated TT Order Type. You can revert to the default system settings by selecting the **<none>** option.
+The template drop-down menu also lets you [specify a default template](managing-tt-order-type-templates.md) (indicated by the yellow star) that will appear pre-selected every time you select the associated TT Order Type. You can revert to the default system settings by selecting the **<none>** option.
 
 ### Creating a TT Order Type template
 

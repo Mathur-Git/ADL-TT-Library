@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader rules configuration Logic
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration-logic/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration-logic/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Rule anatomy](../../../../guides/spread-trading-autospreader.md#rule-anatomy)
 
 The **Logic** tab contains fields to set conditions and conditional logic for the rule.
 
@@ -42,7 +44,7 @@ Enter a leg identifier followed by a “.” to select a leg attribute, such as:
 * **CurrentQuoteOrderWorkingPrice** (information pertaining to the current quote / hedge order(s) of the respective leg)
 * **BidPrice** (market data pertaining to the respective leg’s market)
 
-When entering a leg identifier, the text field makes “intellisense” suggestions for which leg attribute to use. Refer to  [Leg Attributes](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md#leg-attributes) for a description of the leg attributes available in the **Condition** and **Action** text fields.
+When entering a leg identifier, the text field makes “intellisense” suggestions for which leg attribute to use. Refer to  [Leg Attributes](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) for a description of the leg attributes available in the **Condition** and **Action** text fields.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/auto-rule-typing.png)
 

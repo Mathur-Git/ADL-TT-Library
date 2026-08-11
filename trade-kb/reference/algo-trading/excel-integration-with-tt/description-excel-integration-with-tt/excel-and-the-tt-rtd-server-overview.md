@@ -6,12 +6,14 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Excel and the TT RTD Server overview
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/description-excel-integration-with-tt/excel-and-the-tt-rtd-server-overview/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/description-excel-integration-with-tt/excel-and-the-tt-rtd-server-overview/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Excel / RTD linking](../../../../guides/algo-ops.md#excel-rtd-linking)
 
 The TT RTD Server allows traders to display live data from TT (market data, position, etc.) in an Excel spreadsheet. The TT RTD Server supports two types of properties you can retrieve from TT:
 
-* [Type 1 properties](../reference/excel-rtd-properties.md#type1) return single values with no filtering support.
-* [Type 2 properties](../reference/excel-rtd-properties.md#type2) also return single values but allow you apply filters for the results.
+* [Type 1 properties](../reference/excel-rtd-properties.md) return single values with no filtering support.
+* [Type 2 properties](../reference/excel-rtd-properties.md) also return single values but allow you apply filters for the results.
 
 For example, the following spreadsheet uses the TT RTD Server to populate the cells with market data for three GE instruments (Jun16, Sep16, Dec16) from the CME exchange. As market data for any of the instruments change, the values update automatically in the spreadsheet.
 

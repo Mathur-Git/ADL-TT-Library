@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/hedge-manag
 
 # Hedge order management
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/description-hedge-manager/hedge-order-management/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/description-hedge-manager/hedge-order-management/)
 
 The Hedge Manager lets you quickly modify working hedge orders, including
 

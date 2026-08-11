@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/descrip
 
 # Care orders overview
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/care-orders-overview/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/care-orders-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
+>
+> **Also in this section:** [Order Book reference](../reference-care-orders/order-book-reference-2.md)
 
 TT provides the ability to submit and manage care orders, which allow you to submit order intentions to another
 trader or trading desk for customized handling and execution. For example, a portfolio manager might need to buy a

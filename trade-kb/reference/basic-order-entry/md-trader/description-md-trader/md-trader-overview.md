@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # MD Trader overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/md-trader-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/md-trader-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § MD Trader mechanics](../../../../guides/order-types-and-execution.md#md-trader-mechanics)
 
 MD Trader is the industry-leading interface that provides single-click order entry for an instrument while displaying market depth against a static, vertical price axis. The static price display gives you a visual sense of market movement over a period of time or relative to other markets.
 

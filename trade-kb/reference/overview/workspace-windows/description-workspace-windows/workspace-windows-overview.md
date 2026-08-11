@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Workspace Windows Overview
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/description-workspace-windows/workspace-windows-overview/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/description-workspace-windows/workspace-windows-overview/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 A workspace is comprised of one or more windows that contain widgets tailored to your trading preferences. It contains a main window with the widgets you use to to view market data, enter and manage orders, and track fills and positions. You can create a single workspace for all of your trading, or you can create multiple workspaces with windows and widgets suited to specific trading needs.
 

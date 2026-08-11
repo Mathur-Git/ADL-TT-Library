@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # ICE and ICE_L OTC Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/ice-and-ice_l-otc-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/ice-and-ice_l-otc-trades/)
 
 The Blocktrader widget supports entering the following OTC trades on ICE and ICE\_L exchanges on TT:
 

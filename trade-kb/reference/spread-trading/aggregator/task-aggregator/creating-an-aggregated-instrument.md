@@ -6,13 +6,13 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Creating an aggregated instrument
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/creating-an-aggregated-instrument/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/creating-an-aggregated-instrument/)
 
 To create an aggregated instrument:
 
 1. Click **+Create** in the Aggregator Manager to open
    the [Create Aggregated Instrument](../description-aggregator/aggregator-configuration.md) screen.
-2. Configure the [Aggregator routing parameters and settings](../reference-aggregator/aggregator-reference.md#agg-settings).
+2. Configure the [Aggregator routing parameters and settings](../reference-aggregator/aggregator-reference.md).
 3. View the synthetic market for the aggregated instrument in the [preview ladder](../description-aggregator/aggregator-configuration-preview.md).
 4. Click **Save**.
 

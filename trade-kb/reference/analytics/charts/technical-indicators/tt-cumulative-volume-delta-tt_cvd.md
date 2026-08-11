@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # TT Cumulative Volume Delta (TT_CVD)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/tt-cumulative-volume-delta-tt_cvd/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/tt-cumulative-volume-delta-tt_cvd/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The TT Cumulative Volume Delta (TT CVD Study)
 displays a running total of net transactions as calculated by Volume

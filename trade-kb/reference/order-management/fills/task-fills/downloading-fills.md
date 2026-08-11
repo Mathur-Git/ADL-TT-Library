@@ -6,12 +6,12 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Downloading fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/downloading-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/downloading-fills/)
 
 Using the Fills widget context menu, you can download fills in a CSV file that you can integrate with
 other back office or risk management systems.
 
-**Note**: Fill downloads are supported only in [Detail](../description-fills/fills-views.md#detail), [Continuous](../description-fills/fills-views.md#continuous), and [Price with Detail](../description-fills/fills-views.md#price) modes.
+**Note**: Fill downloads are supported only in [Detail](../description-fills/fills-views.md), [Continuous](../description-fills/fills-views.md), and [Price with Detail](../description-fills/fills-views.md) modes.
 
 To request a fill download, select **Request download** from the Fills widget context menu and select whether you
 want to download fills for the most recent 24 hours or for a specific date/time range.

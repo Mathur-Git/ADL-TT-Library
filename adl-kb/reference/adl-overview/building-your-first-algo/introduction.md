@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/building-your-f
 
 # Introduction
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/introduction/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/introduction/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Exits and position management](../../../guides/design-patterns.md#exits-and-position-management) · [Design Patterns & Recipe Index § Testing](../../../guides/design-patterns.md#testing)
 
 Welcome to the Building Your First Algo series. This series is designed to teach you the basics of ADL by demonstrating the construction of a basic Scalper algo.
 

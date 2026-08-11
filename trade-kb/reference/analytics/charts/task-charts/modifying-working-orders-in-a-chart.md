@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
 # Modifying working orders in a chart
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/modifying-working-orders-in-a-chart/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/modifying-working-orders-in-a-chart/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 When you display working orders on a chart, you can modify those orders directly on the chart. You can delete all orders at a price level, reprice orders by dragging them to a new price level, and display a [Floating Order Book](../../../order-management/floating-order-book/description-floating-order-book/floating-order-book-overview.md) that contains all of the orders at that price level. Right-click or left-click on an order to display the Floating Order Book.
 

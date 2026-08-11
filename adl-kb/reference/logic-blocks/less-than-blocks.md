@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/logic-blocks/less-than-block
 
 # Less Than blocks
 
-> Category: **Logic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/less-than-blocks/)
+> Category: **Logic Blocks** · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/less-than-blocks/)
+>
+> **Interpreted in:** [ADL Block Catalog § Logic blocks](../../guides/block-catalog.md#logic-blocks)
 
 ### Less Than blocks
 

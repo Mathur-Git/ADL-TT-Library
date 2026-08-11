@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/alert-b
 
 # Alert block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/alert-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/alert-block/)
+>
+> **Interpreted in:** [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Design Patterns & Recipe Index § Risk](../../guides/design-patterns.md#risk) · [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas) · [Formula Editor Reference § Syntax](../../guides/formula-reference.md#syntax) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ### Alert block
 

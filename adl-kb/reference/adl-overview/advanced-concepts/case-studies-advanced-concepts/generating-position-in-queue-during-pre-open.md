@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Generating Position in Queue During Pre-open
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/case-studies-advanced-concepts/generating-position-in-queue-during-pre-open/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/case-studies-advanced-concepts/generating-position-in-queue-during-pre-open/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Market data, bars and indicators](../../../../guides/design-patterns.md#market-data-bars-and-indicators) · [Market Data & Depth § Position in Queue (PIQ)](../../../../../trade-kb/guides/market-data-and-depth.md#position-in-queue-piq)
 
 ### Case Study Overview
 
@@ -53,7 +55,7 @@ The user can set a Start Time of 1 second before the CLT market opens at 17:00 C
 
 TT allows users to also create custom logic by utilizing the [Algo Design Lab (ADL)](https://library.tradingtechnologies.com/adl/gs-adl-overview.html), where an [Order Ticket Algo (OTA)](../description/order-ticket-algos-ota.md) can be developed to submit a child order at the pre-open similar to a TT Timed synthetic algo. Within the ADL algo, it is possible to create additional conditional logic that is not present within the TT Timed or TT Retry synthetic algos.
 
-Users may want to utilize the [Market State block](../../../trading-blocks/market-state-block.md) along with other logic conditions to drive child order placement. The [Generator block’s](../../../discrete-blocks/generator-block.md#modes) time interval function may also be used as part of implementation of a retry logic.
+Users may want to utilize the [Market State block](../../../trading-blocks/market-state-block.md) along with other logic conditions to drive child order placement. The [Generator block’s](../../../discrete-blocks/generator-block.md) time interval function may also be used as part of implementation of a retry logic.
 
 ←[Previous PostAutomating a Fixed Income Futures Hedge Order](automating-a-fixed-income-futures-hedge-order.md)
 

@@ -6,12 +6,12 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Launching widgets from Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/launching-widgets-from-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/launching-widgets-from-market-grid/)
 
 The following styles of widgets that can be launched from the Market Grid:
 
-* [Independent](launching-widgets-from-market-grid.md#launch-independent) widget
-* [Linked](launching-widgets-from-market-grid.md#launch-linked) widget
+* [Independent](launching-widgets-from-market-grid.md) widget
+* [Linked](launching-widgets-from-market-grid.md) widget
 
 ### Launching an independent widget
 

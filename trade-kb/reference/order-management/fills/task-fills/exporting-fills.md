@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Exporting fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/exporting-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/exporting-fills/)
 
 You can also export fills to a **.csv** or **.xlsx** file. Select the fill
 rows you want to export, right-click in the selection, and click the

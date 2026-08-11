@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/positions
 
 # Displaying positions by group
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/task-positions/displaying-positions-by-group/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/task-positions/displaying-positions-by-group/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 You can configure the Positions widget to display your open positions and P/L by risk group, account, exchange, product, or contract by using the **Grouping** option in the context menu or the local **Settings: Positions** menu. The widget is in “aggregate” view mode by default.
 

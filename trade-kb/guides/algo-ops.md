@@ -5,7 +5,7 @@ Algo Dashboard and Autotrader — plus an optional Excel layer that drives their
 guide covers that operational surface: launching, monitoring, modifying live parameters, templates, and
 built-in (non-ADL) algo types you'll encounter alongside your own.
 
-[KB Home](../README.md) · [Full Index](../INDEX.md) · [Spread Trading Guide](spread-trading-autospreader.md) ·
+[Trade KB Home](../Trade-KB-Home.md) · [Spread Trading Guide](spread-trading-autospreader.md) ·
 [Order Types Guide](order-types-and-execution.md) · [Market Data Guide](market-data-and-depth.md) ·
 **Algo Ops** (this guide) · [Order Management & Risk](order-management-and-risk.md) ·
 [Platform & Workspace](platform-and-workspace.md)
@@ -263,7 +263,7 @@ management. Full parameter table on the same reference page.
 An OMA attaches to and manages one or more **already-existing** orders rather than submitting its own
 parent — the Trade-side counterpart to ADL's
 [Existing Order block](../../adl-kb/reference/trading-blocks/existing-order-block.md) /
-[OMA type](../../adl-kb/guides/algo-types.md#oma--order-management-algo). Two launch modes:
+[OMA type](../../adl-kb/guides/algo-types.md). Two launch modes:
 
 - **Order Book OMAs** — select existing orders in the [Order Book](../reference/order-management/order-book/description-order-book/order-book-overview.md)
   or Floating Order Book, choose an OMA, set its parameters, launch; the selected orders become children of

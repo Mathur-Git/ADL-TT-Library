@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/hedge-manag
 
 # Crossing the inside market
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/task-hedge-manager/crossing-the-inside-market/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/task-hedge-manager/crossing-the-inside-market/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Hedge Manager](../../../../guides/spread-trading-autospreader.md#hedge-manager)
 
 If you want to try to fill an order immediately, you can cross the inside market. Hedge Manager will reprice the order at the opposite inside market price. If there is insufficient liquidity at that price level to fill the entire order, any remaining quantity will remain resting at that price level.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/task-
 
 # Configuring two factor authentication
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/task-tt-platform/configuring-two-factor-authentication/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/task-tt-platform/configuring-two-factor-authentication/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile) · [Platform & Workspace § TT accounts](../../../../guides/platform-and-workspace.md#tt-accounts)
 
 ## About Two-Factor Authentication (2FA)
 

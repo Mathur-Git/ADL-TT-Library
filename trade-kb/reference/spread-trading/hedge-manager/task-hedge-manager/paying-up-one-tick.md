@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/hedge-manag
 
 # Paying up one tick
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/task-hedge-manager/paying-up-one-tick/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/task-hedge-manager/paying-up-one-tick/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Hedge Manager](../../../../guides/spread-trading-autospreader.md#hedge-manager)
 
 If you want to improve your chance to fill a working hedge order with minimal price impact, you can try to fill an order by paying up one tick.
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/virtualized-blocks/creating-
 
 # Creating a virtualized group of blocks
 
-> Category: **Virtualized Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/virtualized-blocks/creating-a-virtualized-group-of-blocks/)
+> Category: **Virtualized Blocks** · [Source](https://library.tradingtechnologies.com/adl/virtualized-blocks/creating-a-virtualized-group-of-blocks/)
 
 To create a virtualized group of blocks:
 
@@ -39,7 +39,6 @@ To create a virtualized group of blocks:
 
 ←[Previous PostRules of virtualization](rules-of-virtualization.md)
 
-[Next PostVirtual blocks video](virtual-blocks-video.md)→
 
 ### Images on page
 - https://library.tradingtechnologies.com/wp-content/uploads/2025/12/vb-create-virtualized-group-1.png

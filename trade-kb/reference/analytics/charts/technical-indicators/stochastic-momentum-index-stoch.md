@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Stochastic Momentum Index (STOCH)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/stochastic-momentum-index-stoch/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/stochastic-momentum-index-stoch/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Stochastic Momentum Index (Stoch) normalizes price as a percentage between 0 and 100. Normally two lines are plotted, the %K line and a moving average of the %K which is called %D. A slow stochastic can be created by initially smoothing the %K line with a moving average before it is displayed. The length of this smoothing is set in the Slow K Period. Without the initial smoothing ( i.e., setting the Slow K Period to a value of 1 ) the %K becomes the ‘Raw %K’ value, and is also known as a fast stochastic.
 

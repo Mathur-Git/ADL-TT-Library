@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Opening Spread Matrix
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/opening-spread-matrix/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/task-spread-matrix/opening-spread-matrix/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads) · [Market Data & Depth § Quick lookup](../../../../guides/market-data-and-depth.md#quick-lookup)
 
 Use the **Exchange-listed** tab to open a spread matrix for an exchange-listed calendar spread.
 

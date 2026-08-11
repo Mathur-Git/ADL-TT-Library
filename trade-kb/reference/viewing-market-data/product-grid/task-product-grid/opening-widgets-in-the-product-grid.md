@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Opening Widgets in the Product Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/opening-widgets-in-the-product-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/opening-widgets-in-the-product-grid/)
 
 In the Product Grid, you can open a widget as one of the following:
 

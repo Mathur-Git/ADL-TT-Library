@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/alert-man
 
 # Managing alerts
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/managing-alerts/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/managing-alerts/)
+>
+> **Interpreted in:** [Order Management & Risk § Alerts (real-time risk guard)](../../../../guides/order-management-and-risk.md#alerts-real-time-risk-guard)
 
 Using the Alert Manager, you can run or pause one or more alerts. You can also edit, copy, and delete each alert that
 you create, as well as search/filter alerts by using the filter list text box.

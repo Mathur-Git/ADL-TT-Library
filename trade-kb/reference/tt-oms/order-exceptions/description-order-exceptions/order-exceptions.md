@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/order-exceptions/de
 
 # Order Exceptions
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-exceptions/description-order-exceptions/order-exceptions/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-exceptions/description-order-exceptions/order-exceptions/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
+>
+> **Also in this section:** [Managing and resolving FIX care order rejections](../task-order-exceptions/managing-and-resolving-fix-care-order-rejections-2.md)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/co-order-exceptions-scaled.png)
 

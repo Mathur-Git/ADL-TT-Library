@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Continuous vs. discrete event messages
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages/)
+>
+> **Interpreted in:** [Core Semantics § 1. Two kinds of message](../../../../guides/core-semantics.md#1-two-kinds-of-message)
 
 A message is a piece of information that traverses the pathways established by the edges that connect ADL blocks. ADL supports two types of messages: continuous messages and discrete event messages.
 

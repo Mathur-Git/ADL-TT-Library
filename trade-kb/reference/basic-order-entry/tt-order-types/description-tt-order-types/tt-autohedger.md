@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Autohedger
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-autohedger/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-autohedger/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 **Note**: To use this TT Order Type, your company administrator must provide you with access to the [Advanced Options Package](https://library.tradingtechnologies.com/trade/aop-overview.html) and set your account permissions in Setup.
 

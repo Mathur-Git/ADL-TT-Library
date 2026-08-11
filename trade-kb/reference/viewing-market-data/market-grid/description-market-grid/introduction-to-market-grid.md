@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Introduction to Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/description-market-grid/introduction-to-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/description-market-grid/introduction-to-market-grid/)
+>
+> **Interpreted in:** [Market Data & Depth § Market Grid / Product Grid](../../../../guides/market-data-and-depth.md#market-grid-product-grid) · [Market Data & Depth § Quick lookup](../../../../guides/market-data-and-depth.md#quick-lookup)
 
 The Market Grid displays market data for numerous instruments in a grid-like format and gives you the ability to quickly trade any of those instruments with an order ticket or MD Trader. You can organize the display of instruments to your liking by using tabs. You can also display market depth for an instrument with a simple mouse click.
 

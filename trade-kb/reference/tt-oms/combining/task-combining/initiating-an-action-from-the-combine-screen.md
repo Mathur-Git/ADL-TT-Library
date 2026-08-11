@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/combining/task-comb
 
 # Initiating an action from the Combine Screen
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/combining/task-combining/initiating-an-action-from-the-combine-screen/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/combining/task-combining/initiating-an-action-from-the-combine-screen/)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/cmb-combine-display-1024x177.png)
 

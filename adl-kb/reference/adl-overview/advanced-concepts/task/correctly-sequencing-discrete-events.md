@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Correctly Sequencing Discrete Events
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/correctly-sequencing-discrete-events/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/correctly-sequencing-discrete-events/)
+>
+> **Interpreted in:** [ADL Block Catalog § Sequence →](../../../../guides/block-catalog.md#sequence-ref) · [Core Semantics § 4. Branching a discrete output is non-deterministic](../../../../guides/core-semantics.md#4-branching-a-discrete-output-is-non-deterministic)
 
 Although it is possible to connect more than one edge to the discrete output port of a given block, it is not advisable. For example, consider the following ADL algo.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/descripti
 
 # Chart trading
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/chart-trading/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/chart-trading/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 The Chart widget provides you with the ability to enter orders directly within the chart, as well as monitor and
 interact with the markets by displaying fills and working orders. When you enable trading in a chart, an order

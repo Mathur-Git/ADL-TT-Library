@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/order-management/account-u
 
 # Account & User Restrictions Overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/account-user-restrictions/description-account-user-restrictions/account-user-restrictions-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/account-user-restrictions/description-account-user-restrictions/account-user-restrictions-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Accounts & balances](../../../../guides/order-management-and-risk.md#accounts-balances)
+>
+> **Also in this section:** [Account & User Restrictions Reference](../reference-account-user-restrictions/account-user-restrictions-reference.md)
 
 The Accounts & Users Restrictions widget displays a read-only view of restrictions configured in Setup. The data is organized within two tabbed views: one for accounts, and another for user permissions per account. The widget also supports sorting and filtering columns, and [exporting the account and user data](../task-account-user-restrictions/exporting-account-and-user-restrictions-data.md) to .csv or .xlsx files.
 

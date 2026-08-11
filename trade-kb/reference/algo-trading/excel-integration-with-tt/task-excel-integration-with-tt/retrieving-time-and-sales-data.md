@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Retrieving time and sales data
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/retrieving-time-and-sales-data/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/retrieving-time-and-sales-data/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Pulling live data into Excel (RTD)](../../../../guides/algo-ops.md#pulling-live-data-into-excel-rtd)
 
 The TT RTD Server allows you to retrieve real-time [Time and Sales](../../../viewing-market-data/time-and-sales/description-time-and-sales/time-sales-overview.md) data for an instrument, providing details for each trade including side, time, price and quantity. It also indicates whether a trade is a block (OTC) trade and provides the counterparty IDs when provided by an exchange, such as B3.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader rules configuration Actions
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration-actions/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration-actions/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Rule anatomy](../../../../guides/spread-trading-autospreader.md#rule-anatomy)
 
 To complete the rule, you must add an action that will be performed when your conditions are met. Click the
 **THEN** add button to add additional actions. The list is based on the rule type you selected:
@@ -42,13 +44,13 @@ If **Pre-Hedge Order** is selected as the rule type, **hedge order** appears as 
 * **type** — Click to select one of the following order types: Limit,
   Market, Post Only, FOK, FAK, IOC, MLM.
 
-* [Limit](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#limit-type)
-* [Market](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#market-type)
-* [Post Only (Limit)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#post)
-* [FOK (Fill Or Kill)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#fok)
-* [FAK (Fill And Kill)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#fak)
-* [IOC (Immediate Or Cancel)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#ioc)
-* [MLM (Market Limit Market)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#mlm)
+* [Limit](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
+* [Market](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
+* [Post Only (Limit)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
+* [FOK (Fill Or Kill)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
+* [FAK (Fill And Kill)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
+* [IOC (Immediate Or Cancel)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
+* [MLM (Market Limit Market)](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
 
 | **Note:** Autospreader rule order types override hedge order types. For example:  * If the hedge order type is Market and the rule type is Post Only (Limit), Autospreader SE submits the   hedge order   as a Post Only (Limit) order. * If the hedge order type is Post Only (Limit) and the rule type is Market, Autospreader SE submits the   hedge order as a   Market order. |
 | --- |
@@ -89,7 +91,7 @@ custom variables in your action logic.
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/rule-action-logic.png)
 
 The logic you define for each action instructs the Autospreader Server to replace or modify its own calculated
-price and quantity values. Refer to  [Leg Attributes](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md#leg-attributes) for a
+price and quantity values. Refer to  [Leg Attributes](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) for a
 description of the leg attributes available in the **Condition** and **Action** text fields.
 
 The following arithmetic expressions and operators can be used when entering your action logic:

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT If-Touched order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-if-touched-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-if-touched-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 An If-Touched is an order that is triggered when the market has reached or traded through a specified price in the
 market. If-Touched orders are similar to Stop orders except the trigger price behavior is inverted. An If-Touched
@@ -43,7 +45,7 @@ Trader](../../md-trader/description-md-trader/trading-with-md-trader.md) Order E
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tto-if-touched-mdt-order.png)
 
-**Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md#buttons)
+**Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md)
 (or use a [hotkey](../../../overview/preferences/description-preferences/hotkeys-preferences.md)) for this TT Order Type that also specifies an order
 template, these two fields will not be displayed, as the template already defines their desired values.
 Right-clicking on the button displays these parameters. You can also click the **edit** button to
@@ -89,7 +91,7 @@ make changes, if desired.
 
   ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tto-stop-mdt-order.png)
 
-  **Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md#buttons) (or use a [hotkey](../../../overview/preferences/description-preferences/hotkeys-preferences.md)) for this TT Order Type that also specifies an order template, these two fields will not be displayed, as the template already defines their desired values.Right-clicking on the button displays these parameters. You can also click the **edit** button to make changes if desired.
+  **Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md) (or use a [hotkey](../../../overview/preferences/description-preferences/hotkeys-preferences.md)) for this TT Order Type that also specifies an order template, these two fields will not be displayed, as the template already defines their desired values.Right-clicking on the button displays these parameters. You can also click the **edit** button to make changes if desired.
 * **Limit price**: Sets the price for the child Limit order.
 * **With a Tick**: Sets the threshold for the [With A Tick](tt-with-a-tick-order.md) behavior that reprices the child order one tick toward the market when available quantity at the opposite inside market is at or below the specified quantity threshold.The quantity can be specified as:
   * **Qty** for an absolute number of contracts

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Position Manager overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/description-position-manager/position-manager-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/description-position-manager/position-manager-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 The Position Manager widget allows you to create and publish manual fills and Start of Day (SOD) records for users and accounts in your company. Restrictions for using the widget are based on your permissions per account. If you have permission in Setup to update positions for an account, you’ll be able to add manual fills and SOD records for that account.
 

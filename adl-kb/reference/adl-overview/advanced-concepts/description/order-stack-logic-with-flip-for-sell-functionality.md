@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Order Stack Logic with Flip for Sell functionality
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/order-stack-logic-with-flip-for-sell-functionality/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/order-stack-logic-with-flip-for-sell-functionality/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Order entry](../../../../guides/design-patterns.md#order-entry) · [Design Patterns & Recipe Index § Bi-directional algos](../../../../guides/design-patterns.md#bi-directional-algos)
 
 ### Building Basic Queue Holder Functionality
 

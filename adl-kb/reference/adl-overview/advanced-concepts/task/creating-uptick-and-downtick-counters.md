@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Creating Uptick and Downtick Counters
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-uptick-and-downtick-counters/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-uptick-and-downtick-counters/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Market data, bars and indicators](../../../../guides/design-patterns.md#market-data-bars-and-indicators)
 
 This is a possible way to use ADL to take a specific Instrument and pull out the Bid Price for that instrument…. and then create a counter that uses a User Defined Uptick/Downtick variable and monitors the market data. Then when the User Defined number of Uptick or Downticks in the market is reached…. this then outputs a TRUE boolean value which can then be used as a trigger condition within an algos logic.
 

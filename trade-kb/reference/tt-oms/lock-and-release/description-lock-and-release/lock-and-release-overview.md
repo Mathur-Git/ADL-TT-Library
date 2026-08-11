@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/lock-and-release/de
 
 # Lock and Release Overview
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/lock-and-release/description-lock-and-release/lock-and-release-overview/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/lock-and-release/description-lock-and-release/lock-and-release-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 The Lock and Release functionality in TT® OMS provides you the ability to delay reporting fills to your customers
 until the orders have been completely filled and allocated. By delaying fill notifications, you control when the

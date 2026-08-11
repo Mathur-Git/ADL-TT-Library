@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/positi
 
 # Position in Queue (PIQ) Overview
 
-> Category: **Viewing Market Data** · [KB Home](../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/position-in-queue-piq/position-in-queue-piq/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/position-in-queue-piq/position-in-queue-piq/)
+>
+> **Interpreted in:** [Market Data & Depth § Position in Queue (PIQ)](../../../guides/market-data-and-depth.md#position-in-queue-piq) · [Market Data & Depth § Quick lookup](../../../guides/market-data-and-depth.md#quick-lookup)
 
 TT supports position in queue, which is your individual queue position per order at each price level for the products you are trading. Position in queue is either provided by the exchange on their price feed or provided by TT as an estimate of your queue position.
 
@@ -47,7 +49,7 @@ MD Trader can show your actual or estimated position in queue in the optional **
 
 ### Enabling PIQ
 
-PIQ can be enabled either in [Preferences](../../overview/preferences/description-preferences/orders-preferences.md) or by showing the PIQ column  in the [MD Trader settings](../../basic-order-entry/md-trader/reference-md-trader/md-trader-reference.md#columns). When this setting is enabled, the **PIQ** column displays the PIQ values
+PIQ can be enabled either in [Preferences](../../overview/preferences/description-preferences/orders-preferences.md) or by showing the PIQ column  in the [MD Trader settings](../../basic-order-entry/md-trader/reference-md-trader/md-trader-reference.md). When this setting is enabled, the **PIQ** column displays the PIQ values
 for visible orders.
 
 ### PIQ display

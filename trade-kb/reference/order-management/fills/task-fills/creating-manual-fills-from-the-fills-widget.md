@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Creating manual fills from the Fills widget
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/creating-manual-fills-from-the-fills-widget/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/creating-manual-fills-from-the-fills-widget/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 You can create manual fills from the Fills widget by selecting the **Create Manual Fill** right-click menu option for one or more fills selected in the widget.
 

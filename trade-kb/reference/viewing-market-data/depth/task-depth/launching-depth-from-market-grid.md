@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/depth/
 
 # Launching Depth from Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/task-depth/launching-depth-from-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/task-depth/launching-depth-from-market-grid/)
+>
+> **Interpreted in:** [Market Data & Depth § Depth widget & book imbalance](../../../../guides/market-data-and-depth.md#depth-widget-book-imbalance)
 
 The Depth widget can be launched as either a [stand-alone widget](#stand) or [linked widget](#link) per instrument from Market Grid.
 

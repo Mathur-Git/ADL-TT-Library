@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/preferences/descr
 
 # Preferences Overview
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/preferences-overview/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/preferences-overview/)
+>
+> **Interpreted in:** [Platform & Workspace § Preferences](../../../../guides/platform-and-workspace.md#preferences)
 
 Each workspace includes preferences that allow you to customize workspace appearance and trading functionality. The settings apply to all widgets opened in your workspace unless you override the preferences in the widget’s local settings.
 

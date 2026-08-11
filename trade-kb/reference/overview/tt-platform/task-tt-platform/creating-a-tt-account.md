@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/task-
 
 # Creating a TT account
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/task-tt-platform/creating-a-tt-account/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/task-tt-platform/creating-a-tt-account/)
+>
+> **Interpreted in:** [Platform & Workspace § TT accounts](../../../../guides/platform-and-workspace.md#tt-accounts)
 
 The first step to accessing the TT Platform trading environment is to create a TT account (TT ID).
 

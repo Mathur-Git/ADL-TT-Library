@@ -3,7 +3,7 @@
 Every numeric limit and non-obvious behaviour stated in the ADL documentation, in one place.
 Check this before committing to a design.
 
-[KB Home](../README.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Formulas](formula-reference.md) · [Patterns](design-patterns.md) · [Full Index](../INDEX.md)
+[ADL KB Home](../ADL-KB-Home.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Formulas](formula-reference.md) · [Patterns](design-patterns.md)
 
 ---
 

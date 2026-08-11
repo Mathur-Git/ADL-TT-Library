@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/termina
 
 # Terminal block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/terminal-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/terminal-block/)
+>
+> **Interpreted in:** [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Core Semantics § 10. What pauses or cancels an algo](../../guides/core-semantics.md#10-what-pauses-or-cancels-an-algo) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Design Patterns & Recipe Index § Risk](../../guides/design-patterns.md#risk)
 
 ### Terminal block
 

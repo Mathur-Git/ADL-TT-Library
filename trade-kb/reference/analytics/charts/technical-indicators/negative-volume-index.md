@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Negative Volume Index
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/negative-volume-index/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/negative-volume-index/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Negative Volume Index (NVI), as well as the [Positive Value Index (PVI](positive-volume-index-pvi.md)), indicator tracks the changes in the number of transactions, or trading volume, of an instrument. Price changes on decreasing trading volume are considered to be a positive indicator, while price changes during periods of increased trading volume are considered to be a negative indicator. The idea behid the indicator is that well-informed traders are involved when trading volumes decrease, while increasing trading volumes can indicate a follow-the-crowd mentality.
 

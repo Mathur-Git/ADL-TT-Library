@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Product Grid Reference
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/reference-product-grid/product-grid-reference/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/reference-product-grid/product-grid-reference/)
 
 ## Available settings
 
@@ -19,7 +19,7 @@ In the **Display** section, the following settings are available:
 
 * **Grid font size**: Adjust the font size to suit your preferences and use bold text, if
   desired.
-* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget.
+* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget.
 * **Depth increment**: Set the number of additional depth levels to show or hide when displaying
   market depth for an instrument. Tick the **Detail** box to enable detailed depth as default.
 * **Price update highlight type**: Sets whether to change the text or background color of a price cell when the price increases or decrease.

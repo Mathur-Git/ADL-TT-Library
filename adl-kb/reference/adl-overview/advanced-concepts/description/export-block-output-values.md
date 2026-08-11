@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Export block output values
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/export-block-output-values/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/export-block-output-values/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § User-defined variables](../../../../guides/algo-types.md#user-defined-variables) · [Core Semantics § 7. Virtualization](../../../../guides/core-semantics.md#7-virtualization) · [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../../trade-kb/guides/algo-ops.md#monitoring-a-running-algo)
 
 ### Export block output values
 

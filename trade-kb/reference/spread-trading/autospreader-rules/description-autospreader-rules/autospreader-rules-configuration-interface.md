@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader rules configuration interface
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration-interface/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration-interface/)
 
 Click **Create Rule** from the Autospreader® Rules widget to begin creating a rule. You can also open the Autospreader Rules **Create Rule** screen in Autospreader by clicking the “+” in the Rules field.
 

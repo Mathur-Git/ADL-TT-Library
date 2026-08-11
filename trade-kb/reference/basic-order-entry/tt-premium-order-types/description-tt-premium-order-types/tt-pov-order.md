@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premi
 
 # TT POV order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/description-tt-premium-order-types/tt-pov-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/description-tt-premium-order-types/tt-pov-order/)
+>
+> **Interpreted in:** [Order Types & Execution § TT Premium Order Types](../../../../guides/order-types-and-execution.md#tt-premium-order-types)
 
 ## Overview
 
@@ -66,7 +68,7 @@ the execution of your orders in the market.
 
 | Parameter Name | Required/Optional | Description | Default Value |
 | --- | --- | --- | --- |
-| Order Type | Required | Sets the order type for the parent order. Possible values include:  * [Market](../../order-ticket/description-order-ticket/order-types.md#market-type) * [Limit](../../order-ticket/description-order-ticket/order-types.md#limit-type) * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md#stop-limit-type) * [Stop Market](../../order-ticket/description-order-ticket/order-types.md#stop-market-type) | Market |
+| Order Type | Required | Sets the order type for the parent order. Possible values include:  * [Market](../../order-ticket/description-order-ticket/order-types.md) * [Limit](../../order-ticket/description-order-ticket/order-types.md) * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md) * [Stop Market](../../order-ticket/description-order-ticket/order-types.md) | Market |
 | Stop Price | Conditional | The desired stop order’s price level.  **Note:** Required when **Order Type** is set to either **Stop Market** or **Stop Limit**. | 0 |
 | Participation Rate | Required | Gives the trader the option to set the maximum participation rate with respect to total eligible market activity.  Ineligible market volume includes orders outside of the parent limit price and orders violating the **Block Limit** parameter. | Null |
 | Aggression | Optional | Influences how strongly to tilt order trajectory (TT Close, TT Brisk), how tightly to track max participation (TT POV, TT Scale POV), or how tightly to follow an order schedule (TT TWAP+, TT VWAP+).  For TT POV orders, this means:   * Setting to 0 provides the maximum fluctuation from the order’s setting. * Setting to 10 equals following the   **Maximum Participation** setting as closely as possible. | 5 |

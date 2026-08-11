@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # HKEx OTC Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/hkex-otc-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/hkex-otc-trades/)
 
 The Blocktrader widget supports entering the following OTC trades on HKEX:
 
@@ -95,7 +95,7 @@ To submit HKEX Internal Strategy Trades in Blocktrader:
 
 1. Select **HKEX** from the Exchange selector.
 2. Select **Internal Strategy** in the Trade Type selector.
-3. Use the [instrument picker](../task-blocktrader/submitting-trades-in-blocktrader.md#pick) to search for and select an instrument for each leg of the strategy.
+3. Use the [instrument picker](../task-blocktrader/submitting-trades-in-blocktrader.md) to search for and select an instrument for each leg of the strategy.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/blk-hkex-internal-strategy-instruments.png)
 

@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/order-management/account-l
 
 # Account List Overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/account-list/description-account-list/account-list-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/account-list/description-account-list/account-list-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Accounts & balances](../../../../guides/order-management-and-risk.md#accounts-balances)
+>
+> **Also in this section:** [Using the Account List](../task-account-list/using-the-account-list.md)
 
 The Account List widget provides the ability to quickly seed order entry screens and filter order and fill management widgets with specific accounts. Selecting an account in the Account List seeds and filters the relevant widgets open in your workspace. This gives you the ability to manage a long list of accounts and tailor your workspace to your trading needs. The account selection and filters remain when you save and reopen your workspace.
 

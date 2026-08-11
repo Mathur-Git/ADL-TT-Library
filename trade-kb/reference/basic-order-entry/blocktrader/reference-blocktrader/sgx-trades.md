@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # SGX Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/sgx-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/sgx-trades/)
 
 The TT® platform supports [SGX OTC Trades](https://www.sgx.com/).
 Using the Blocktrader widget, you can submit the following orders:

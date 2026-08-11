@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/arithmetic-blocks/subtract-b
 
 # Subtract block
 
-> Category: **Arithmetic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/subtract-block/)
+> Category: **Arithmetic Blocks** · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/subtract-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Arithmetic blocks](../../guides/block-catalog.md#arithmetic-blocks) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ### Subtract block
 

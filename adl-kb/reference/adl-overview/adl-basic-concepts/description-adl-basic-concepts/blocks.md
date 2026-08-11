@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Blocks
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/blocks/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/blocks/)
+>
+> **Interpreted in:** [ADL Block Catalog § Port type legend](../../../../guides/block-catalog.md#port-type-legend)
 
 ### Block types
 

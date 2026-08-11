@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT OCO order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-oco-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-oco-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 A TT OCO (one-cancels-other) order submits two orders of the same quantity at different price levels on the same side of the market. This order allows you to potentially lock in profits with a favorable move or prevent a downside loss without having to constantly monitor the position.
 
@@ -235,9 +237,9 @@ To set start and stop times for a TT OCO parent order:
 ### OCO details parameters
 
 * **Stop order type**: Sets the stop order type, market or limit, of the stop-loss order:
-  * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md#stop-limit-type)
-  * [Stop Market](../../order-ticket/description-order-ticket/order-types.md#stop-market-type)
-  * [TT Stop](tt-oco-order.md#basic)For TT Stop, the following TIFs can be selected if natively supported by the exchange:
+  * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md)
+  * [Stop Market](../../order-ticket/description-order-ticket/order-types.md)
+  * [TT Stop](tt-oco-order.md)For TT Stop, the following TIFs can be selected if natively supported by the exchange:
   * Day
   * GTC
   * FOK

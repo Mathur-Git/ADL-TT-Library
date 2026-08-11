@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Order Profiles Reference
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/reference-order-profiles/order-profiles-reference/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/reference-order-profiles/order-profiles-reference/)
 
 ## About the order profile upload file
 
@@ -86,8 +86,8 @@ When adding a rule or profile, you can set values in the following columns:
 | Staged Order | Indicates whether the order is a staged order. When this field is checked, the **Stage** checkbox on the Order Ticket is checked. |
 | Take-Up | Identifies who the Give-up order is allocated to. |
 | Template | Sets a TT order type template to the order. |
-| Text A | Free text field that can be [routed to the exchange](../../order-ticket/reference-order-ticket/order-ticket-reference.md#fft-table). |
-| Text B | Free text field that can be [routed to the exchange](../../order-ticket/reference-order-ticket/order-ticket-reference.md#fft-table). |
+| Text A | Free text field that can be [routed to the exchange](../../order-ticket/reference-order-ticket/order-ticket-reference.md). |
+| Text B | Free text field that can be [routed to the exchange](../../order-ticket/reference-order-ticket/order-ticket-reference.md). |
 | Text C | Free text field that is not routed to the exchange, but remains on the order in the TT system. |
 | Text TT | Free text field that is not routed to the exchange, but remains on the order in the TT system. |
 | TIF | Sets a time-in force (TIF) order restriction for the rule to apply to each order. Select a TIF from the drop-down list:  * DAY — Day orders (e.g., GTD) * GTC — Good Til Cancel * FOK — Fill Or Kill * IOC — Immediate Or Cancel   The default TIF is Day. |

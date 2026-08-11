@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Order entry for inter-product spreads
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/description-spread-matrix/order-entry-for-inter-product-spreads/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/description-spread-matrix/order-entry-for-inter-product-spreads/)
 
 Using the Spread Matrix and a floating order entry screen, you can quickly enter orders for all outrights and inter-product spreads within a single window for active spread trading. Entering an order from a floating MD Trader or Order Ticket in an inter-product Spread Matrix also creates an inter-product spread in Autospreader®.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader rules configuration
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/description-autospreader-rules/autospreader-rules-configuration/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Rule anatomy](../../../../guides/spread-trading-autospreader.md#rule-anatomy)
 
 The fields at the top of the interface are for entering a rule name and description, and defining a rule type.
 

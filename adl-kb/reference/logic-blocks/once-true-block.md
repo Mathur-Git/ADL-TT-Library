@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/logic-blocks/once-true-block
 
 # Once True block
 
-> Category: **Logic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/once-true-block/)
+> Category: **Logic Blocks** · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/once-true-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Logic blocks](../../guides/block-catalog.md#logic-blocks) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow)
 
 ### Once True block
 

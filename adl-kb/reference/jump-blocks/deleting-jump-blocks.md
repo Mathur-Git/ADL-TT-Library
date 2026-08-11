@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/jump-blocks/deleting-jump-bl
 
 # Deleting jump blocks
 
-> Category: **Jump Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/jump-blocks/deleting-jump-blocks/)
+> Category: **Jump Blocks** · [Source](https://library.tradingtechnologies.com/adl/jump-blocks/deleting-jump-blocks/)
+>
+> **Interpreted in:** [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ### Deleting Jump blocks
 

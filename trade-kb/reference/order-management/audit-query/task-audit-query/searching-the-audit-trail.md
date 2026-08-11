@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-que
 
 # Searching the audit trail
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-query/task-audit-query/searching-the-audit-trail/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-query/task-audit-query/searching-the-audit-trail/)
+>
+> **Interpreted in:** [Order Management & Risk § Audit trail / query](../../../../guides/order-management-and-risk.md#audit-trail-query)
 
 Using the Audit Query widget, you can select parameters to search for specific data in the audit trail database on TT.
 Each query can contain one or more parameters and can be saved and modified for later use.
@@ -19,7 +21,7 @@ After searching for specific data in the audit trail, you can use the widget to:
 
 To search the audit trail:
 
-1. [Open](../description-audit-query/audit-query-overview.md#open) the Audit Query widget.
+1. [Open](../description-audit-query/audit-query-overview.md) the Audit Query widget.
 2. To use an existing query, click the query selector and choose one from the drop down list.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/audit-query-select.png)
@@ -45,7 +47,7 @@ To search the audit trail:
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/audit-query-find.png)
 6. To save the search parameters as a new query, click the Save icon (![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/audit-query-modify-save.png)) and enter a query name.
-7. For filtering search results, apply a [column filter](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md#filters).
+7. For filtering search results, apply a [column filter](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md).
    Click the caret at the top of a column.
    From the dropdown, tick the checkbox next to the term(s) you would like to limit the search results to.
    Click **Ok**.

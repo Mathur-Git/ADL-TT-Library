@@ -6,16 +6,18 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/des
 
 # Fills Views
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/description-fills/fills-views/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/description-fills/fills-views/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 When launched, the Fills widget displays only fill activity for the current day. You can also display other views of the fill activity, including:
 
-* Fill [details](fills-views.md#detail) for a specific day.
-* Fills [summarized](fills-views.md#summary) by price for the current or a specific day.
-* [Individual](fills-views.md#individual) fills that make a total fill quantity for an order.
-* [Child](fills-views.md#child) order fills of a synthetic parent order.
-* All fills shown [continuously](fills-views.md#continuous) in reverse order, beginning with the current day’s fill activity.
-* [Aggregate fill quantities at each price level](fills-views.md#price) grouped by contract.
+* Fill [details](fills-views.md) for a specific day.
+* Fills [summarized](fills-views.md) by price for the current or a specific day.
+* [Individual](fills-views.md) fills that make a total fill quantity for an order.
+* [Child](fills-views.md) order fills of a synthetic parent order.
+* All fills shown [continuously](fills-views.md) in reverse order, beginning with the current day’s fill activity.
+* [Aggregate fill quantities at each price level](fills-views.md) grouped by contract.
 
 To display a list of fills for a specific day, select **Detail** from the drop-down and specify the desired date.
 

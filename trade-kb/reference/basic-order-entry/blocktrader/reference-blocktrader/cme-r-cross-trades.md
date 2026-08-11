@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # CME R-Cross Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/cme-r-cross-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/cme-r-cross-trades/)
 
 The **Blocktrader** widget supports sending [a combined RFQ and RFC Cross (R-Cross) trade at CME](https://www.cmegroup.com/confluence/display/EPICSANDBOX/RFQ+and+RFC+Cross). The exchange requires that members send a “quote request for cross” (RFQ) message prior to performing a cross trade. Using the Blocktrader widget, you can manually submit an RFQ and then submit the R-Cross trade or submit the trade within a set time interval after the RFQ is submitted.
 
@@ -31,10 +31,10 @@ The widget includes:
 9. **Price off tick** — When checked, allows you to enter an off tick price per leg for instruments that support tick sizes smaller than what is displayed.
 10. **RFQ** — Sends a “Request for Quote Response” message for the cross trade to all market participants.
 
-    **Note**: Ensure that you have selected an account for the specific exchange where you’ll be submitting the RFQ. Account selection for RFQs is set up in [Preferences | Accounts](../../../overview/preferences/description-preferences/accounts-preferences.md#rfq).
+    **Note**: Ensure that you have selected an account for the specific exchange where you’ll be submitting the RFQ. Account selection for RFQs is set up in [Preferences | Accounts](../../../overview/preferences/description-preferences/accounts-preferences.md).
 11. **Auto RFQ** — Sends a “Request for Quote Response” message for the cross trade, then automatically submits the trade after the set time interval is elapsed.
 
-    **Note**: Ensure that you have selected an account for the specific exchange where you’ll be submitting the RFQ. Account selection for RFQs is set up in [Preferences | Accounts](../../../overview/preferences/description-preferences/accounts-preferences.md#rfq).
+    **Note**: Ensure that you have selected an account for the specific exchange where you’ll be submitting the RFQ. Account selection for RFQs is set up in [Preferences | Accounts](../../../overview/preferences/description-preferences/accounts-preferences.md).
 12. **Instrument picker**: Opens the Market explorer to search for or manually select an exchange, product, and instrument.
 13. **Side** — Sets the Buyer or Seller. Click the Buyer or Seller cell to set each side of the trade.
 14. **TT Account** — Sets the executing account number as agreed between the broker and clearing member firm. This account will be used for the Buyer or Seller instead of the account selected in the order panel. The accounts listed are assigned to your username in Setup.
@@ -58,10 +58,10 @@ To submit a CME R-Cross Trade on TT:
 1. Click **Widgets** in the workspace title bar and select **Miscellaneous** | **Blocktrader**.
 2. Click the exchange selector in the Blocktrader widget and select “CME”.
 3. Click the trade type selector and select “Request for Cross”.
-4. Select a contract for each leg of the transaction using the [instrument picker](../task-blocktrader/submitting-trades-in-blocktrader.md#pick).
+4. Select a contract for each leg of the transaction using the [instrument picker](../task-blocktrader/submitting-trades-in-blocktrader.md).
 5. Select an account for routing the transaction to the exchange.
 6. Set the **Price** and **Quantity** fields for the transaction.
-7. Set the [transaction time](../task-blocktrader/submitting-trades-in-blocktrader.md#deal) for the trade.
+7. Set the [transaction time](../task-blocktrader/submitting-trades-in-blocktrader.md) for the trade.
 8. For instruments that support tick sizes smaller than what is displayed, you can check **Price off tick** to enter an off tick price for the trade.
 9. In the **Side** fields, click **Buyer** and **Seller** to determine the sides of the trade.
 10. Click **TT Account** and select the executing account number as agreed upon by the broker and clearing member firm.

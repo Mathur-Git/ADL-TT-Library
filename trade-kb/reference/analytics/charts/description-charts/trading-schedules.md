@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/descripti
 
 # Trading Schedules
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/trading-schedules/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/trading-schedules/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 The Trading Schedules widget gives you the ability to view and modify trading schedules on a per product basis.
 Trading and clearing session times are set per product by the exchange, and traders can view the trading hours of

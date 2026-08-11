@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/task-widg
 
 # Working with widget groups
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/working-with-widget-groups/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/working-with-widget-groups/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 After you create a widget group, you can use tabs within the group as well as minimize the group like it was a single
 widget.
@@ -34,7 +36,7 @@ To create a widget group:
 
 To save a custom widget:
 
-1. Create a [widget group](working-with-widget-groups.md#create-group) with the desired widgets.
+1. Create a [widget group](working-with-widget-groups.md) with the desired widgets.
    In this case, you create a group from the Market Grid, Order Ticket, and Order Book widgets, as shown.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/gs-widget-custom-1.png)

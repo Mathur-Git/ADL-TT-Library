@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/library-blocks/using-library
 
 # Using library blocks in an algo
 
-> Category: **Library Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/library-blocks/using-library-blocks-in-an-algo/)
+> Category: **Library Blocks** · [Source](https://library.tradingtechnologies.com/adl/library-blocks/using-library-blocks-in-an-algo/)
+>
+> **Interpreted in:** [ADL Block Catalog § Library →](../../guides/block-catalog.md#library-ref)
 
 After creating Library blocks, you can use them in any algo you create. To use a Library block in your algo, add it in one of the following ways:
 

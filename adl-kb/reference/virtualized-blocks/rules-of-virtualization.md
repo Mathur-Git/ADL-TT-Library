@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/virtualized-blocks/rules-of-
 
 # Rules of virtualization
 
-> Category: **Virtualized Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/virtualized-blocks/rules-of-virtualization/)
+> Category: **Virtualized Blocks** · [Source](https://library.tradingtechnologies.com/adl/virtualized-blocks/rules-of-virtualization/)
+>
+> **Interpreted in:** [ADL Block Catalog § Virtualized (a Group with Virtual = True) →](../../guides/block-catalog.md#virtualized-a-group-with-virtual-true-ref) · [Core Semantics § 7. Virtualization](../../guides/core-semantics.md#7-virtualization) · [Formula Editor Reference § Message fields](../../guides/formula-reference.md#message-fields)
 
 ### Rules of virtualization
 

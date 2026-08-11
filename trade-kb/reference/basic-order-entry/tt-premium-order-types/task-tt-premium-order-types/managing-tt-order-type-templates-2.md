@@ -6,12 +6,12 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premi
 
 # Managing TT Order Type templates
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/task-tt-premium-order-types/managing-tt-order-type-templates-2/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/task-tt-premium-order-types/managing-tt-order-type-templates-2/)
 
 Templates allow you to save frequently-used TT Order Type settings for future
 use. They let you quickly select a set of predefined values from a TT Order
 Type flyout or to assign the set of values to a
-[custom action button](../../md-trader/task-md-trader/configuring-md-trader.md#buttons) in MD
+[custom action button](../../md-trader/task-md-trader/configuring-md-trader.md) in MD
 Trader. You can create multiple templates for a specific TT Order Type as well
 as create different sets of templates for different TT Order Types. These
 templates can be selected from the drop-down to populate the order parameter

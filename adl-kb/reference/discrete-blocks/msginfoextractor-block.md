@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/msginfoextra
 
 # MsgInfoExtractor block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/msginfoextractor-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/msginfoextractor-block/)
 
 ### MsgInfoExtractor block
 

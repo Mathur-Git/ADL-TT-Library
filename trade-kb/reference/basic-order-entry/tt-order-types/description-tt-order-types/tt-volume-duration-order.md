@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Volume Duration Order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-volume-duration-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-volume-duration-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Slicing family](../../../../guides/order-types-and-execution.md#slicing-family) · [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 A TT Volume Duration order defines the total amount of traded volume needed to achieve the total order quantity.
 Users may set TT Volume Duration parameters as either a desired volume or disclosed quantity. The Interval (default)

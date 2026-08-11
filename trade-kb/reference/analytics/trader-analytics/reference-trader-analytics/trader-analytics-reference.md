@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/trader-analytics
 
 # Trader Analytics Reference
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/reference-trader-analytics/trader-analytics-reference/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/reference-trader-analytics/trader-analytics-reference/)
+>
+> **Interpreted in:** [Charts & Analytics § Trader Analytics](../../../../guides/charts-and-analytics.md#trader-analytics)
 
 ## Available settings
 
@@ -16,7 +18,7 @@ These settings affect only the selected Trader Analytics widget. To update the d
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ta-settings.png)
 
-* **Colors** — Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget.
+* **Colors** — Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget.
 * **Specific currency** — Allows you to select a currency, which automatically recalculates the values displayed in the Trader Analytics grid based on the currency selection.
 * **Set Trader Analytics Rows** — Allows you to show/hide each [row](#stats) of performance statistics.
 * **Set Trader Analytics Columns** — Allows you to show/hide each [column](#stats) in Trader Analytics.

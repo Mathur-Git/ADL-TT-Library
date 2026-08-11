@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Spread Configuration Order Execution
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Quoting and hedging](../../../../guides/spread-trading-autospreader.md#quoting-and-hedging)
+> · the **Minimum Lean Quantity** depth-walk below is also load-bearing for
+> [§ What AutoSpreader is — how the quote gets its price](../../../../guides/spread-trading-autospreader.md#what-autospreader-is)
 
 In addition to providing you with the basic spread definition and configuration settings, the Autospreader
 Configuration dialog provides you with the ability to control the quoting and hedging behavior of orders submitted for

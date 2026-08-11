@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Basis Trading Metals and FX
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/use-cases/basis-trading-metals-and-fx/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/use-cases/basis-trading-metals-and-fx/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Spread definition & formulas](../../../../guides/spread-trading-autospreader.md#spread-definition-formulas) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Tick size and the synthetic spread](../../../../guides/spread-trading-autospreader.md#tick-size-and-the-synthetic-spread)
 
 The following use cases illustrate how you can leverage Autospreader to create a strategy to capitalize on relative
 value

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Uploading orders to TT
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/uploading-orders-to-tt/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/uploading-orders-to-tt/)
 
 You can use the Order Upload feature to submit orders into the TT platform using a comma-separated
 (**.csv**) file.

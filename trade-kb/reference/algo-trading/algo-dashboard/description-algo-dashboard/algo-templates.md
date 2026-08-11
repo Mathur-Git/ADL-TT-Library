@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Algo templates
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/description-algo-dashboard/algo-templates/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/description-algo-dashboard/algo-templates/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Templates](../../../../guides/algo-ops.md#templates)
 
 Algo Dashboard provides the ability to create and manage algo templates. These templates allow you to save frequently-used variable settings for future use. For example, suppose you created an algo designed to run on different instruments, but do not want to change the instrument each time that you start the algo. Instead, you can change the instrument variable and save the algo parameters as a new template.
 

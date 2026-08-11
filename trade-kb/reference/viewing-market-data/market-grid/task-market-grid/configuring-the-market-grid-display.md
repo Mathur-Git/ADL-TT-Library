@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Configuring the Market Grid display
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/configuring-the-market-grid-display/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/configuring-the-market-grid-display/)
 
 You can configure the display of instruments and market data in the Market Grid by doing the following:
 
@@ -67,7 +67,7 @@ To change label row colors:
 **Note**: Color changes to label rows or any other Market Grid option are applied to the entire widget, including all tabs on that widget.
 
 1. Right-click in the Market Grid and select **Settings: Market Grid**.
-2. Expand the **Colors** settings and scroll to **Label Row** to [customize the colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors).
+2. Expand the **Colors** settings and scroll to **Label Row** to [customize the colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md).
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mg-color-label-row.png)
 3. Click **Apply** and **Save**.
@@ -122,7 +122,7 @@ In the **Rename Instrument** dialog box that opens, enter the new instrument nam
 
 ## Hiding instruments in the Market Grid
 
-Instruments can be hidden from view by [applying a column filter](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md#filters) to the **Contract**.
+Instruments can be hidden from view by [applying a column filter](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md) to the **Contract**.
 Hover over the right side of the **Contract** header and click the **caret**.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mg-hide-1.png)

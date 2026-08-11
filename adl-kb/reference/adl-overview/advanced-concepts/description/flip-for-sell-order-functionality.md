@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Flip for Sell Order functionality
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/flip-for-sell-order-functionality/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/flip-for-sell-order-functionality/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § OTA — Order Ticket Algo](../../../../guides/algo-types.md#ota-order-ticket-algo) · [ADL Block Catalog § Flip for Sell Order](../../../../guides/block-catalog.md#flip-for-sell-order) · [Design Patterns & Recipe Index § Bi-directional algos](../../../../guides/design-patterns.md#bi-directional-algos) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Rule anatomy](../../../../../trade-kb/guides/spread-trading-autospreader.md#rule-anatomy)
 
 Many automated strategies in ADL will have nearly identical buy and sell side routines, with certain blocks acting as “pivot” points. As such, several blocks in ADL have Flip for Sell Order functionality, which enables them to perform an alternate function depending on the user’s selection of the **Order Side** variable (either Buy or Sell). For example, when this functionality is enabled, the [Add](../../../arithmetic-blocks/add-block.md) block will either perform an addition or a subtraction depending on the value of the **Order Side** variable.
 

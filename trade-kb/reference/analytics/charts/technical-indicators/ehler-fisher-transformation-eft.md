@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Ehler Fisher Transformation (EFT)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/ehler-fisher-transformation-eft/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/ehler-fisher-transformation-eft/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 Ehler Fisher Transformation indicator tries to identify significant price reversals by normalizing
 prices over a user-specified number of periods. A reversal signal is suggested when the two lines cross.

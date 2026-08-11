@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/de
 
 # Home Page
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/home-page/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/home-page/)
+>
+> **Interpreted in:** [Platform & Workspace § TT accounts](../../../../guides/platform-and-workspace.md#tt-accounts)
 
 After you [log in](https://library.tradingtechnologies.com/trade/ttw-logging-in-to-tradett.html) to TT, you’ll land on the Customer Portal **Home** page.
 

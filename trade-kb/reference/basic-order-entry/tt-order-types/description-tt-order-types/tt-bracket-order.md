@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Bracket order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-bracket-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-bracket-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 A TT Bracket order submits a Limit or Stop order accompanied by an OCO (one-cancels-other) order. When the original Limit or Stop order is filled, the child OCO order is automatically submitted. The OCO is set with a profit target offset and a stop loss offset from the price the trader places the original order. For each partial / full fill of the TT Bracket Limit order, a [TT OCO order](tt-oco-order.md) will be launched. The TT Bracket and TT OCO orders allow you to potentially lock in profits with a favorable move or prevent a downside loss without having to constantly monitor the position.
 
@@ -28,11 +30,11 @@ Limit order. However, if the 2-lot OCO Stop Limit order is triggered first, it s
 ### Order details
 
 * **Order type**: Sets the order type for the parent TT Bracket entry order.Possible values include:
-  * [Limit](../../order-ticket/description-order-ticket/order-types.md#limit-type)
-  * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md#stop-limit-type)
+  * [Limit](../../order-ticket/description-order-ticket/order-types.md)
+  * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md)
       
     **Payup**: Sets the number of ticks away from the Stop price to submit a Limit order.
-  * [Stop Market](../../order-ticket/description-order-ticket/order-types.md#stop-market-type)
+  * [Stop Market](../../order-ticket/description-order-ticket/order-types.md)
 * **Profit target**: Sets the initial price for the profit order in the OCO pair:
   * Price = Entry Order Fill Price + Profit target setting, if the TT Bracket order was a bid.
   * Price = Entry Order Fill Price – Profit target setting, if the TT Bracket order was an offer.
@@ -43,9 +45,9 @@ Limit order. However, if the 2-lot OCO Stop Limit order is triggered first, it s
   * [Stop Limit](https://library.tradingtechnologies.com/trade/order-entry-order-types.html#stop-limit-type)
   * [Stop Market](https://library.tradingtechnologies.com/trade/order-entry-order-types.html#stop-market-type)
 * **Stop order type**: Sets the stop order type, market or limit, of the stop-loss order:
-  * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md#stop-limit-type)
-  * [Stop Market](../../order-ticket/description-order-ticket/order-types.md#stop-market-type)
-  * [TT Stop](tt-oco-order.md#basic)For a TT Stop child order submitted as part of a TT OCO order, you can override/select the TIF of the native child order submitted by the TT Stop. The following TIFs can be selected if natively supported by the exchange:
+  * [Stop Limit](../../order-ticket/description-order-ticket/order-types.md)
+  * [Stop Market](../../order-ticket/description-order-ticket/order-types.md)
+  * [TT Stop](tt-oco-order.md)For a TT Stop child order submitted as part of a TT OCO order, you can override/select the TIF of the native child order submitted by the TT Stop. The following TIFs can be selected if natively supported by the exchange:
   * Day
   * GTC
   * FOK

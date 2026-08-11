@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/analyti
 
 # Analytics block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/analytics-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/analytics-block/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Market data, bars and indicators](../../guides/design-patterns.md#market-data-bars-and-indicators) · [Gotchas, Hard Limits & Platform Constraints § Hard numeric limits](../../guides/gotchas-and-limits.md#hard-numeric-limits) · [Gotchas, Hard Limits & Platform Constraints § Environment restrictions](../../guides/gotchas-and-limits.md#environment-restrictions) · [Charts & Analytics](../../../trade-kb/guides/charts-and-analytics.md) · [Charts & Analytics § Technical indicators](../../../trade-kb/guides/charts-and-analytics.md#technical-indicators)
 
 The Analytics block generates bar data for an instrument. The Analytics block creates a numeric representation of a standard bar chart, similar to the following. You define the duration of a bar and how many rolling bars of data you want the block to store. As each new bar is added, the oldest bar is dropped.
 
@@ -349,7 +351,7 @@ This indicator adds the following to the Analytics block:
     + HighLowCloseClose/4 : (High + Low + Close + Close) / 4
     + OpenHighLowClose/4 : (Open + High + Low + Close) / 4
 
-For detailed information about this indicator, see [RSI](https://library.tradingtechnologies.com/trade/chrt-ti-rsi.html) in the Charts section of the Trade application help.
+For detailed information about this indicator, see [RSI](../../../trade-kb/reference/analytics/charts/technical-indicators/rsi.md) in the Charts section of the Trade application help.
 
 #### Standard Deviation
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/positions
 
 # Positions reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/reference-positions/positions-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/reference-positions/positions-reference/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 ## Context menu
 

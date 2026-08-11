@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Copying a rule
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/task-autospreader-rules/copying-a-rule/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/task-autospreader-rules/copying-a-rule/)
 
 ### To copy a rule
 

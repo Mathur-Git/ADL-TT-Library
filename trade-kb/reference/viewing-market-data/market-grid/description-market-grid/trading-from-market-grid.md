@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Trading from Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/description-market-grid/trading-from-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/description-market-grid/trading-from-market-grid/)
 
 You can trade from the Market Grid by opening an Order Ticket or MD Trader widget for the instrument you wish to trade. You can open a widget for a specific contract as a Floating Order Entry widget, linked widget, or widget group. As you trade, your positions and working orders are displayed in the Market Grid.
 

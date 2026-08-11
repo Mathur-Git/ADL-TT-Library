@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/preferences/descr
 
 # Options Preferences
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/options-preferences/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/options-preferences/)
+>
+> **Interpreted in:** [Platform & Workspace § Preferences](../../../../guides/platform-and-workspace.md#preferences)
 
 Use the Options tab to specify the level of precision displayed for Greeks and options risk metrics columns in all Options widgets.
 

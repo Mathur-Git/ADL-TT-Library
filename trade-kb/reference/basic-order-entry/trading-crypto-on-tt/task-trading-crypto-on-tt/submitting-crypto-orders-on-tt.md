@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Submitting crypto orders on TT
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/task-trading-crypto-on-tt/submitting-crypto-orders-on-tt/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/task-trading-crypto-on-tt/submitting-crypto-orders-on-tt/)
 
 Using MD Trader or the Order Ticket on the TT® platform, you can submit orders for all supported crypto instruments on the following exchanges:
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/note-bl
 
 # Note block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/note-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/note-block/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Organisation and reuse](../../guides/design-patterns.md#organisation-and-reuse)
 
 ### Note block
 

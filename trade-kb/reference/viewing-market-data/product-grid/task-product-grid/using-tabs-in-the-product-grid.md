@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Using Tabs in the Product Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/using-tabs-in-the-product-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/using-tabs-in-the-product-grid/)
 
 You can use tabs to organize your instruments by doing the following:
 

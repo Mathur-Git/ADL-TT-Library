@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/price-block/
 
 # Price block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/price-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/price-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § User-defined variables](../../guides/algo-types.md#user-defined-variables)
 
 ### Price block
 

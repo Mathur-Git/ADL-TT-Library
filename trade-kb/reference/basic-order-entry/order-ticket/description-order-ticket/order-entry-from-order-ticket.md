@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Order entry from Order Ticket
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/order-entry-from-order-ticket/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/order-entry-from-order-ticket/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Ticket](../../../../guides/order-types-and-execution.md#order-ticket)
 
 Order Ticket provides a compact widget for entering orders for a single, pre-selected instrument. From an Order
 Ticket, you can supply all of the information for an order and easily submit the order by clicking the appropriate
@@ -56,7 +58,7 @@ additional parameters. For example, the following shows a fly-out dialog for a T
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tto-param-flyout-ot-1.png)
 
-**Note:** You can click ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-hamburger-icon-2.png) to display the available [templates](../../tt-order-types/description-tt-order-types/tt-order-type-templates.md) and ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-flyout-icon-2.png) to display all of the parameters in a [flyout](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md#tto-parameters).
+**Note:** You can click ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-hamburger-icon-2.png) to display the available [templates](../../tt-order-types/description-tt-order-types/tt-order-type-templates.md) and ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-flyout-icon-2.png) to display all of the parameters in a [flyout](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md).
 
 For quicker access to order templates, you can display the template selector by enabling **Algo
 templates** from the **Show/Hide** context menu.
@@ -72,7 +74,7 @@ automatically listed in the TIF drop-down.
 
 ## Free-form text fields
 
-[Free-form text fields](../reference-order-ticket/order-ticket-reference.md#fft-table) allow you to send optional or additional information
+[Free-form text fields](../reference-order-ticket/order-ticket-reference.md) allow you to send optional or additional information
 with an order.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-free-form-overview.png)

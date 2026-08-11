@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Algo Dashboard overview
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/description-algo-dashboard/algo-dashboard-overview/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/description-algo-dashboard/algo-dashboard-overview/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Algo Dashboard vs Autotrader](../../../../guides/algo-ops.md#algo-dashboard-vs-autotrader)
 
 The Algo Dashboard lets you deploy, launch, and manage algos built using various tools such as ADL and TT Algo SDK.
 Using the Algo Dashboard, you can launch an algo, modify it’s settings, and select a co-located data center nearest

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Sniper (OTA)
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-sniper-ota/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-sniper-ota/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table) · [Order Types & Execution § Order Ticket Algos (OTA) — TT Pro license](../../../../guides/order-types-and-execution.md#order-ticket-algos-ota-tt-pro-license)
 
 TT Sniper is an Order Ticket Algo (OTA) that allows you to hide your intent to buy or sell at a given price until
 there is quantity available at that price on the opposite side of the market.

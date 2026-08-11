@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Submitting a block trade with the Order Ticket
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/submitting-a-block-trade-with-the-order-ticket/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/submitting-a-block-trade-with-the-order-ticket/)
 
 You can submit block trades using the Order Ticket in the Market Grid widget. In the Order Ticket, the **Block** Order Type is only available for exchanges (e.g., EEX) and accounts that support block trades.
 

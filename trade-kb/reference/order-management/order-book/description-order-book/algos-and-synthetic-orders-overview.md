@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Algos and synthetic orders overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/description-order-book/algos-and-synthetic-orders-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/description-order-book/algos-and-synthetic-orders-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 An algo or synthetic order is an order managed within TT that submits orders to the exchanges. A synthetic order consists of a parent order and the child orders it submits to the exchanges. TT supports a variety of synthetic orders, including:
 

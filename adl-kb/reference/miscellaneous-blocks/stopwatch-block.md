@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/stopwat
 
 # Stopwatch block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/stopwatch-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/stopwatch-block/)
+>
+> **Interpreted in:** [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Core Semantics § 11. Recovery and server maintenance](../../guides/core-semantics.md#11-recovery-and-server-maintenance) · [Core Semantics § 12. Do not design around assumed latency](../../guides/core-semantics.md#12-do-not-design-around-assumed-latency) · [Design Patterns & Recipe Index § Order entry](../../guides/design-patterns.md#order-entry) · [Design Patterns & Recipe Index § Exits and position management](../../guides/design-patterns.md#exits-and-position-management)
 
 ### Stopwatch block
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Euronext Wholesale Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/euronext-wholesale-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/euronext-wholesale-trades/)
 
 On the Optiq platform, all wholesale trades supported by Euronext are managed via a single interface. Reporting of Against Actuals, Exchange for Swaps, and Large in Scale trades are combined into a single technical facility.
 

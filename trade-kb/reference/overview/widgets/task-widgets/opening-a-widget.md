@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/task-widg
 
 # Opening a widget
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/opening-a-widget/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/opening-a-widget/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 You can open a widget from the Widgets menu, search, or Market Explorer. When opening a widget from the widgets menu, you can select an instrument to display in the widget using search or the Market Explorer. Once the widget is opened, you can also open linked widgets or custom widgets.
 

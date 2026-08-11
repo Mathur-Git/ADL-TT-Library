@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Spread Configuration Spread Review
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/spread-configuration-spread-review/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/spread-configuration-spread-review/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Tick size and the synthetic spread](../../../../guides/spread-trading-autospreader.md#tick-size-and-the-synthetic-spread)
 
 After configuring the legs of the spread and selecting your price display or formula, the spread prices display in the Spread Preview pane. This ladder shows the number of current bids and offers at each price level in the market, which allows you to preview what is displayed in the MD Trader® Spread pane before launching the spread.
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/order-passing/task-
 
 # Passing and accepting orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-passing/task-order-passing/passing-and-accepting-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-passing/task-order-passing/passing-and-accepting-orders/)
 
 Using the Order Book widget or orders pane of the Order and Fills widget, you can pass partially filled, held,
 modified, or unchanged working orders including the following:

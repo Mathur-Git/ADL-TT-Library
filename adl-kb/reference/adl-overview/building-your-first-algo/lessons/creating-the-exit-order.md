@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/building-your-f
 
 # Creating the exit order
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/creating-the-exit-order/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/creating-the-exit-order/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Exits and position management](../../../../guides/design-patterns.md#exits-and-position-management) · [Design Patterns & Recipe Index § Testing](../../../../guides/design-patterns.md#testing)
 
 In this section, you will create an exit order a number of ticks above the average open price you calculated in the previous [Capturing fills data](capturing-fills-data.md) section. The exit order will use the accumulated fill quantity of the entry order as its order quantity and will add a number of ticks to the average open position as its order price.
 

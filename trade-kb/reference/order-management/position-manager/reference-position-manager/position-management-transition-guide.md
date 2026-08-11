@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Position Management Transition Guide
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/reference-position-manager/position-management-transition-guide/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/reference-position-manager/position-management-transition-guide/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 This guide directs you to the Trade widgets that deliver the same position management functionality and data that is available in Monitor.
 
@@ -19,7 +21,7 @@ The position management functionality available within the **Positions** tab of 
 Using the Position widget, you can:
 
 * [Group open positions and P/L](../../positions/task-positions/displaying-positions-by-group.md).
-* [Customize the data displayed](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md#choosing-columns) by choosing which columns you want to see and arranging the order in which the columns appear. The following [Positions widget columns](../../../basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference.md) were also displayed in Monitor:
+* [Customize the data displayed](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md) by choosing which columns you want to see and arranging the order in which the columns appear. The following [Positions widget columns](../../../basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference.md) were also displayed in Monitor:
   * WrkBuy
   * WrkSell
   * BalanceUsed %
@@ -52,8 +54,8 @@ The **Orders** tab in Monitor provides you the ability to view or cancel working
 
 Using the Order Book widget, you can:
 
-* Apply [filters](../../order-book/reference-order-book/order-book-reference.md#ob-reference-filter-columns) and sort your order book columns by account, contract, exchange and more.
-* [Customize the data displayed](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md#choosing-columns) by choosing which columns you want to see and arranging the order in which the columns appear.
+* Apply [filters](../../order-book/reference-order-book/order-book-reference.md) and sort your order book columns by account, contract, exchange and more.
+* [Customize the data displayed](../../../overview/widgets/task-widgets/organizing-the-widgets-menu.md) by choosing which columns you want to see and arranging the order in which the columns appear.
 
 ## Deleting an order using Force Cancel
 
@@ -87,7 +89,7 @@ To create a manual fill:
 1. In the workspace menu bar, click **Widgets** | **Miscellaneous** | **Position Manager**.
 
    **Tip**: You can also open Positions Manager by clicking **Create Manual Fill** from the context menu when selecting a row in the Positions widget.
-2. Select [Admin Fills](../description-position-manager/position-manager-overview.md#admin) or [Local Fills](../description-position-manager/position-manager-overview.md#local) as the manual fill mode and click **+ Add Row**.
+2. Select [Admin Fills](../description-position-manager/position-manager-overview.md) or [Local Fills](../description-position-manager/position-manager-overview.md) as the manual fill mode and click **+ Add Row**.
 3. Enable the following optional settings as needed:
    * **Price off tick** — If checked, allows you to enter an off tick price per leg for instruments that support tick sizes smaller than what is displayed.
 

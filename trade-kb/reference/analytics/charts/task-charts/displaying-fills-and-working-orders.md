@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
 # Displaying fills and working orders
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/displaying-fills-and-working-orders/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/displaying-fills-and-working-orders/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 In a chart, you can display fills and working orders, as well as track your fills by time interval or by position.
 
@@ -35,10 +37,10 @@ To display fills:
 2. Optionally, click the **From** field to set a date and time to begin displaying trading activity in the chart.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/chrt-charts-interval.png)
-3. To [group fills by interval](../description-charts/chart-trading.md#interval), click **Group By** and select **Interval**.
+3. To [group fills by interval](../description-charts/chart-trading.md), click **Group By** and select **Interval**.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/chrt-charts-group1.png)
-4. To [group fills by position](../description-charts/chart-trading.md#position), click **Group By** and select
+4. To [group fills by position](../description-charts/chart-trading.md), click **Group By** and select
    **Positions**.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/chrt-charts-group2.png)

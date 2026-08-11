@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Linking Excel Data to the Algo Dashboard
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/linking-excel-data-to-the-algo-dashboard/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/linking-excel-data-to-the-algo-dashboard/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § User-defined variables](../../../../guides/algo-types.md#user-defined-variables) · [Algo Ops: Dashboard, Autotrader & Excel § Driving algo variables from Excel (linking)](../../../../../trade-kb/guides/algo-ops.md#driving-algo-variables-from-excel-linking)
 
 By leveraging the Autotrader Widget, users can populate user variables with RTD Excel data in the Algo Dashboard. There are two methods to populate values from Excel into ADL.
 

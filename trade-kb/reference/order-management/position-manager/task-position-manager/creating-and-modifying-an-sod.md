@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Creating and modifying an SOD
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/creating-and-modifying-an-sod/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/creating-and-modifying-an-sod/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 **Note**: As an administrator, the “Update positions” setting must be enabled in Setup for each account available to you in order to create or modify an SOD or that account. Also, only one SOD record can exist per account and contract.
 

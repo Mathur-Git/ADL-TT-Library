@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Selecting an Order Profile for trading
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/selecting-an-order-profile-for-trading/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/selecting-an-order-profile-for-trading/)
 
 As you click on different profiles in Order Profiles, order entry widgets are automatically seeded with the best match rules for each profile.
 

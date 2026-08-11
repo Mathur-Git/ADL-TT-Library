@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/building-your-f
 
 # Testing the entry logic
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/testing-the-entry-logic/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/testing-the-entry-logic/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Testing](../../../../guides/design-patterns.md#testing)
 
 In this topic, you will test your entry order logic to make sure your algo submits the desired entry orders. In the process of testing the algo, you will:
 

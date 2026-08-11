@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/autotrader/ta
 
 # Launching an algo in Autotrader
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/launching-an-algo-in-autotrader/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/launching-an-algo-in-autotrader/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § From Autotrader](../../../../guides/algo-ops.md#from-autotrader)
 
 To set up and launch an algo in Autotrader:
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Submitting care orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/submitting-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/submitting-care-orders/)
 
 From within your TT workspace, care orders can be submitted using the Order Ticket.
 

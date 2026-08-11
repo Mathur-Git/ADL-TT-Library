@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Aroon (AR)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/aroon-ar/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/aroon-ar/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Aroon (AR) indicator developed by Tushar Chande attempts to determine whether an instrument is trending and how strong is the trend. **Aroon Up** and **Aroon Down** lines make up the indicator with their formulas below. According to Chande, when the Aroon Up/Down values exceed 70, it indicates a strong upward or downward trend. Values below 50 indicate that the corresponding trends are weakening,
 

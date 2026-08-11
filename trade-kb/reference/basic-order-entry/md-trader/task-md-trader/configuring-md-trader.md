@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Configuring MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/configuring-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/configuring-md-trader/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Templates](../../../../guides/algo-ops.md#templates)
 
 To configure MD Trader:
 
@@ -18,7 +20,7 @@ To configure MD Trader:
    configure the following settings:
 
    * [Display](../reference-md-trader/md-trader-reference.md#display)
-   * [Order Entry (Local only)](../reference-md-trader/md-trader-reference.md#order-local)
+   * [Order Entry (Local only)](../reference-md-trader/md-trader-reference.md)
    * [Set custom action buttons](#buttons)
 3. Click **Apply** and **Save**.
 
@@ -32,7 +34,7 @@ To set context menu options:
 1. Right-click the Order Entry Panel, Header Panel, or Column Headers in the MD Trader widget to open the context
    menu.
 
-   For a description of each setting, refer to [MD Trader Reference](../reference-md-trader/md-trader-reference.md#contextmenu).
+   For a description of each setting, refer to [MD Trader Reference](../reference-md-trader/md-trader-reference.md).
 
 ## Adding custom action buttons
 
@@ -88,7 +90,7 @@ To add a custom action button:
    to verify how the title will appear on the button in MD Trader.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mdt-custom-button2-1.png)
-6. If you have created [order templates](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md#order-templates) for a TT Order
+6. If you have created [order templates](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md) for a TT Order
    Type or custom algo, you can select the template to assign to the button. When the button is clicked, the order
    will automatically use the values defined in the template, and will not display the fly-out.
 

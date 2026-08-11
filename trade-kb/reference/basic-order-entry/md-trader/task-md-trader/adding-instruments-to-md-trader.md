@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Adding instruments to MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/adding-instruments-to-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/adding-instruments-to-md-trader/)
 
 You can use Search or Market Explorer to add instruments to a new or existing MD Trader widget.
 

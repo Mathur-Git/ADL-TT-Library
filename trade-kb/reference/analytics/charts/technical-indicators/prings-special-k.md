@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Pring’s Special K
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/prings-special-k/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/prings-special-k/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Pring’s Special K indicator combines short-term, intermediate and long-term velocity into one complete series, thereby giving us true summed cyclicality. It has two functions: to identify primary trend reversals at a relatively early stage and to use that information for timing short-term pro-trend price moves.
 

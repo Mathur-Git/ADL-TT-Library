@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # Direct Entry (MMA)
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/direct-entry-mma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/direct-entry-mma/)
+>
+> **Interpreted in:** [Order Types & Execution § Market-Making Algos (MMA)](../../../../guides/order-types-and-execution.md#market-making-algos-mma)
 
 Direct Entry is a type of [Market-Making Algo](../../../algo-trading/market-making-algos/market-making-algos.md). A
 direct entry order type submits the quoting orders based on the direct price supplied in the **Bid

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-split
 
 # Stitching and Splitting Overview
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-splitting/description-stitching-and-splitting/stitching-and-splitting-overview/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-splitting/description-stitching-and-splitting/stitching-and-splitting-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 The TT® OMS provides [stitching](#stitch) and [splitting](#split) tools that allow you to
 combine and fill multiple care orders simultaneously.
@@ -24,7 +26,7 @@ the net spread price of the child care order legs.
 Stitching a spread order automatically creates a remainder “tail” order when the spread leg quantities do not exactly match.
 Any excess quantity can be traded separately as an outright once the stitch is created.
 
-You can [stitch care orders](../task-stitching-and-splitting/stitching-and-splitting-care-orders.md#stitch) using the Order Book
+You can [stitch care orders](../task-stitching-and-splitting/stitching-and-splitting-care-orders.md) using the Order Book
 widget or orders pane of the Order and Fills widget. Orders stitched using the context menu in these widgets must
 have the same product and quantity and opposite Buy/Sell direction. Bulked and split orders can also be stitched
 using these widgets.
@@ -46,7 +48,7 @@ quantities that match, and work the remaining quantities as a separate order.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/oms-split-result1.png)
 
-You can [split care orders](../task-stitching-and-splitting/stitching-and-splitting-care-orders.md#split) using the Order Book
+You can [split care orders](../task-stitching-and-splitting/stitching-and-splitting-care-orders.md) using the Order Book
 widget or orders pane of the Order and Fills widget. Split actions are also allowed for partially and fully filled
 unallocated split orders with no working child orders.
 

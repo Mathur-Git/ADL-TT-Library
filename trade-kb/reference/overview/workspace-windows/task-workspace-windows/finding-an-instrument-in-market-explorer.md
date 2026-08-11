@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Finding an instrument in Market Explorer
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/finding-an-instrument-in-market-explorer/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/finding-an-instrument-in-market-explorer/)
+>
+> **Interpreted in:** [Platform & Workspace § Finding instruments](../../../../guides/platform-and-workspace.md#finding-instruments)
 
 After creating or opening a workspace, you can find an instrument in the Market Explorer in either
 Basic mode or Advanced mode and open it in a selected widget. You can also find instruments and [drag them](#drag) to widgets already opened in the workspace.

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Entering orders for an aggregated instrument
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/entering-orders-for-an-aggregated-instrument/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/entering-orders-for-an-aggregated-instrument/)
 
 You can submit an aggregated instrument order the same way you submit an order for an exchange-traded instrument.
 For an aggregated instrument, you can submit an order in the [MD

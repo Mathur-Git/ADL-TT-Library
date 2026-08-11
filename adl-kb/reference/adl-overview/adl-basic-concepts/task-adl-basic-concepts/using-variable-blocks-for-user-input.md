@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Using variable blocks for user input
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/using-variable-blocks-for-user-input/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/using-variable-blocks-for-user-input/)
 
 ### Configuring a variable Instrument block to get user-defined input
 

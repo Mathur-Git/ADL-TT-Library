@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/arithmetic-blocks/round-bloc
 
 # Round block
 
-> Category: **Arithmetic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/round-block/)
+> Category: **Arithmetic Blocks** · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/round-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Arithmetic blocks](../../guides/block-catalog.md#arithmetic-blocks) · [Gotchas, Hard Limits & Platform Constraints § Pre-flight checklist](../../guides/gotchas-and-limits.md#pre-flight-checklist)
 
 ### Round block
 

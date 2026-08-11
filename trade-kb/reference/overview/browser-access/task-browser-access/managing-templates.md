@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/ta
 
 # Managing templates
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/managing-templates/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/managing-templates/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 As a company administrator, you can do the following for all users in your company:
 

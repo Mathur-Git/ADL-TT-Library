@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Balance of Power
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/balance-of-power/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/balance-of-power/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Balance of Power (BOP) indicator measures a price trend by evaluating the strength of buy and sell signals, determining how strongly the price moves extreme high and low levels. The BOP oscillates beween -1 and 1, with positive values indicating stronger buying pressure and negative values indicating strong selling pressure. When the indicator gets closer to zero, it indicates that the strength of the buyers and sellers is equalizing.
 

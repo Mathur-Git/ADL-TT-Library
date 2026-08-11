@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/bulking/description
 
 # Bulking Overview
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/bulking/description-bulking/bulking-overview/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/bulking/description-bulking/bulking-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 The Bulking functionality in TT® OMS allows you to combine multiple care orders with the same instrument and
 Buy/Sell direction into a single care order for more efficient execution. You can submit orders for the individual

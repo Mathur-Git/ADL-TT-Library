@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Launching a Synthetic Spread
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/task-autospreader/launching-a-synthetic-spread/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/task-autospreader/launching-a-synthetic-spread/)
 
 Launching a spread makes the spread available for trading as a single instrument. You launch the spread from the Autospreader widget.
 

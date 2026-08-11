@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Algo deployment and approvals
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/algo-deployment-and-approvals/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/algo-deployment-and-approvals/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § Deployment and approval](../../../../guides/algo-types.md#deployment-and-approval) · [Algo Ops: Dashboard, Autotrader & Excel § Quick troubleshooting](../../../../../trade-kb/guides/algo-ops.md#quick-troubleshooting)
 
 After you begin developing an algo in ADL, you can save it at any point. When an algo has been tested, you can deploy
 the algo to make it available in Trade widgets, such as [Algo

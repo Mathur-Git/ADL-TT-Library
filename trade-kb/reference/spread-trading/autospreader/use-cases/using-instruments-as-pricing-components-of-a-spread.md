@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Using instruments as pricing components of a spread
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/use-cases/using-instruments-as-pricing-components-of-a-spread/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/use-cases/using-instruments-as-pricing-components-of-a-spread/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Spread definition & formulas](../../../../guides/spread-trading-autospreader.md#spread-definition-formulas)
 
 Autospreader allows users to designate one or more legs of a spread solely as pricing components. This enables a user to configure and trade a spread with an instrument that is neither quoted nor hedged and doesn’t require position limits. For example, you can configure a spread with Mar17 contracts for ICE Futures U.S. Cocoa (CC) and London Cocoa (C) as the spread legs, and British Pound Futures (6B) as a component in calculating the spread price.
 

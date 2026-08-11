@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Williams % R (WillR)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/williams-r-willr/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/williams-r-willr/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The %R indicator was developed by Larry Williams and introduced in his 1979 book How I Made $1,000,000 Trading Commodities Last Year. Williams %R is similar to a stochastic oscillator, as it normalizes the price as a percentage between 0 and 100. It is basically an inverted version of the ‘Raw %K’ value of a Fast Stochastic.
 

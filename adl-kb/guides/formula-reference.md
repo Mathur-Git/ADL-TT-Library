@@ -5,7 +5,7 @@ block properties as a `Formula` / `Formulas` / `Qty Formula` / `Condition Formul
 
 → [Formula Editor](../reference/adl-overview/advanced-concepts/description/formula-editor.md)
 
-[KB Home](../README.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md)
+[ADL KB Home](../ADL-KB-Home.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md)
 
 ---
 

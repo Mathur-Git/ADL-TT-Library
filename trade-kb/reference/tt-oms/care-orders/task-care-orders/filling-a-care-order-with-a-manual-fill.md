@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Filling a care order with a manual fill
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/filling-a-care-order-with-a-manual-fill/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/filling-a-care-order-with-a-manual-fill/)
 
 TT provides the ability to fill a care order in the care order account with a manual fill and simultaneously create an offsetting fill in your own account, allowing you to fill customer orders with the firm level position in mind. An offsetting manual fill is created with the same price and quantity as the original manual fill, but in the opposite Buy/Sell direction.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/task-widg
 
 # Copying order data
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/copying-order-data/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/copying-order-data/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 You can copy order data from an entire row or an individual cell in grid-based widgets such as Order Book, Orders and
 Fills,

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Highlighting incoming fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/highlighting-incoming-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/highlighting-incoming-fills/)
 
 You can enable the **Highlight new fills** setting to display highlight fills that are received after you open the widget. Fills are highlighted with color-coded backgrounds.
 

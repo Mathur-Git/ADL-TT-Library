@@ -6,11 +6,13 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # OCO 2 OMA
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/oco-2-oma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/oco-2-oma/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Management Algos (OMA) — applied to existing orders](../../../../guides/order-types-and-execution.md#order-management-algos-oma-applied-to-existing-orders)
 
 The OCO 2 OMA lets you select two orders and apply an OCO (one-cancels-other) OMA to them. When one order is fully-filled, the other order is canceled. Also, when partial fills are received for one order, the quantity of the other order is reduced accordingly.
 
-**Note:** For an overview of Order Management Algos (OMA), refer to [https://library.tradingtechnologies.com/trade/oma-overview.html](https://library.tradingtechnologies.com/trade/oma-overview.html)
+**Note:** For an overview of Order Management Algos (OMA), refer to [Order Management Algos (OMA) overview](../../../algo-trading/order-management-algos-omas/order-management-algos-oma-overview.md)
 
 The OCO 2 OMA also supports an “order building” mode that lets you dynamically build an OMA from existing or new orders in [MD Trader](../../md-trader/description-md-trader/md-trader-overview.md). You can then select existing orders or create new orders to be managed by the OMA. New orders are added to MD Trader in a held state so they don’t start working until the OMA is launched.
 

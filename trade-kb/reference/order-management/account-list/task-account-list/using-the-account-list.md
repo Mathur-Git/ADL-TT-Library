@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/account-l
 
 # Using the Account List
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/account-list/task-account-list/using-the-account-list/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/account-list/task-account-list/using-the-account-list/)
 
 To use the Account List:
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # GFO-X Block Orders
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/gfo-x-block-orders/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/gfo-x-block-orders/)
 
 The TT® platform supports [GFO-X](https://www.gfo-x.com/) block trades using the TT Blocktrader widget, you can submit the following orders:
 

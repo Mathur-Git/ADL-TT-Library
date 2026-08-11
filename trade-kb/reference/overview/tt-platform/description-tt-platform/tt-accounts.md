@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/descr
 
 # TT Accounts
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/tt-accounts/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/tt-accounts/)
+>
+> **Interpreted in:** [Platform & Workspace § TT accounts](../../../../guides/platform-and-workspace.md#tt-accounts)
 
 In order to access the TT platform, you have to [create a TT account](../task-tt-platform/creating-a-tt-account.md) (TT ID). You can create a TT account and trade as a directly-billed user or as a member of an FCM or trading firm. Each type of user can manage their TT account and account settings from within the Trade application using the TT menu bar.
 

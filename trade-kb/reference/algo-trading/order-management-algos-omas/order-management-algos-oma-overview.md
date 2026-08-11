@@ -6,11 +6,13 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/order-managem
 
 # Order Management Algos (OMA) overview
 
-> Category: **Algo Trading** · [KB Home](../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/order-management-algos-omas/order-management-algos-oma-overview/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/order-management-algos-omas/order-management-algos-oma-overview/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Order Management Algos (OMAs)](../../../guides/algo-ops.md#order-management-algos-omas)
 
 An Order Management Algo (OMA) is an algo that can take control of and manage one or more orders. When an OMA takes control of an order, it can use its internal logic to manage the order in the market, such as updating the order’s price or quantity. An OMA can also modify one order it manages based on activity on another order it manages, such as canceling or reducing the quantity of one order as another order is filled.
 
-You can use [Existing Order](../../../../adl-kb/reference/trading-blocks/existing-order-block.md) blocks in an [ADL](/adl) algo to create your own custom OMAs. Based on how you want to select the orders for an OMA to manage, you can create the following types of OMAs:
+You can use [Existing Order](../../../../adl-kb/reference/trading-blocks/existing-order-block.md) blocks in an [ADL](https://library.tradingtechnologies.com/adl/) algo to create your own custom OMAs. Based on how you want to select the orders for an OMA to manage, you can create the following types of OMAs:
 
 * [Order Book OMAs](#ob-omas), which can be launched for existing orders from the [Order Book](../../order-management/order-book/description-order-book/order-book-overview.md) and [Floating Order Book](../../order-management/floating-order-book/description-floating-order-book/floating-order-book-overview.md) widgets.
 * [Order-builder OMAs](#mdt-omas), which can be launched directly from [MD Trader](../../basic-order-entry/md-trader/description-md-trader/md-trader-overview.md) to create new orders or to take control of existing orders.
@@ -38,7 +40,7 @@ You can also launch an OMA for a single existing order, or multiple existing ord
 1. Select an OMA to apply to the selected orders.
 2. Select an OMA to apply to a single order.
 
-The [OCO](https://library.tradingtechnologies.com/trade/oma-oco-public-algo.html) public OMA is an example of an Order Book OMA that can be launched from the Order Book and Floating Order Book widgets.
+The [OCO](../../basic-order-entry/tt-order-types/description-tt-order-types/oco-oma.md) public OMA is an example of an Order Book OMA that can be launched from the Order Book and Floating Order Book widgets.
 
 ## MD Trader order-building OMAs
 
@@ -56,7 +58,7 @@ When you select an OMA from the MD Trader Order Type dropdown, order-building mo
 
 After you launch the OMA, any new orders you added to the OMA order are put into working state and become active in the market.
 
-The [Conditional](https://library.tradingtechnologies.com/trade/oma-conditional-public-algo.html), [OCO 2](https://library.tradingtechnologies.com/trade/oma-oco2-public-algo.html) and [MinVol](https://library.tradingtechnologies.com/trade/oma-minvol-public-algo.html) TT public OMAs are examples of MD Trader order-building OMAs.
+The [Conditional](../../basic-order-entry/tt-order-types/description-tt-order-types/conditional-oma.md), [OCO 2](../../basic-order-entry/tt-order-types/description-tt-order-types/oco-2-oma.md) and [MinVol](../../basic-order-entry/tt-order-types/description-tt-order-types/minvol-oma.md) TT public OMAs are examples of MD Trader order-building OMAs.
 
 ### Images on page
 - https://library.tradingtechnologies.com/wp-content/uploads/2025/12/oma-ob-launch-params.png

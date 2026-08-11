@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/routing-
 
 # Routing portion calculations
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/description-routing-rules/routing-portion-calculations/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/description-routing-rules/routing-portion-calculations/)
+>
+> **Interpreted in:** [Order Types & Execution § Routing rules](../../../../guides/order-types-and-execution.md#routing-rules)
 
 When a routing rule is applied to an order, the total order quantity is divided based on the Buy/Sell portions assigned in the selected routing rule.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # CSV file format for uploading fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/reference-position-manager/csv-file-format-for-uploading-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/reference-position-manager/csv-file-format-for-uploading-fills/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 When [uploading fills to TT](https://library.tradingtechnologies.com/trade/pm-uploading-fills-to-tt.html), the CSV file must adhere to the following rules:
 

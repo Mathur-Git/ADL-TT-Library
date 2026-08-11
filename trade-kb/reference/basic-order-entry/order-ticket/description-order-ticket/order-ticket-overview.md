@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Order Ticket Overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/order-ticket-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/order-ticket-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Ticket](../../../../guides/order-types-and-execution.md#order-ticket)
+>
+> **Also in this section:** [Docking an Order Ticket](../use-cases-order-ticket/docking-an-order-ticket.md)
 
 An Order Ticket allows you to submit orders for contracts in a Market Grid, including the exchange and instrument name, order price and quantity, trading account, order type, and time-in-force.
 

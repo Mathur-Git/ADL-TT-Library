@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Accessing your algos
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/accessing-your-algos/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/accessing-your-algos/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § Deployment and approval](../../../../guides/algo-types.md#deployment-and-approval)
 
 Algos you create using ADL are associated with your TT login, so you can open and save them from any system. You can also export and import algos as JSON (**.json**) files if you want to backup your algos or share them with other users.
 

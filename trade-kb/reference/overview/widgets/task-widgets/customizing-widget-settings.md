@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/task-widg
 
 # Customizing widget settings
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/customizing-widget-settings/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/customizing-widget-settings/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 Many Trade widgets allow you to customize the content, behavior, and appearance of their respective widgets. You can
 access the widget settings from the widget’s context menu. The **Settings** section lists the things you

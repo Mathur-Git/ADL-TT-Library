@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Viewing crypto market data on TT
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt/)
 
 You can view market data for crypto instruments in the MD Trader, Market Grid, Time and Sales, and Charts widgets.
 

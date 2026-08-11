@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Trading on B3 overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-on-b3/trading-on-b3-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-on-b3/trading-on-b3-overview/)
 
 The B3 exchange, formerly BVMF, was established in 2008 by a merger between the São Paulo Stock Exchange and Brazilian Mercantile & Futures Exchange. B3 is located in São Paulo, Brazil and offers you access to trading stocks, currencies, commodities, and futures on one exchange.
 

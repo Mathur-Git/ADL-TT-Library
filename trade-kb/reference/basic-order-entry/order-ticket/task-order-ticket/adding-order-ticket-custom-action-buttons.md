@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Adding Order Ticket custom action buttons
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/adding-order-ticket-custom-action-buttons/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/adding-order-ticket-custom-action-buttons/)
 
 If you frequently use one or more order types, you can add custom action buttons to the Order Ticket for each order type instead of selecting it from the order type selector. Custom action buttons can be added for:
 
@@ -36,7 +36,7 @@ To add custom action buttons to the Order Ticket:
 
    **Tip**: When adding a manual fill button to the Order Ticket for a care order, scroll to the bottom
    of the order types list to select “Manual Fill”.
-3. If you have created [order templates](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md#order-templates) for a TT Order Type or custom algo, click **Template** and select the template to assign to the button.
+3. If you have created [order templates](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md) for a TT Order Type or custom algo, click **Template** and select the template to assign to the button.
 
    When the button is clicked, the order will automatically use the values defined in the template, and will not display the fly-out.
 4. Optionally, click the **Label** field to customize the button name.

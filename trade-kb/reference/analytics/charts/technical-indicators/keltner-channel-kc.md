@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Keltner Channel (KC)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/keltner-channel-kc/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/keltner-channel-kc/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Keltner Channel was introduced in 1960 by Chester W. Keltner in his book *How To Make Money in Commodities*, and is also explained by Perry Kaufman’s book *The New Commodity Trading Systems and Methods*. Keltner Channels plots three lines, consisting of a simple moving average (typically of the average price) with upper and lower bands plotted above and below this moving average. The width of the bands is based on a user defined factor applied to the [Average True Range](average-true-range-atr.md), with this result added to and subtracted from the middle moving average line.
 

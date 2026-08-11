@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Getting alerts for new fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/getting-alerts-for-new-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/getting-alerts-for-new-fills/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 You can display new fills in a Fill Alerts widget by enabling the **Display Fill Alert widget on new fills** setting.
 

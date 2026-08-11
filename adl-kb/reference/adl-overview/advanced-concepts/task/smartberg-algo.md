@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Smartberg Algo
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/smartberg-algo/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/smartberg-algo/)
 
 **Please note that all samples in the help library are intended for
 educational purpose to give insight into ways to approach building different

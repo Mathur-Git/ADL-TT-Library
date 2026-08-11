@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Time and Timers in TT ADL
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/time-and-timers-in-tt-adl/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/time-and-timers-in-tt-adl/)
+>
+> **Interpreted in:** [Core Semantics § 12. Do not design around assumed latency](../../../../guides/core-semantics.md#12-do-not-design-around-assumed-latency) · [Design Patterns & Recipe Index § Exits and position management](../../../../guides/design-patterns.md#exits-and-position-management) · [Design Patterns & Recipe Index § Time and scheduling](../../../../guides/design-patterns.md#time-and-scheduling)
 
 ### Time and Timers in TT ADL
 

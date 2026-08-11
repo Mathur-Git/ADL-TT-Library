@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Schaff Trend Cycle (STC)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/schaff-trend-cycle-stc/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/schaff-trend-cycle-stc/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Schaff Trend Cycle (STC) indicator is an oscillator that provides buy and sell signals for trading and identifies market trends. Buy and sell points are typically set at 25 levels upward (buy) and 75 levels downward (sell).
 

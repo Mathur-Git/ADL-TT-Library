@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Reviewing and approving orders
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/reviewing-and-approving-orders/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/reviewing-and-approving-orders/)
 
 Using the following columns in the Order Book widget, you can inform users sharing an account that an order is
 available for review as a form of order confirmation:

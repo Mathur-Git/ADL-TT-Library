@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/virtualized-blocks/virtualiz
 
 # Virtualized blocks overview
 
-> Category: **Virtualized Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/virtualized-blocks/virtualized-blocks-overview/)
+> Category: **Virtualized Blocks** · [Source](https://library.tradingtechnologies.com/adl/virtualized-blocks/virtualized-blocks-overview/)
 
 ### Virtualized blocks overview
 

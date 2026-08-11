@@ -3,7 +3,7 @@
 The execution model. Most ADL bugs are not wiring mistakes; they are misunderstandings of the rules
 on this page.
 
-[KB Home](../README.md) · [Block Catalog](block-catalog.md) · [Formulas](formula-reference.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md) · [Full Index](../INDEX.md)
+[ADL KB Home](../ADL-KB-Home.md) · [Block Catalog](block-catalog.md) · [Formulas](formula-reference.md) · [Patterns](design-patterns.md) · [Gotchas](gotchas-and-limits.md)
 
 ---
 

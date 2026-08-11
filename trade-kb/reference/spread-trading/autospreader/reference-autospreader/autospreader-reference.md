@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader Reference
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/reference-autospreader/autospreader-reference/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/reference-autospreader/autospreader-reference/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Spread definition & formulas](../../../../guides/spread-trading-autospreader.md#spread-definition-formulas) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Tick size and the synthetic spread](../../../../guides/spread-trading-autospreader.md#tick-size-and-the-synthetic-spread)
 
 ### Spread configuration parameters
 

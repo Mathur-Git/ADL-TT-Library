@@ -6,9 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-split
 
 # Managing stitched and split Care Orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-splitting/task-stitching-and-splitting/managing-stitched-and-split-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-splitting/task-stitching-and-splitting/managing-stitched-and-split-care-orders/)
 
-Stitched care orders can be filled the same way as other care orders by clicking the “B/S” (Buy/Sell) control button [to submit child orders to the exchange](../../care-orders/task-care-orders/submitting-related-child-orders.md). You can also [create manual fills](../../care-orders/task-care-orders/assigning-fills-to-care-orders.md#manual) or use the [Assign Fills](../../care-orders/task-care-orders/assigning-fills-to-care-orders.md) context menu option to fill the order.
+Stitched care orders can be filled the same way as other care orders by clicking the “B/S” (Buy/Sell) control button [to submit child orders to the exchange](../../care-orders/task-care-orders/submitting-related-child-orders.md). You can also [create manual fills](../../care-orders/task-care-orders/assigning-fills-to-care-orders.md) or use the [Assign Fills](../../care-orders/task-care-orders/assigning-fills-to-care-orders.md) context menu option to fill the order.
 
 **Note**: When assigning fills to a stitched exchange-traded instrument, you can only assign fills to the parent stitched order and not to the child care orders or working child orders.
 

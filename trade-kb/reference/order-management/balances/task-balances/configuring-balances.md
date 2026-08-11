@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/balances/
 
 # Configuring Balances
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/balances/task-balances/configuring-balances/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/balances/task-balances/configuring-balances/)
 
 An account which has been enabled for Pre-Trade Portfolio Risk must first be selected for Balances and Margin values to display.
 

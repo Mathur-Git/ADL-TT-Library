@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/trading-in-
 
 # Configuring and displaying yield
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/task-trading-in-yield/configuring-and-displaying-yield/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/task-trading-in-yield/configuring-and-displaying-yield/)
 
 Using the Yield widget, you can configure and display prices in yield for Futures or Treasury Bonds in TT. Yield configurations can also be created from Autospreader or MD Trader.
 

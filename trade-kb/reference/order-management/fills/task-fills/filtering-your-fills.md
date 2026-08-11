@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Filtering your fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/filtering-your-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/filtering-your-fills/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 You can also sort or filter the list based on values for a column. If you hover the mouse cursor over the right side of a column title, the cursor changes to a hand to let you know you can use it to change the display. For example, if you want to sort or filter the display by contracts, you would hover over the **Contract** column and click the mouse.
 

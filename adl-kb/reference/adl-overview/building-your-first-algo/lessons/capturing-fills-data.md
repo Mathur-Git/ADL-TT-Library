@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/building-your-f
 
 # Capturing fills data
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/capturing-fills-data/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/capturing-fills-data/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Testing](../../../../guides/design-patterns.md#testing) · [Order Management & Risk § See also (ADL side)](../../../../../trade-kb/guides/order-management-and-risk.md#see-also-adl-side)
 
 In this section, you will create the logic to extract data from your entry order fills and use the data to calculate your running average open price. The average open price will later be used to calculate the exit price of our Scalper algo.
 
@@ -22,8 +24,8 @@ This section covers:
 
 Data passed between blocks in ADL are referred to as messages. The two types of messages in ADL are:
 
-* [Continuous Messages](../../adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages.md#continuous): a continuous input of specified data.
-* [Discrete Messages](../../adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages.md#discrete): an individual message sent at a specific point in time, triggered by an event, storing details about the event in fields.
+* [Continuous Messages](../../adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages.md): a continuous input of specified data.
+* [Discrete Messages](../../adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages.md): an individual message sent at a specific point in time, triggered by an event, storing details about the event in fields.
 
 Thus far, the blocks of the Scapler algo use continuous messages:
 
@@ -31,7 +33,7 @@ Thus far, the blocks of the Scapler algo use continuous messages:
 * The [Field](../../../trading-blocks/field-block.md) block continuously outputs the Best Bid price for the selected instrument.
 * The [Number](../../../basic-blocks/number-block.md) block provides a continuous output of 5.
 
-Next, you will use [discrete event messages](../../adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages.md#discrete) such as those emitted through the **Entry Order** block’s fills output port which outputs an individual discrete message for each fill that occurs using the orders placed by this block.
+Next, you will use [discrete event messages](../../adl-basic-concepts/description-adl-basic-concepts/continuous-vs-discrete-event-messages.md) such as those emitted through the **Entry Order** block’s fills output port which outputs an individual discrete message for each fill that occurs using the orders placed by this block.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/bfa-scalper-fiils-dm.png)
 

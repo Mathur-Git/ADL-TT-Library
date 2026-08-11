@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Handling External Events
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/handling-external-events/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/handling-external-events/)
+>
+> **Interpreted in:** [Core Semantics § Losing control of an order](../../../../guides/core-semantics.md#losing-control-of-an-order)
 
 The Order block, Discrete Order block, and Single Order Container block are used to manage orders in ADL. One of the properties of these blocks is named “When Ext Mod Occurs”. This property dictates a block’s behavior when the order that it is managing is externally modified. It has three possible values:
 

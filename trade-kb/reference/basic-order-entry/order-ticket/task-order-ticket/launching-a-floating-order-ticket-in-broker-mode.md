@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Launching a floating Order Ticket in Broker Mode
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/launching-a-floating-order-ticket-in-broker-mode/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/launching-a-floating-order-ticket-in-broker-mode/)
 
 **Note**: Before using this procedure, make sure the [Broker mode](../reference-order-ticket/order-ticket-reference.md) setting is enabled in the selected Order Ticket.
 

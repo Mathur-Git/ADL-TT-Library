@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/existing-orde
 
 # Existing Order block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/existing-order-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/existing-order-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § The four types](../../guides/algo-types.md#the-four-types) · [Algo Types, Launching & Deployment § OMA — Order Management Algo](../../guides/algo-types.md#oma-order-management-algo) · [Core Semantics § 9. Order block vs Discrete Order block vs Single Order...](../../guides/core-semantics.md#9-order-block-vs-discrete-order-block-vs-single-order-container) · [Algo Ops: Dashboard, Autotrader & Excel § Order Management Algos (OMAs)](../../../trade-kb/guides/algo-ops.md#order-management-algos-omas)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tb-existing-order-block.png)
 

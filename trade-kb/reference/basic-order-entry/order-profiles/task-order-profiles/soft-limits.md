@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Soft Limits
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/soft-limits/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/soft-limits/)
 
 Soft limit pre-trade risk settings are user-defined thresholds configured in the **Soft Limits** tab of the **[Order Profiles widget](../description-order-profiles/order-profiles-overview.md)** for native order types (excluding TT Order Types). These limits are used to monitor and manage risk prior to trade execution.
 
@@ -14,7 +14,7 @@ Soft limits can be created and configured by an end user within the local Order 
 
 Soft Limits are only applied to Native Order Types.
 
-Descriptions for each column are detailed in the [Order profile columns section](../../../viewing-market-data/depth/reference-depth/depth-reference.md#columns).
+Descriptions for each column are detailed in the [Order profile columns section](../../../viewing-market-data/depth/reference-depth/depth-reference.md).
 
 Unlike hard limits, soft limits generate notifications when specified risk thresholds are reached, but they do not prevent order submission or execution.
 

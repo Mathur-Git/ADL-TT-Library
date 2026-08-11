@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/floating-
 
 # Modifying an order in the Floating Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/modifying-an-order-in-the-floating-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/modifying-an-order-in-the-floating-order-book/)
 
 To make a change to an order using the Floating Order Book:
 

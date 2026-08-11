@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Trailing Limit order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-trailing-limit-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-trailing-limit-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 A TT Trailing Limit order submits a native limit exchange order into the market then dynamically adjusts the price to stay within a specified distance of the market if it moves away. This means:
 
@@ -74,7 +76,7 @@ To set start and stop times for a TT Trailing Limit parent order:
    The Order Book shows the status of the future order.
    * **A** – The **Status** is **Working**, which indicates the TT Trailing Limit parent order is working on the Algo Server.
    * **B** – The **SynthStatus** is **Waiting**, which indicates the order has not yet started working in the market. When the start time is reached, the **SynthStatus** will also change to **Working**.
-   * **C** – Because a TT Trailing Limit parent order cannot determine the initial price of a future order, it cannot be displayed in the ladder so displays the order as a callout. For more information, see [.](../../md-trader/description-md-trader/trading-with-md-trader.md#timed-order-display)
+   * **C** – Because a TT Trailing Limit parent order cannot determine the initial price of a future order, it cannot be displayed in the ladder so displays the order as a callout. For more information, see [.](../../md-trader/description-md-trader/trading-with-md-trader.md)
 
 ## TT Trailing Limit order parameters
 

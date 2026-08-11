@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/bulking/task-bulkin
 
 # Managing a bulked order
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/bulking/task-bulking/managing-a-bulked-order/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/bulking/task-bulking/managing-a-bulked-order/)
 
 You can fill or modify the bulked order the same as other care orders using the Order Book or orders pane in the
 Order and Fills widget.

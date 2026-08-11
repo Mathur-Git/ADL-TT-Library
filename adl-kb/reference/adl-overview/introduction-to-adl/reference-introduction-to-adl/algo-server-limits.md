@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/introduction-to
 
 # Algo Server limits
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/reference-introduction-to-adl/algo-server-limits/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/reference-introduction-to-adl/algo-server-limits/)
+>
+> **Interpreted in:** [Gotchas, Hard Limits & Platform Constraints § Algo Server capacity](../../../../guides/gotchas-and-limits.md#algo-server-capacity) · [Platform & Workspace § Algos & Autospreader preferences (load-bearing for auto...](../../../../../trade-kb/guides/platform-and-workspace.md#algos-autospreader-preferences-load-bearing-for-automated-strategies) · [Platform & Workspace § Mock trading and UAT — the two pre-production environments](../../../../../trade-kb/guides/platform-and-workspace.md#mock-trading-and-uat-the-two-pre-production-environments)
 
 ### Algo Servers in Production
 

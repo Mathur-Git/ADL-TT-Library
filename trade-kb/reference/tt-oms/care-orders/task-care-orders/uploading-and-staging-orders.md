@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Uploading and staging orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/uploading-and-staging-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/uploading-and-staging-orders/)
 
 Using the [Order Upload feature in the Order Book](../../../order-management/order-book/task-order-book/uploading-orders-to-tt.md), orders can be imported to TT and then submitted as care orders.
 
@@ -25,7 +25,7 @@ To upload and stage orders:
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/co-upload-stage-button.png)
 
-   The orders appear as staged orders in the Order Book and can be claimed. If alerts are enabled, [claim the care orders using the alert notification](claiming-and-unclaiming-care-orders.md#alert).
+   The orders appear as staged orders in the Order Book and can be claimed. If alerts are enabled, [claim the care orders using the alert notification](claiming-and-unclaiming-care-orders.md).
 
    The claimed orders appear in the Order Book.
 

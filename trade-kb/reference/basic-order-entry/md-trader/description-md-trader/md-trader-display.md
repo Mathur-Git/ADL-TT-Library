@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # MD Trader Display
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/md-trader-display/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/md-trader-display/)
 
 The MD Trader display consists of the following:
 
@@ -30,9 +30,9 @@ The MD Trader display consists of the following:
 
 In MD Trader, you can configure the display of the following:
 
-* [Row height](../task-md-trader/configuring-md-trader.md#row-height)
-* [Order Entry Panel width](../task-md-trader/configuring-md-trader.md#resize)
-* [Font size](../task-md-trader/configuring-md-trader.md#font)
+* [Row height](../task-md-trader/configuring-md-trader.md)
+* [Order Entry Panel width](../task-md-trader/configuring-md-trader.md)
+* [Font size](../task-md-trader/configuring-md-trader.md)
 
 ←[Previous PostMD Trader overview](md-trader-overview.md)
 

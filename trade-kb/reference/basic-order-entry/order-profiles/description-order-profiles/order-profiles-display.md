@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Order Profiles Display
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/description-order-profiles/order-profiles-display/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/description-order-profiles/order-profiles-display/)
 
 The Order Profiles widget consists of the following components:
 
@@ -25,7 +25,7 @@ The components are:
 8. **Rules panel** — Displays rules available per profile.
 9. **Local and Admin Rules tabs** — The **Local** tab shows rules added or uploaded locally to an Order Profile in Trade. The **Admin Rules** tab shows rules added to an Order Profile as Order Tag Defaults in Setup. The rules on this tab cannot be edited.
 10. **Key field columns** — Provides key fields for selecting order defaults. Best match rules are selected by the Trade application based on the key field columns: **Prod**, **Exch**, **Group**, and **Type**. The **Use** column indicates if the rule is available for order entry. Uncheck this column to deactivate the rule.
-11. **Variable field columns** — Provides variable fields to apply to an order based on a best match of the key fields. When a best match rule is found, values in the following variable [field columns](../../../viewing-market-data/depth/reference-depth/depth-reference.md#columns) are applied to the order.
+11. **Variable field columns** — Provides variable fields to apply to an order based on a best match of the key fields. When a best match rule is found, values in the following variable [field columns](../../../viewing-market-data/depth/reference-depth/depth-reference.md) are applied to the order.
 12. **Add Rule button** — Adds a new rule to the rules panel. Double-click the cell in each column to add a new value for the rule.
 13. **Publish button** — Broadcasts an uploaded profile to all users in your company. This button is active when a profile has been uploaded using the Order Profiles widget.
 14. **Edit button** — Allows you to add or remove a profile. Also allows you to add, change, or remove rules for a profile selected in the profiles panel. Changed column cells or rows are highlighted yellow until the changes are saved. Refer to [Order Profiles Edit Mode](#edit-mode) for more details.

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Recentering MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/recentering-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/recentering-md-trader/)
 
 As the best bid and ask quantities move up or down the static price display, you can re-center the market by bringing the center bar back to the midpoint.
 
@@ -20,8 +20,8 @@ To recenter MD Trader:
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mdt-center.png)
 2. Optionally, you can set the following options in the **Settings: MD Trader** menu to automatically recenter MD Trader:
-   * [Auto recenter grid (seconds)](configuring-md-trader.md#recenter-seconds)
-   * [Recenter when market has moved (ticks)](configuring-md-trader.md#recenter-ticks)
+   * [Auto recenter grid (seconds)](configuring-md-trader.md)
+   * [Recenter when market has moved (ticks)](configuring-md-trader.md)
 
 ←[Previous PostConfiguring MD Trader](configuring-md-trader.md)
 

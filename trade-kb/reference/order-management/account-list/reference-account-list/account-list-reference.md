@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/account-l
 
 # Account List Reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/account-list/reference-account-list/account-list-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/account-list/reference-account-list/account-list-reference/)
+>
+> **Interpreted in:** [Order Management & Risk § Accounts & balances](../../../../guides/order-management-and-risk.md#accounts-balances)
 
 ## Available settings
 

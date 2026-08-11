@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Vortex Indicator
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/vortex-indicator/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/vortex-indicator/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Vortex Indicator consists of two oscillators (VI+ and VI-) used for identifying the start and direction of a market trend. When the VI+ and VI- cross, it generally indicates a market trend. The trend is up when VI+ stays above VI-, and the market trend is down when VI- crosses below VI+.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/hedge-manag
 
 # Support for Order Management Algos (OMAs)
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/description-hedge-manager/support-for-order-management-algos-omas/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/description-hedge-manager/support-for-order-management-algos-omas/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Hedge Manager](../../../../guides/spread-trading-autospreader.md#hedge-manager)
 
 ### Support for Order Management Algos (OMAs)
 

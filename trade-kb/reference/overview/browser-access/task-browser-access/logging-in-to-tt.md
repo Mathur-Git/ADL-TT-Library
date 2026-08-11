@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/ta
 
 # Logging in to TT
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/logging-in-to-tt/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/logging-in-to-tt/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 To log in to TT:
 

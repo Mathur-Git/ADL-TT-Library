@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Modifying Multiple Algo Parameters for Working Child Algo Orders
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/task-algo-dashboard/modifying-multiple-algo-parameters-for-working-child-algo-orders/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/task-algo-dashboard/modifying-multiple-algo-parameters-for-working-child-algo-orders/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../guides/algo-ops.md#monitoring-a-running-algo)
 
 ## Modifying Multiple Algo Parameters for Working Child Algo Orders
 

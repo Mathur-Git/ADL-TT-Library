@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Trading with MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/trading-with-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/trading-with-md-trader/)
+>
+> **Interpreted in:** [Order Types & Execution § The ADL bridge](../../../../guides/order-types-and-execution.md#the-adl-bridge) · [Order Types & Execution § MD Trader mechanics](../../../../guides/order-types-and-execution.md#md-trader-mechanics)
 
 —
 widget: mdt
@@ -62,7 +64,7 @@ Note: The list includes only ADL algos and Order Ticket Algos (OTAs) you have pe
 ### Custom action buttons
 
 The Custom Action Buttons allow you to quickly submit an order type without having to select one from the drop-down list of
-order types for each order. You can add these buttons by right-clicking and selecting **Edit custom action buttons…**. For more information, refer to the [Adding Custom Action Buttons](../task-md-trader/configuring-md-trader.md#buttons) section.
+order types for each order. You can add these buttons by right-clicking and selecting **Edit custom action buttons…**. For more information, refer to the [Adding Custom Action Buttons](../task-md-trader/configuring-md-trader.md) section.
 
 The **Liquidate** button is also an optional setting and provides you with the ability to quickly flatten your
 position. To show this button, right-click the Order Entry Panel and select **Show/hide** | **Liquidate
@@ -98,7 +100,7 @@ after each trade.
 Note You can edit the quantity buttons by right-clicking and selecting **Edit quantity buttons…**.
 
 The second default order quantity field provides the ability to right-click in the Bids and Asks column at a price
-level to submit an order with a different default order quantity. This feature is enabled in the [MD Trader settings](../reference-md-trader/md-trader-reference.md#order-local).
+level to submit an order with a different default order quantity. This feature is enabled in the [MD Trader settings](../reference-md-trader/md-trader-reference.md).
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/trade-mdt-order-qty.png)
 
@@ -182,7 +184,7 @@ appear in the working orders column.
 |  | Appears when submitting TT order types (e.g., TT Time Sliced) or native order types (Iceberg) with disclosed and undisclosed quantities. The cell is highlighted blue for buy orders, red for sell orders or yellow when the price level contains both buy and sell orders. Abbreviations include:   * W — Working order quantity. * B — Order quantity bought. * S — Order quantity sold. * E — Sum of order quantities when a price level has both buy and sell orders. * D — Disclosed order quantity. * U — Undisclosed order quantity |
 
 You can also display only the working order quantities at each price level by enabling **Display only the
-working qty for orders** in the [MD Trader settings](../reference-md-trader/md-trader-reference.md#columns).
+working qty for orders** in the [MD Trader settings](../reference-md-trader/md-trader-reference.md).
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/trade-mdt-work-only-qty.png)
 
@@ -194,7 +196,7 @@ MD Trader can show your actual or estimated position in queue in the optional **
 
 ### Enabling PIQ
 
-PIQ can be enabled either in [Preferences](../../../overview/preferences/description-preferences/orders-preferences.md) or by showing the PIQ column  in the [MD Trader settings](../reference-md-trader/md-trader-reference.md#columns). When this setting is enabled, the **PIQ** column displays the PIQ values
+PIQ can be enabled either in [Preferences](../../../overview/preferences/description-preferences/orders-preferences.md) or by showing the PIQ column  in the [MD Trader settings](../reference-md-trader/md-trader-reference.md). When this setting is enabled, the **PIQ** column displays the PIQ values
 for visible orders.
 
 ### PIQ display

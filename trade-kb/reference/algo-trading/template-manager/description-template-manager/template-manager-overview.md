@@ -6,9 +6,11 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/template-mana
 
 # Template Manager overview
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/template-manager/description-template-manager/template-manager-overview/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/template-manager/description-template-manager/template-manager-overview/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Templates](../../../../guides/algo-ops.md#templates)
 
-The Template Manager widget lets you quickly create, modify and manage [algo templates](../../algo-dashboard/description-algo-dashboard/algo-templates.md) for your algos. You can easily [add new](../../algo-dashboard/task-algo-dashboard/managing-algo-templates.md#add-template) templates for existing algos, as well as [clone](../../algo-dashboard/task-algo-dashboard/managing-algo-templates.md#clone-template) and [modify](../../algo-dashboard/task-algo-dashboard/managing-algo-templates.md#modify-template) existing templates, letting you quickly tweak templates for different strategies.
+The Template Manager widget lets you quickly create, modify and manage [algo templates](../../algo-dashboard/description-algo-dashboard/algo-templates.md) for your algos. You can easily [add new](../../algo-dashboard/task-algo-dashboard/managing-algo-templates.md) templates for existing algos, as well as [clone](../../algo-dashboard/task-algo-dashboard/managing-algo-templates.md) and [modify](../../algo-dashboard/task-algo-dashboard/managing-algo-templates.md) existing templates, letting you quickly tweak templates for different strategies.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tm-overview.png)
 

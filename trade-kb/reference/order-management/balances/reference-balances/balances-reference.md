@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/balances/
 
 # Balances Reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/balances/reference-balances/balances-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/balances/reference-balances/balances-reference/)
+>
+> **Interpreted in:** [Order Management & Risk § Accounts & balances](../../../../guides/order-management-and-risk.md#accounts-balances)
 
 The Balances widget can display the following values – there are three columns:
 

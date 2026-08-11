@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Confirming Fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/confirming-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/confirming-fills/)
 
 You can confirm fills in the Fills widget by using:
 

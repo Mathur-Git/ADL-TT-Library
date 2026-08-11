@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Eurex and EEX Wholesale Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/eurex-and-eex-wholesale-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/eurex-and-eex-wholesale-trades/)
 
 Blocktrader supports submitting Eurex and EEX wholesale trade types.
 **Note**: EEX only supports Block trades.

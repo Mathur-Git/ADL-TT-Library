@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Submitting an Autospreader Order
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/task-autospreader/submitting-an-autospreader-order/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/task-autospreader/submitting-an-autospreader-order/)
 
 You can submit synthetic spread orders the same way as you submit orders for exchange-traded instruments. For example, you can submit the spread order in MD Trader by specifying the order type, TIF and quantity and clicking a price level, as shown. In this example, the spread is configured to submit quoting orders for both legs.
 

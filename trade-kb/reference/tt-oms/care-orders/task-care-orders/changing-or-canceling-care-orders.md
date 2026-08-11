@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Changing or canceling care orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/changing-or-canceling-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/changing-or-canceling-care-orders/)
 
 Based on their role in submitting or managing the order, users can make requests to [change a care
 order](#changing) or [cancel a care order](#canceling). Requests can be made via the Order Book widget in TT

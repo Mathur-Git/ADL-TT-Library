@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/single-order-
 
 # Single Order Container block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/single-order-container-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/single-order-container-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § OMA — Order Management Algo](../../guides/algo-types.md#oma-order-management-algo) · [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Core Semantics § 9. Order block vs Discrete Order block vs Single Order...](../../guides/core-semantics.md#9-order-block-vs-discrete-order-block-vs-single-order-container) · [Gotchas, Hard Limits & Platform Constraints § Orders](../../guides/gotchas-and-limits.md#orders) · [Order Types & Execution § The ADL bridge](../../../trade-kb/guides/order-types-and-execution.md#the-adl-bridge)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tb-single-order-container.png)
 

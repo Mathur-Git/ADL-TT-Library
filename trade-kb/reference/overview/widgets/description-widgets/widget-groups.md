@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/descripti
 
 # Widget Groups
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/widget-groups/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/widget-groups/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 You can combine two or more individual widgets to create a single widget group. The widget group displays a single titlebar and can be managed as a single entity, so you can resize, reposition, delete the group just as you would an individual widget. The following examples show some different ways you can combine widgets into a widget group to suit your trading preferences. The first example shows orders and fills in one widget. Note that the contents of each widget group are displayed in the title bar.
 

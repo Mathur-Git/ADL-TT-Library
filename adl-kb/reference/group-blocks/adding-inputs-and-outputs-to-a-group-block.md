@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/group-blocks/adding-inputs-a
 
 # Adding inputs and outputs to a Group block
 
-> Category: **Group Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/group-blocks/adding-inputs-and-outputs-to-a-group-block/)
+> Category: **Group Blocks** · [Source](https://library.tradingtechnologies.com/adl/group-blocks/adding-inputs-and-outputs-to-a-group-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Group →](../../guides/block-catalog.md#group-ref)
 
 You can add ports to a Group block directly to the block or add them to the internal algo within the Group block.
 
@@ -51,7 +53,6 @@ To add ports to a Group block from within the block:
 
 ←[Previous PostCreating a Group block](creating-a-group-block.md)
 
-[Next PostGroup blocks video](group-blocks-video.md)→
 
 ### Images on page
 - https://library.tradingtechnologies.com/wp-content/uploads/2025/12/gb-new-port-outside-block-1.png

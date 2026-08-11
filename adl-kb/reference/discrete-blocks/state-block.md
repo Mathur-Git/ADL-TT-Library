@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/state-block/
 
 # State block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/state-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/state-block/)
+>
+> **Interpreted in:** [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Design Patterns & Recipe Index § Order entry](../../guides/design-patterns.md#order-entry) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/db-state-block.png)
 

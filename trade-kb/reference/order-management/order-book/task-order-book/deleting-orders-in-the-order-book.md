@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Deleting orders in the Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/deleting-orders-in-the-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/deleting-orders-in-the-order-book/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 To delete working orders, select the orders you want to delete and click ![Cancel](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/btn-cancel-3.png).
 

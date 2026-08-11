@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/task-widg
 
 # Drag-and-drop instruments between widgets
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/drag-and-drop-instruments-between-widgets/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/task-widgets/drag-and-drop-instruments-between-widgets/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 You can drag-and-drop a single instrument or multiple instruments between grid-based widgets. To drag-and-drop a
 single instrument: select the instrument in the source widget, then drag-and-drop it to another widget.

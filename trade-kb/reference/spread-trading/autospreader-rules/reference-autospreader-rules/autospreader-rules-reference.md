@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader Rules reference
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/reference-autospreader-rules/autospreader-rules-reference/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader-rules/reference-autospreader-rules/autospreader-rules-reference/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Leg attributes worth knowing for tick/price logic](../../../../guides/spread-trading-autospreader.md#leg-attributes-worth-knowing-for-tickprice-logic) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § TT's built-in rules most relevant to thin/one-tick-wide...](../../../../guides/spread-trading-autospreader.md#tts-built-in-rules-most-relevant-to-thinone-tick-wide-markets)
 
 ### Leg attributes
 
@@ -57,7 +59,7 @@ The leg attributes in the following table are not specific to a single leg, but 
 | CompletelyFilledSpreadUnits | The fill quantity of the spread order based on “matching” filled quote and hedge leg quantities that complete a single spread unit. A spread “unit” (as defined in the spread configuration) is not completely filled until the corresponding quote and hedge legs are completely filled. |
 | NumberOfLegs | The number of leg instruments in the synthetic spread. |
 | NumberOfQuotingLegs | The number of legs with Active Quoting enabled in the spread configuration. |
-| User-Defined Variable | Supported as launch-time-only variables, meaning that these variables may not change in value dynamically. Explain how to declare user-defined variables and set values for them. Refer to [Custom Variable](../description-autospreader-rules/autospreader-rules-configuration-custom-variable.md#cust-var) from more details about declaring and using a user-defined variable setting in your rules and Autospreader configuration. |
+| User-Defined Variable | Supported as launch-time-only variables, meaning that these variables may not change in value dynamically. Explain how to declare user-defined variables and set values for them. Refer to [Custom Variable](../description-autospreader-rules/autospreader-rules-configuration-custom-variable.md) from more details about declaring and using a user-defined variable setting in your rules and Autospreader configuration. |
 
 #### Quoting and Pre-Hedge rules only
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/jump-blocks/jump-blocks-over
 
 # Jump blocks overview
 
-> Category: **Jump Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/jump-blocks/jump-blocks-overview/)
+> Category: **Jump Blocks** · [Source](https://library.tradingtechnologies.com/adl/jump-blocks/jump-blocks-overview/)
+>
+> **Interpreted in:** [Core Semantics § 7. Virtualization](../../guides/core-semantics.md#7-virtualization) · [Design Patterns & Recipe Index § Organisation and reuse](../../guides/design-patterns.md#organisation-and-reuse)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/jb-jump-blocks.png)
 

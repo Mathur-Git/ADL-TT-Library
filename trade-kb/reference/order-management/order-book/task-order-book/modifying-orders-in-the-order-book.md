@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Modifying orders in the Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/modifying-orders-in-the-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/modifying-orders-in-the-order-book/)
 
 Using the Order Book widget, you can change the price, quantity, account, order type, or
 time-in-force of a working order. Simply select an order, modify the order as desired, and click ![the Change button](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/btn-change-1.png).

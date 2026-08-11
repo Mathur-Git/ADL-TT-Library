@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Exchange-specific order entry features
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/exchange-specific-order-entry-features/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/description-order-ticket/exchange-specific-order-entry-features/)
+>
+> **Also in this section:** [Trading on B3 overview](../../trading-on-b3/trading-on-b3-overview.md)
 
 An Order Ticket exposes some additional buttons to support exchange-specific order functionality.
 
@@ -51,7 +53,7 @@ For China markets, you can also indicate the trading strategy for the order by u
 
 ## MiFID II exchanges
 
-For exchanges that need to comply with the MiFID II regulations, the **Show order entry compliance fields** setting in the **Orders** section of [Preferences](../../../overview/preferences/description-preferences/orders-preferences.md#cdi) can be enabled to add compliance fields to the Order Ticket.
+For exchanges that need to comply with the MiFID II regulations, the **Show order entry compliance fields** setting in the **Orders** section of [Preferences](../../../overview/preferences/description-preferences/orders-preferences.md) can be enabled to add compliance fields to the Order Ticket.
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-cdi-dropdown.png)
 

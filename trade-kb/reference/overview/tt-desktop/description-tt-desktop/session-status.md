@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/descri
 
 # Session Status
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/session-status/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/session-status/)
+>
+> **Interpreted in:** [Platform & Workspace § Session status](../../../../guides/platform-and-workspace.md#session-status)
 
 ## Session Status indicator
 

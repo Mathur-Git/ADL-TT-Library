@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Approving or rejecting a request
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/approving-or-rejecting-a-request/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/approving-or-rejecting-a-request/)
 
 As an owner of a care order, you can use the Order Book to approve or reject a [cancel](#cancel) or [change](#change) request.
 
@@ -18,7 +18,7 @@ Note Pending change requests on claimed care orders can be authorized and applie
 
 If you are currently the owner of a care order and receive a change request from the originator, the order remains in the **Pending Change Approval** state until you approve or reject the request. No child orders can be entered for the parent care order in this state.
 
-**Tip**: In the workspace “Preferences”, you can enable a sound alert that plays when a [change request is received](../../../overview/preferences/description-preferences/sounds-preferences.md#change).
+**Tip**: In the workspace “Preferences”, you can enable a sound alert that plays when a [change request is received](../../../overview/preferences/description-preferences/sounds-preferences.md).
 
 To approve or reject a change request:
 
@@ -40,7 +40,7 @@ To approve or reject a change request:
 
 If you are currently the owner of a care order and you receive a cancel request, the order remains in the **Pending Cancel Approval** state until you approve or reject the request. No child orders can be entered for the parent care order in this state.
 
-**Tip**: In the workspace “Preferences”, you can enable a sound alert that plays when a [cancellation request is received](../../../overview/preferences/description-preferences/sounds-preferences.md#cancel).
+**Tip**: In the workspace “Preferences”, you can enable a sound alert that plays when a [cancellation request is received](../../../overview/preferences/description-preferences/sounds-preferences.md).
 
 To approve or reject a cancel request:
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/descrip
 
 # Care Order Management
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/care-order-management/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/care-order-management/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 The Order Ticket, Order Book, Fills, and Order and Fills widgets support the following care order user functionality:
 

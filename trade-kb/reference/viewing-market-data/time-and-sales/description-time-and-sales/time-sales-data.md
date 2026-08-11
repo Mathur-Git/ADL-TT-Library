@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/time-a
 
 # Time & Sales Data
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/description-time-and-sales/time-sales-data/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/description-time-and-sales/time-sales-data/)
+>
+> **Interpreted in:** [Market Data & Depth § Time and Sales](../../../../guides/market-data-and-depth.md#time-and-sales)
 
 The Time & Sales widget keeps a running record of trades for selected instruments displayed in reverse
 chronological order. The widget will automatically remove contracts after they expire.

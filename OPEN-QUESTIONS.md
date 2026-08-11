@@ -25,7 +25,7 @@ amount of schema fidelity helps and the fallback is driving the ADL UI by hand.
 Two tests, in order. **Ten minutes settles the entire question.**
 
 **Test A - does an edited file import at all?**
-1. Copy `ADL-jsons/Conditional.adl.json` (43 blocks, single graph, smallest algo).
+1. Copy `ADL-jsons/corpus/Conditional.adl.json` (43 blocks, single graph, smallest algo).
 2. Change exactly **one** `Number`-like wired value to something unmistakable - `7777`.
    Nothing else.
 3. Import into ADL, **open the block in the editor, and read the value back.**
@@ -75,7 +75,7 @@ value, which has no AST. `validate.py` reports how many AST-carrying blocks a fi
 
 ## Q3 - The 8 blocks the corpus cannot give you
 
-`python ADL-jsons/lookup.py --missing`
+`python ADL-jsons/tools/lookup.py --missing`
 
 `Analytics`, `Pnl`, `PositionRisk`, `MovingAverage`, `Average`, `Mod`, `RandomNumber`,
 `DiscreteMin`. Documented by TT, but with **no `defName` anywhere in the corpus**, so
@@ -89,8 +89,8 @@ are hard to substitute. The rest have workarounds (`lookup.py --missing` lists t
 `Math` block's `mathFunction` property.
 
 **How to close it permanently:** build a throwaway algo in ADL containing the block, put
-one of everything on a blank canvas, export it into `ADL-jsons/`, and run
-`python extract_schema.py`. **One export closes the gap for good and improves every
+one of everything on a blank canvas, export it into `ADL-jsons/corpus/`, and run
+`python ADL-jsons/tools/extract_schema.py`. **One export closes the gap for good and improves every
 future algo.** This is the single highest-leverage thing available besides Q1.
 
 ---

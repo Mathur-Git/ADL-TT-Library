@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Parabolic Sar (SAR)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/parabolic-sar-sar/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/parabolic-sar-sar/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Parabolic Stop and Reverse (SAR) calculates trailing stop points to use with long and short positions. The SAR was published by J. Welles Wilder as part of a complete trend following  
 system. The dotted lines above the price designate trailing stops for short positions; those below the price are sell stops for long positions

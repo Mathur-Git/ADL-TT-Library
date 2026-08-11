@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Trade Volume Index (TVI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/trade-volume-index-tvi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/trade-volume-index-tvi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Trade Volume Index (TVI) leverages intraday market data to show whether a security is being accumulated (purchased) or distributed (sold). The Trade Volume Index assumes that higher prices represent buy orders while lower prices are sell orders.
 

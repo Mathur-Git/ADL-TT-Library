@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/positio
 
 # Position Risk block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/position-risk-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/position-risk-block/)
+>
+> **Interpreted in:** [Core Semantics § 10. What pauses or cancels an algo](../../guides/core-semantics.md#10-what-pauses-or-cancels-an-algo) · [Design Patterns & Recipe Index § Risk](../../guides/design-patterns.md#risk) · [Gotchas, Hard Limits & Platform Constraints § Pre-flight checklist](../../guides/gotchas-and-limits.md#pre-flight-checklist) · [Order Management & Risk § Alerts (real-time risk guard)](../../../trade-kb/guides/order-management-and-risk.md#alerts-real-time-risk-guard) · [Order Management & Risk § See also (ADL side)](../../../trade-kb/guides/order-management-and-risk.md#see-also-adl-side)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mb-position-risk-block.png)
 

@@ -3,6 +3,23 @@
 Operating manual for this repo. Read this first; it says where the truth lives and how
 to work here.
 
+## Start every session with one command
+
+```bash
+cd ADL-jsons && python tools/brief.py
+```
+
+That prints the repo shape, the active projects and their blockers, the open questions,
+the corpus census, and a **routing table mapping each kind of question to the one file
+that answers it** - in ~4 KB. Run it *before* any `ls`, `find`, `grep`, or `cat` of
+`README.md` / `INDEX.md` / `OPEN-QUESTIONS.md` / `PROJECT.md`.
+
+**Do not survey speculatively.** Re-deriving this repo's shape from the filesystem was
+measured across 23 sessions at roughly a quarter of all shell output, spent rediscovering
+facts that had not changed since the last session. There is no "let me get oriented
+first" step beyond `brief.py`. Wait until you know the actual question, then open the
+one artifact the routing table names.
+
 ## What this is
 
 A workbench for designing **TT ADL** (Trading Technologies Algo Design Lab) algos and
@@ -30,7 +47,7 @@ not in the KB and not in the corpus, say so rather than filling the gap.
 | Question | Authority |
 |---|---|
 | How ADL *behaves* at runtime | `adl-kb/guides/` then `adl-kb/reference/` |
-| How a `.adl.json` is *encoded* | `ADL-jsons/README.md` + `block-catalog.json` |
+| How a `.adl.json` is *encoded* | `ADL-jsons/ADL-JSON-Format-Spec.md` + `block-catalog.json` |
 | How the TT *platform* works (spreads, order types, depth, dashboards) | `trade-kb/` |
 | What TT's own algos actually *do* in practice | the 13 corpus files, via the tools |
 
@@ -51,42 +68,91 @@ anything is missing.
 ## Repo map
 
 ```
-adl-kb/       ADL docs, 132 pages mirrored + 6 authored guides. START: guides/core-semantics.md
-trade-kb/     TT platform docs, 638 pages mirrored + 7 authored guides
-ADL-jsons/    13 TT algo exports, the reverse-engineering toolchain, the format spec
+adl-kb/       ADL docs, 128 pages mirrored + 6 authored guides. START: guides/core-semantics.md
+trade-kb/     TT platform docs, 594 pages mirrored + 7 authored guides
+ADL-jsons/    the format spec + generated block-catalog.json
+  corpus/       the 13 TT algo exports - pristine, never edit in place
+  corpus-analysis/  one doc per corpus algo: how it works, its stop gaps, what to lift
+  tools/        the reverse-engineering toolchain (run from ADL-jsons/)
 projects/     one folder per algo being built; PROJECT.md is the durable record (gitignored)
 OPEN-QUESTIONS.md   what is still unverified and how to settle it - check before promising anything
 ```
 
 ## The toolchain
 
-Four scripts in `ADL-jsons/`, all sharing `adlkit.py` so the format quirks are
-implemented once. Run them instead of reading the JSON directly - the corpus is 8 MB and
-`block-catalog.json` alone is 375 KB.
+Scripts in `ADL-jsons/tools/`, all sharing `adlkit.py` so the format quirks are
+implemented once. They find the corpus and the catalog by their own location, so they
+work from any cwd; the paths below assume you `cd ADL-jsons` first. Run them instead of
+reading the JSON directly - the corpus is 8 MB and `block-catalog.json` alone is 375 KB.
 
 ```bash
-python lookup.py                  # every block type, by frequency
-python lookup.py Stopwatch        # defId, connector GUIDs, observed properties
-python lookup.py --names Terminal # TT's own labels on that block = design intent
-python lookup.py --missing        # documented blocks the corpus cannot give you
+python tools/brief.py                   # SESSION START: shape, projects, routing table
+python tools/brief.py --routing         # just the question -> artifact table
 
-python patterns.py                # reusable Groups from TT's algos, by adoption cost
-python patterns.py --search throttle
-python patterns.py --show "Mkt Price"
-python patterns.py --extract "SynthStop" -o part.json   # GUID-reminted copy
+python tools/q.py props MinVol Number Field   # block properties in one algo, cosmetics stripped
+python tools/q.py props MinVol                # no types -> census, then pick
+python tools/q.py grep throttle               # regex over names, formulas, notes, all 13
+python tools/q.py notes Conditional           # TT's verbatim Note-block commentary
+python tools/q.py block MinVol "Min Qty"      # one block + its edges and jump links
 
-python validate.py                # self-test against the 13 known-good algos
-python validate.py mine.adl.json  # check a file you built
-python validate.py --explain C7   # what a check means and why it matters
+python tools/lookup.py                  # every block type, by frequency
+python tools/lookup.py Stopwatch        # defId, connector GUIDs, observed properties
+python tools/lookup.py --names Terminal # TT's own labels on that block = design intent
+python tools/lookup.py --missing        # documented blocks the corpus cannot give you
 
-python extract_schema.py          # rebuild the catalog after adding a new export
-python test_validate.py           # fault injection - proves the validator bites
+python tools/patterns.py                # reusable Groups from TT's algos, by adoption cost
+python tools/patterns.py --search throttle
+python tools/patterns.py --show "Mkt Price"
+python tools/patterns.py --show "Group0" --from MinVol        # TT reused 'Group0' 12 times
+python tools/patterns.py --extract "SynthStop" --from BrackeTT -o part.json  # GUID-reminted
+
+# --from <file substring> disambiguates; --extract REFUSES an ambiguous name rather than
+# guessing. --guid <prefix> is the fallback when one file has several same-named Groups.
+
+python tools/validate.py                # self-test against the 13 known-good algos
+python tools/validate.py mine.adl.json  # check a file you built
+python tools/validate.py --explain C7   # what a check means and why it matters
+
+python tools/profile_algo.py            # one line per corpus file
+python tools/profile_algo.py MinVol --brief   # reuse decision only, ~1 KB (PREFER THIS)
+python tools/profile_algo.py MinVol     # full structural profile, ~15 KB
+python tools/profile_algo.py MinVol --json
+
+python tools/extract_schema.py          # rebuild the catalog after adding a new export
+python tools/test_validate.py           # fault injection - proves the validator bites
 ```
+
+`profile_algo.py` is the inverse of `lookup.py`: lookup asks "what does block type X look like
+across the corpus", profile asks "what is inside THIS algo, and what can I lift". It prints
+the operator surface, graph tree, per-file census, resolved edges and jump wormholes, order
+properties, the safety layer and a per-Group reuse verdict. It is the script behind every
+number in `ADL-jsons/corpus-analysis/` - one prose doc per corpus algo, explaining how each
+one is built, what it does, where its stop gaps are, and which parts are worth copying. Start
+there when you want a part rather than a fact.
 
 **Before trusting any generated or edited file, run `validate.py` on it.** It enforces
 14 structural invariants, self-tests clean on all 13 TT algos, and catches 18 injected
 fault classes. It cannot tell you the design is correct, and it cannot promise ADL will
 import the file.
+
+### Reading discipline
+
+Shell output is the dominant token cost in this repo - about 865 KB across 23 sessions,
+nearly all of it re-derivation. Four rules, each aimed at a measured leak:
+
+- **Never `cat` a KB or corpus-analysis file.** They run 100-400 lines; one `cat` of two
+  guides cost 25 KB in a single call. Use `Read` with `offset`/`limit`, or `Grep` for the
+  claim you actually need. `cat` is fine for something you already know is short.
+- **Read `corpus-analysis/<algo>.md` before running `profile_algo.py`.** The prose doc was
+  generated *from* the profiler and answers most questions about that algo. If you do need
+  the profiler, start with `--brief` (~1 KB); the full profile is ~15 KB and mostly answers
+  questions you did not ask.
+- **Never hand-write a `python -c` script against `adlkit`.** 28 of them were written across
+  23 sessions and 26 were the same query - that query is now `q.py props`. An inline script
+  also tends to forget `walk_graphs`, and a flat scan silently misses two thirds of a real
+  algo. If `q.py` genuinely cannot express the query, add a subcommand rather than inlining.
+- **Say which file you are opening and why, before opening it.** If you cannot name the
+  question, you are surveying, and the answer is `brief.py --routing` instead.
 
 ## Verified structural facts
 
@@ -156,7 +222,7 @@ Autospreader/Aggregator algos **fail to recover after a server restart**.
 
 ## Execution rules that cause the most bugs
 
-Full list in `adl-kb/README.md`; these four cause the most damage:
+Full list in `adl-kb/ADL-KB-Home.md`; these four cause the most damage:
 
 1. **Continuous vs discrete** is the central distinction and decides which blocks are
    legal. While a discrete message propagates, **all continuous data freezes** - that is
@@ -191,9 +257,12 @@ Lifted from TT's own custom block names (`lookup.py --names <Block>`):
 - **`projects/<name>/PROJECT.md` is the durable record.** Chat memory is not. Update it
   when a decision is made, and keep `projects/INDEX.md` in step. Copy
   `projects/_TEMPLATE/PROJECT.md` to start.
-- **`projects/` is gitignored** (since 2026-08-04; `_TEMPLATE` is the one exception, so
-  the scaffold survives a clone). "Durable" therefore means *durable against losing chat
-  context* - **not** version-controlled and not backed up off this machine. There is no
+- **`projects/` is gitignored - the whole directory, no exceptions** (since 2026-08-04;
+  the `_TEMPLATE` carve-out was removed 2026-08-11 and the scaffold no longer survives a
+  clone). **The GitHub remote is PUBLIC**, and `projects/` holds trading theses, strategy
+  economics and desk knowledge - none of it belongs there. "Durable" therefore means
+  *durable against losing chat context* - **not** version-controlled and not backed up off
+  this machine. Back it up to a **private** remote or a synced folder instead. There is no
   history to recover a PROJECT.md from and no `git checkout` to undo a bad edit, so
   rewrite one in place with the same care as an untracked file. Anything that must
   outlive the machine needs its own backup.
@@ -201,6 +270,6 @@ Lifted from TT's own custom block names (`lookup.py --names <Block>`):
 - Windows + PowerShell primary; a Bash tool is available for POSIX scripts. Script
   output goes through a cp1252 console - keep `print()` ASCII-only.
 - Don't commit unless asked.
-- The corpus files in `ADL-jsons/*.adl.json` are TT-published reference material.
+- The corpus files in `ADL-jsons/corpus/` are TT-published reference material.
   **Never edit them in place** - copy first. They are the ground truth the whole
   toolchain is derived from and the self-test depends on them being pristine.

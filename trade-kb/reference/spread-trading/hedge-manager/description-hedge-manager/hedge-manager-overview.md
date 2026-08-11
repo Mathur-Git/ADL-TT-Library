@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/hedge-manag
 
 # Hedge Manager overview
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/description-hedge-manager/hedge-manager-overview/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/hedge-manager/description-hedge-manager/hedge-manager-overview/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Hedge Manager](../../../../guides/spread-trading-autospreader.md#hedge-manager)
 
 The Hedge Manager widget displays all of your Autospreader hedge orders in a single widget and gives you the
 ability to act on unfilled hedge orders in various ways. You may cancel or modify a working hedge order directly

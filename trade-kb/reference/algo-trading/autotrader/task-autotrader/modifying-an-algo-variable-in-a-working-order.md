@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/autotrader/ta
 
 # Modifying an algo variable in a working order
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/modifying-an-algo-variable-in-a-working-order/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/task-autotrader/modifying-an-algo-variable-in-a-working-order/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../guides/algo-ops.md#monitoring-a-running-algo)
 
 You can modify working algos in Autotrader by changing the values of algo variables in of one or more of the algo rows.
 

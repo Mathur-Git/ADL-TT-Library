@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Aggregator Reference
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/reference-aggregator/aggregator-reference/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/reference-aggregator/aggregator-reference/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Aggregator](../../../../guides/spread-trading-autospreader.md#aggregator)
 
 #### Aggregator routing parameters and settings
 

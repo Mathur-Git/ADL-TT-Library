@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Aggregator Overview
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/description-aggregator/aggregator-overview/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/description-aggregator/aggregator-overview/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Aggregator](../../../../guides/spread-trading-autospreader.md#aggregator)
 
 The Aggregator widget provides you with the ability to create a single aggregated instrument made up of multiple contracts and trade it as a single instrument. You can view an aggregated instrument in Market Grid and MD Trader, and you can trade an aggregated instrument with routing rules that determine where orders are routed.
 
@@ -23,7 +25,7 @@ You can open Aggregator by clicking **Widgets** in the title bar. When the widge
 
 ## Aggregator widget functionality
 
-When you open an Aggregator widget, it displays a list of the aggregated instruments you’ve created. You can [create](../task-aggregator/creating-an-aggregated-instrument.md#agg-create), [launch](../task-aggregator/launching-an-aggregated-instrument.md#agg-launch), [edit](../task-aggregator/editing-an-aggregated-instrument.md#agg-edit), [copy](../task-aggregator/copying-an-aggregated-instrument.md#agg-copy), [delete](../task-aggregator/deleting-an-aggregated-instrument.md#agg-delete) and search all of your aggregated instruments from this widget screen:
+When you open an Aggregator widget, it displays a list of the aggregated instruments you’ve created. You can [create](../task-aggregator/creating-an-aggregated-instrument.md), [launch](../task-aggregator/launching-an-aggregated-instrument.md), [edit](../task-aggregator/editing-an-aggregated-instrument.md), [copy](../task-aggregator/copying-an-aggregated-instrument.md), [delete](../task-aggregator/deleting-an-aggregated-instrument.md) and search all of your aggregated instruments from this widget screen:
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/view-markets-agg-mgr.png)
 

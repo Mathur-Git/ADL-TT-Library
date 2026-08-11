@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Donchian Channel
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/donchian-channel/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/donchian-channel/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Dochian Channel indicator creates a channel between the highest high price and lowest low price for the previous user-defined number of bars. The width of the channel helps visualize the volatility of the market price. If the price fluctuates a lot, the channel will be wider. Converely, when the price moves less, the channel will be narrower. The center line tracks the midpoint between the bands.
 

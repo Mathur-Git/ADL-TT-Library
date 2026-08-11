@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/de
 
 # Platform requirements
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/platform-requirements/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/platform-requirements/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 Before accessing the TT platform, ensure that you meet the TT [system](#system),
 [network](#network), and [email](#email) requirements.
@@ -56,9 +58,9 @@ In addition to the network requirements above, in order to use [TT’s Excel int
 
 ## Email Requirements
 
-Trading Technologies uses email to send a number of communications including users’ initial invitations and notices for general system maintenance. To ensure receipt of invitations, notices, and advisories, users must ensure they can receive emails from **[[email protected]](/cdn-cgi/l/email-protection)**.
+Trading Technologies uses email to send a number of communications including users’ initial invitations and notices for general system maintenance. To ensure receipt of invitations, notices, and advisories, users must ensure they can receive emails from **TT’s sender address**.
 
-Users should add **[[email protected]](/cdn-cgi/l/email-protection)** as a contact in their mail client. In addition, company administrators should configure **[[email protected]](/cdn-cgi/l/email-protection)** as a valid address for their company email.
+Users should add **TT’s sender address** as a contact in their mail client. In addition, company administrators should configure **TT’s sender address** as a valid address for their company email.
 
 ←[Previous PostBrowser Access Overview](browser-access-overview.md)
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Copying fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/copying-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/copying-fills/)
 
 Use the **Copy** button in the Fills widget to copy selected fills and paste them into another application. The differences between copying fills instead of exporting them are:
 

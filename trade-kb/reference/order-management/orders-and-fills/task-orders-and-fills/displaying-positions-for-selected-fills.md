@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/orders-an
 
 # Displaying positions for selected fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/orders-and-fills/task-orders-and-fills/displaying-positions-for-selected-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/orders-and-fills/task-orders-and-fills/displaying-positions-for-selected-fills/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 To view positions from a specific set of fills, select the desired working and filled orders in the Order Book pane using the “eyeball” button (![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/of-view-button-7.png)) in the “Watch” column. Each button is selected by default and all fills and positions are displayed.
 

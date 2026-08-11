@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/trading-block
 
 # Trading blocks overview
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/trading-blocks-overview/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/trading-blocks-overview/)
+>
+> **Interpreted in:** [ADL Block Catalog § Trading blocks](../../guides/block-catalog.md#trading-blocks)
 
 Trading blocks allow an ADL algo to access markets for retrieving market data and managing orders. Using trading blocks, an algo can:
 

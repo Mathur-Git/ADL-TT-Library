@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/field-block/
 
 # Field block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/field-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/field-block/)
+>
+> **Interpreted in:** [Core Semantics § 1. Two kinds of message](../../guides/core-semantics.md#1-two-kinds-of-message) · [Core Semantics § 8. NaN is contagious and destructive](../../guides/core-semantics.md#8-nan-is-contagious-and-destructive) · [Formula Editor Reference § Worked patterns](../../guides/formula-reference.md#worked-patterns) · [Gotchas, Hard Limits & Platform Constraints § Hard numeric limits](../../guides/gotchas-and-limits.md#hard-numeric-limits) · [Market Data & Depth § Depth widget & book imbalance](../../../trade-kb/guides/market-data-and-depth.md#depth-widget-book-imbalance)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tb-field-block.png)
 

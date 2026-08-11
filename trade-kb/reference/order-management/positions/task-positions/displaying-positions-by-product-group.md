@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/positions
 
 # Displaying positions by product group
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/task-positions/displaying-positions-by-product-group/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/task-positions/displaying-positions-by-product-group/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 You can use the Positions widget in [matrix view mode](../description-positions/positions-matrix-view.md) to organize similar products into user-defined groups and aggregate their positions. Product rows can be combined with other product rows or added to an existing group row.
 

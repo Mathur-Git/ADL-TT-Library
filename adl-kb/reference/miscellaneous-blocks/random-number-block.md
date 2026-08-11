@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/random-
 
 # Random Number block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/random-number-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/random-number-block/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Order entry](../../guides/design-patterns.md#order-entry)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mb-random-number-block.png)
 

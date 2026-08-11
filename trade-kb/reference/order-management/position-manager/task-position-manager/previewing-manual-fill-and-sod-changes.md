@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Previewing manual fill and SOD changes
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/previewing-manual-fill-and-sod-changes/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/previewing-manual-fill-and-sod-changes/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 By grouping a Positions widget with the Position Manager, you can preview manual fill and SOD changes before they are published.
 

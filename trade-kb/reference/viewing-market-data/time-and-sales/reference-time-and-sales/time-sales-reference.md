@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/time-a
 
 # Time & Sales reference
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/reference-time-and-sales/time-sales-reference/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/reference-time-and-sales/time-sales-reference/)
+>
+> **Interpreted in:** [Market Data & Depth § Time and Sales](../../../../guides/market-data-and-depth.md#time-and-sales)
 
 ## Available settings
 
@@ -15,7 +17,7 @@ These settings affect only the selected Time & Sales widget. To update the defau
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ts-settings.png)
 
 * **Grid font size**: Adjust the font size to suit your preferences and use bold text, if desired.
-* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget.
+* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget.
 * **Highlight quantities >=**: Highlight the row when a transaction quantity equals or exceeds this value.
 * **Show milliseconds**: Check to show millisecond accuracy in the Time column. When checked, you have the option to set **Show microseconds** to display microseconds in the Time column.
 * **Launch floating order entry on left click on price or quantity.**: Check to open the [default floating order entry widget](../../../overview/preferences/description-preferences/orders-preferences.md) when a user clicks on a price or quantity.

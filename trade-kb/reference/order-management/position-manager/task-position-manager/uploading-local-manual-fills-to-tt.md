@@ -6,9 +6,11 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Uploading local manual fills to TT
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/uploading-local-manual-fills-to-tt/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/uploading-local-manual-fills-to-tt/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
-You can upload [local manual fills](../description-position-manager/position-manager-overview.md#local) into the TT system using the import functionality in Position Manager. For example, options users that do not use Expiration Manager can track their futures positions from exercised or expired options by uploading their underlying fills into Position Manager. Uploaded fills must be in the [CSV file format](../reference-position-manager/csv-file-format-for-uploading-fills.md).
+You can upload [local manual fills](../description-position-manager/position-manager-overview.md) into the TT system using the import functionality in Position Manager. For example, options users that do not use Expiration Manager can track their futures positions from exercised or expired options by uploading their underlying fills into Position Manager. Uploaded fills must be in the [CSV file format](../reference-position-manager/csv-file-format-for-uploading-fills.md).
 
 **Note**: Uploading manual fills for Autospreader parent orders is not supported.
 

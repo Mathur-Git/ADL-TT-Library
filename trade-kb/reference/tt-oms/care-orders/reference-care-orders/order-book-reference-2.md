@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/referen
 
 # Order Book reference
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/reference-care-orders/order-book-reference-2/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/reference-care-orders/order-book-reference-2/)
 
 ## Available settings
 
@@ -75,7 +75,7 @@ Fills widget.
 
 | Column | Description |
 | --- | --- |
-|  | The Watch column. Used for selecting orders in an Order Book grouped with other widgets (e.g., Fills, Positions) and viewing the orders in those widgets. **Note:** This column is only available when the Order Book is grouped with another widget. To show/hide this column in a widget group, right-click in the Order Book pane and select **Show/Hide Watch column**. For more details, refer to [Displaying Positions for Selected Fills](http://library.tradingtechnologies.com/trade/of-displaying-positions-for-selected-fills.html). |
+|  | The Watch column. Used for selecting orders in an Order Book grouped with other widgets (e.g., Fills, Positions) and viewing the orders in those widgets. **Note:** This column is only available when the Order Book is grouped with another widget. To show/hide this column in a widget group, right-click in the Order Book pane and select **Show/Hide Watch column**. For more details, refer to [Displaying Positions for Selected Fills](../../../order-management/orders-and-fills/task-orders-and-fills/displaying-positions-for-selected-fills.md). |
 | % Filled | The percent of the total order quantity that has been filled. |
 | Account | Account number associated with the transaction. |
 | AcctType | Account type code that defines the trader’s relationship with a clearing house |
@@ -180,8 +180,8 @@ Fills widget.
 | SynthStatus | The status of the parent synthetic order. |
 | Strike | Displays the strike price of the options contract. |
 | Term | Shows the contract month for a strategy. If all contracts in a strategy are in the same month, that month is listed in the Term column. If not, then just the front month of the strategy is listed. |
-| TextA | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextA** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md#fft-table) for clearing and back office purposes. |
-| TextB | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextB** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md#fft-table) for clearing and back office purposes. |
+| TextA | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextA** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md) for clearing and back office purposes. |
+| TextB | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextB** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md) for clearing and back office purposes. |
 | TextC | Displays a read-only, customer-defined text value set by FIX client applications. The value is not sent to the exchange. |
 | TextTT | Displays an optional, user-defined text value from the Setup app or entered in the **TextTT** free-form text field in the Order Ticket. The value displayed in this column remains on submitted orders for tracking purposes in the TT system, but is not routed to the exchange.  You can show or hide the Text TT text box for a selected working order in the Order Toolbar. You can add or modify the text that displays in the **TextTT** column for the selected order.  In the **Position Manager** widget, you can now edit the **TextTT** column for **Local Fills** and **Admin Fills**. However, this is not available for **Admin SODs**.  **Note:** For Autospreader orders submitted by an ADL algo, the value is populated with the order tag of the parent algo order. |
 | Ticks From Inside | The number of ticks between the price of the order and the inside market. For example, a Buy order working one tick below the best bid price will display “1”, or a Sell order working at the best ask price will display “0”. |

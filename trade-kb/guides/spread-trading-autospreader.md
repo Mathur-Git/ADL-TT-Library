@@ -3,7 +3,7 @@
 "How does TT build a synthetic spread market, and where does its tick size actually come from?"
 Every claim below links to the TT reference page that supports it.
 
-[KB Home](../README.md) · [Full Index](../INDEX.md) · [Order Types & Execution](order-types-and-execution.md) · [Market Data & Depth](market-data-and-depth.md) · [Algo Ops](algo-ops.md) · [Order Management & Risk](order-management-and-risk.md)
+[Trade KB Home](../Trade-KB-Home.md) · [Order Types & Execution](order-types-and-execution.md) · [Market Data & Depth](market-data-and-depth.md) · [Algo Ops](algo-ops.md) · [Order Management & Risk](order-management-and-risk.md)
 
 ---
 
@@ -14,6 +14,19 @@ colocated Autospreader Server, and quotes/hedges the legs to realize a target sp
 answer to "I want to trade the difference (or ratio) between two markets as one instrument."
 → [Introduction to Autospreader](../reference/spread-trading/autospreader/description-autospreader/introduction-to-autospreader.md) ·
 [Autospreader Configuration Interface](../reference/spread-trading/autospreader/description-autospreader/autospreader-configuration-interface.md)
+
+**How the quote gets its price — the single most load-bearing behavior here.** The quoting order is
+priced *"based on the current bid or ask in the **hedge** leg and the available liquidity"*, at a level
+*"where adequate liquidity is available to fill the order at the desired spread price"* — and *"**as the
+best bid or ask changes in the hedge leg, Autospreader automatically replaces the quote order**."*
+Two consequences that catch people out: the **quoting leg's own book is not an input to its quote price**,
+and **movement in the hedge leg is itself the requote trigger**. So a quoting order that will not sit
+still is normally a *hedge-leg* phenomenon, however much the symptom presents in the quoting leg.
+How far into the hedge book it looks — and therefore how sensitive the quote is to ordinary depth
+churn — is set by [Minimum Lean Quantity](#quoting-and-hedging), whose default walks the
+depth for the full order size.
+→ [Introduction to Autospreader](../reference/spread-trading/autospreader/description-autospreader/introduction-to-autospreader.md) ·
+[Spread Configuration Order Execution](../reference/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution.md)
 
 **Synthetic spread ≠ exchange-listed spread.** A CFE VX calendar spread that trades natively on the exchange
 order book (viewed via the **Exchange Listed** tab of Spread Matrix) is a *different object* from an
@@ -36,7 +49,7 @@ happens if you rebuild that same spread synthetically.
 | Ratio | Quantity of each leg relative to the others (negative = short leg). **Does not affect the spread price** — only how many contracts trade per spread unit. | [Spread Configuration](../reference/spread-trading/autospreader/description-autospreader/spread-configuration.md) |
 | Multiplier | Weights each leg's *price* in the formula: `Spread_Price = (LegA_Price × LegA_Multiplier) − (LegB_Price × LegB_Multiplier)`. Can be a whole number, decimal, or fraction — fractional form (e.g. `0.333333` → `1/3`) optimizes ticking accuracy. | [Autospreader Reference](../reference/spread-trading/autospreader/reference-autospreader/autospreader-reference.md) |
 | Pricing-only leg | Uncheck **Active Quoting** *and* **Enable Hedging** on a leg to include its price in the formula without quoting or hedging it (no position limits needed for that leg) | [Using instruments as pricing components of a spread](../reference/spread-trading/autospreader/use-cases/using-instruments-as-pricing-components-of-a-spread.md) |
-| Custom formula editor | Free-form arithmetic (`+ - / *`) over leg identifiers with intellisense; used for cross-currency spreads (e.g. converting one leg's price into the other leg's currency) | [Autospreader Custom Spread Formulas](../reference/spread-trading/autospreader/videos-autospreader/autospreader-custom-spread-formulas.md) |
+| Custom formula editor | Free-form arithmetic (`+ - / *`) over leg identifiers with intellisense; used for cross-currency spreads (e.g. converting one leg's price into the other leg's currency) | [Spread configuration](../reference/spread-trading/autospreader/description-autospreader/spread-configuration.md) |
 
 Ratio and Multiplier are independent knobs: Ratio sizes the hedge, Multiplier prices it. A basis trade with a
 5000-ounce silver future against spot XAG/USD sets **Ratio = 5000** (contract size) on the spot leg but
@@ -82,7 +95,6 @@ scaled increments, not their average or the coarser leg's grain.
 **Decimal ratios.** For hedge ratios that aren't whole numbers (e.g. matching a DV01-weighted Treasury hedge),
 AutoSpreader supports decimal Ratio values so the accumulated position tracks the true hedge ratio more
 precisely than rounding to whole contracts would allow.
-→ [Autospreader Decimal Ratios](../reference/spread-trading/autospreader/videos-autospreader/autospreader-decimal-ratios.md)
 
 **Fill-quantity math is bounds-based, not simple division.** Because legs can carry fractional ratios,
 AutoSpreader computes parent fill quantity from a per-leg `lowerBound`/`upperBound` range and takes
@@ -105,7 +117,7 @@ The Aggregator widget computes tick size the same way for combining venues that 
 | Reuse a filled quote order as the hedge itself | **Convert Quote to Hedge** — three modes trading off latency vs. overfill risk vs. queue position (*Attempt*, *Always Use*, *Always Preserve Queue Position*) | [Spread Configuration Order Execution](../reference/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution.md) |
 | Work the hedge away from the touch instead of crossing it | **Payup Ticks** — number of ticks the hedge order is priced away from the best bid/offer instead of hitting/lifting it | [Spread Configuration Order Execution](../reference/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution.md) |
 | Include a leg without ever hedging it | Uncheck **Active Quoting** and **Enable Hedging** together → pricing-only leg | [Spread Configuration Order Execution](../reference/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution.md) |
-| Split a spread order into disclosed clips | **Reload** — Disclosed Qty, Max Exposure (clips), Offset, Delay (ms); adds an **RLD** button in MD Trader | [Spread Configuration Order Execution](../reference/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution.md) · [Submitting a reload order](../reference/spread-trading/autospreader/task-autospreader/submitting-a-reload-order.md) · [Autospreader Reload](../reference/spread-trading/autospreader/videos-autospreader/autospreader-reload.md) |
+| Split a spread order into disclosed clips | **Reload** — Disclosed Qty, Max Exposure (clips), Offset, Delay (ms); adds an **RLD** button in MD Trader | [Spread Configuration Order Execution](../reference/spread-trading/autospreader/description-autospreader/spread-configuration-order-execution.md) · [Submitting a reload order](../reference/spread-trading/autospreader/task-autospreader/submitting-a-reload-order.md) |
 | Execute without quoting any leg | **Sniper** — waits for the full spread price/liquidity to appear, then fires hedge orders on all legs simultaneously (Active Quoting is ignored; Pre-/Post-Hedge rules still apply) | [Submitting a sniper order](../reference/spread-trading/autospreader/task-autospreader/submitting-a-sniper-order.md) |
 
 **Pre-trade risk and legging.** Every potential outright order across every leg — quote and hedge — is

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # ADL designer
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/adl-designer/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/adl-designer/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § Algo settings (Information Panel → Settings)](../../../../guides/algo-types.md#algo-settings-information-panel-settings)
 
 ### ADL Designer
 
@@ -48,7 +50,7 @@ The user-defined **Exit Order** bookmark displays a zoomed-in portion of the alg
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/abc-bookmark-select.png)
 
-For more information on using bookmarks, see [Managing views with bookmarks](../task-adl-basic-concepts/working-with-the-adl-designer-canvas.md#bookmarks).
+For more information on using bookmarks, see [Managing views with bookmarks](../task-adl-basic-concepts/working-with-the-adl-designer-canvas.md).
 
 ### The Canvas
 

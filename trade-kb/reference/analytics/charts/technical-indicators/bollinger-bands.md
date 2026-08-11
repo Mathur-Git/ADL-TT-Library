@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Bollinger Bands
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/bollinger-bands/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/bollinger-bands/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Bollinger Bands are used to find market turning points, potential trading range breakouts, and trend exhaustion. The bands form an envelope drawn a number of standard deviations above and below a moving average. The Bollinger Band study created by John Bollinger plots upper and lower volatility bands around the price of the instrument. The width of the bands are based on the standard deviation of the user defined price from a moving average of n-periods.
 

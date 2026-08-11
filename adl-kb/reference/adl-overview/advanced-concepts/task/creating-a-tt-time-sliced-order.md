@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Creating a TT Time Sliced Order
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-a-tt-time-sliced-order/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-a-tt-time-sliced-order/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Order entry](../../../../guides/design-patterns.md#order-entry) · [Order Types & Execution § The ADL bridge](../../../../../trade-kb/guides/order-types-and-execution.md#the-adl-bridge)
 
 ### Creating a Basic TT Time Sliced Order
 

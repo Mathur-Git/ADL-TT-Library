@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Launching an aggregated instrument
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/launching-an-aggregated-instrument/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/launching-an-aggregated-instrument/)
 
 To launch an aggregated instrument:
 

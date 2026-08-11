@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Market data for exchange-listed spreads
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/description-spread-matrix/market-data-for-exchange-listed-spreads/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/description-spread-matrix/market-data-for-exchange-listed-spreads/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § What AutoSpreader is](../../../../guides/spread-trading-autospreader.md#what-autospreader-is) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Cross-references](../../../../guides/spread-trading-autospreader.md#cross-references)
 
 Using the **Exchange Listed** tab when opening the Spread Matrix, you can display market data for an exchange-listed calendar
 spread.

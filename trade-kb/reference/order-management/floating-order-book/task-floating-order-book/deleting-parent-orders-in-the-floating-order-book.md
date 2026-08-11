@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/floating-
 
 # Deleting parent orders in the Floating Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/deleting-parent-orders-in-the-floating-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/deleting-parent-orders-in-the-floating-order-book/)
 
 Using the “Delete parent…” options in the Floating Order Book, you have the ability to delete a parent Autospreader or Aggregator order and leave the related child orders working in the market. You can use this option for a single order, all quote orders on a specific leg, or quote orders for all legs.
 

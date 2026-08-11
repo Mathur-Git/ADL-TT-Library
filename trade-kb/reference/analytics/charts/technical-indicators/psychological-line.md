@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Psychological Line
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/psychological-line/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/psychological-line/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Psychological Line indicator is the ratio of the number of rising periods over the total number of periods. It reflects the buying power in relation to the selling power. If PSY is above 50%, it indicates that buyers are in control. Likewise, if it is below 50%, it indicates the sellers are in control. If the PSY moves along the 50% area, it indicates balance between the buyers and sellers and therefore there is no direction movement for the market.
 

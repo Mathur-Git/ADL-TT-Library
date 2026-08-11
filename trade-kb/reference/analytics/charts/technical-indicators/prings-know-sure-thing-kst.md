@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Pring’s Know Sure Thing (KST)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/prings-know-sure-thing-kst/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/prings-know-sure-thing-kst/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Pring’s Know Sure Thing (KST) indicator is a momentum oscillator based on the smoothed rate-of-change for four different timeframes. Pring frequently applied trend lines to KST. Although trend line signals do not occur often, Pring notes that such breaks reinforce signal line crossovers.
 

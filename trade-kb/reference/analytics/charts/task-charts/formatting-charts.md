@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
 # Formatting charts
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/formatting-charts/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/formatting-charts/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 To format and configure your chart, you can:
 

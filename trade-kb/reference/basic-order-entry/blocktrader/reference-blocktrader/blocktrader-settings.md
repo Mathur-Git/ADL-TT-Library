@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Blocktrader Settings
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/blocktrader-settings/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/blocktrader-settings/)
 
 These settings affect only the selected Blocktrader widget. To update the default settings for newly-opened Blocktrader widgets, set the **Save as Blocktrader defaults** option on the **Defaults** tab. To apply default settings to Blocktrader widgets already opened in the workspace, enable **Update existing Blocktrader widgets** on the **Defaults** tab.
 

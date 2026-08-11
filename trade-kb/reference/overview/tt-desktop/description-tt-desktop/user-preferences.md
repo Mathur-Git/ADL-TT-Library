@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/descri
 
 # User Preferences
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/user-preferences/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/user-preferences/)
 
 TT provides various customization options for your workspace. To customize a workspace, click **Edit** from the workspace window menu bar to access your **Preferences**. These preferences affect all of the workspaces associated with your TT login.
 

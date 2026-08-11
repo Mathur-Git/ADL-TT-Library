@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
 # Adding an custom action button
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/adding-an-custom-action-button/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/adding-an-custom-action-button/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 If you frequently use one or more order types or TIF (time-in-force) order settings, you can add buttons to the order
 pane that automatically set the order type or TIF in place of selecting it from the order type drop-down. You can add
@@ -38,7 +40,7 @@ To add a custom action button:
    will appear on the button in order pane.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/chrt-custom-button3.png)
-4. If you have created [order templates](../../../basic-order-entry/tt-order-types/description-tt-order-types/tt-order-types-overview.md#order-templates) for a TT Order Type
+4. If you have created [order templates](../../../basic-order-entry/tt-order-types/description-tt-order-types/tt-order-types-overview.md) for a TT Order Type
    or custom algo, you can select the template to assign to the button. When the button is clicked, the order will
    automatically use the values defined in the template, and will not display the fly-out.
 

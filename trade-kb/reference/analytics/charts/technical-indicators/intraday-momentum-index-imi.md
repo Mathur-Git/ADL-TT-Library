@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Intraday Momentum Index (IMI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/intraday-momentum-index-imi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/intraday-momentum-index-imi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Intraday Momentum Index (IMI) indicator is similar to the Relative Strength Index (RSI) indicator. It is used to measure underlying strength of a market move. IMI measures the change between the current bar’s open and close prices, while RSI uses the prior bar’s close to current bar’s close change. The current price is normalized as a percentage
 between 0 and 100. /p>

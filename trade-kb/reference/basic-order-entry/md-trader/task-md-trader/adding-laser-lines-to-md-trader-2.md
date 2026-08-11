@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Adding laser lines to MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/adding-laser-lines-to-md-trader-2/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/adding-laser-lines-to-md-trader-2/)
 
 MD Trader lets you add laser lines to the price ladder that provide visual cues for prices you consider important. When you paste a link from an Excel spreadsheet into MD Trader, a laser line appears at the approximate value of the link in relation to the price level. For example, suppose you use an Excel spreadsheet to calculate a set of theoretical prices that you want to use in your trading strategy. By adding laser lines at those values, you can monitor when the market approaches your theoretical price.
 

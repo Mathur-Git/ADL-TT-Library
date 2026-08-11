@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Virtualization
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/virtualization/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/virtualization/)
+>
+> **Interpreted in:** [Core Semantics § 7. Virtualization](../../../../guides/core-semantics.md#7-virtualization) · [Design Patterns & Recipe Index § Exits and position management](../../../../guides/design-patterns.md#exits-and-position-management) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Cross-references](../../../../../trade-kb/guides/spread-trading-autospreader.md#cross-references)
 
 ### Virtualization
 

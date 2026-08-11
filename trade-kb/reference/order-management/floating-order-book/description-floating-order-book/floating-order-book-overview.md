@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/order-management/floating-
 
 # Floating Order Book overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/description-floating-order-book/floating-order-book-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/description-floating-order-book/floating-order-book-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
+>
+> **Also in this section:** [Floating Order Book reference](../reference-floating-order-book/floating-order-book-reference.md)
 
 The Floating Order Book displays all of the individual orders for a specific instruments at a specific price level. You can launch a Floating Order Book from MD Trader, Market Grid, and Spread Matrix. After launching a Floating Order Book, you can modify or delete individual or multiple orders.
 

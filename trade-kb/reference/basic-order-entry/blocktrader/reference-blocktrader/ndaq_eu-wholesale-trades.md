@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # NDAQ_EU Wholesale Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/ndaq_eu-wholesale-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/ndaq_eu-wholesale-trades/)
 
 Use the **Blocktrader** widget to submit wholesale trades for multiple accounts and counterparties at the NASDAQ Commodities and Derivatives Exchange (NDAQ\_EU). As an executing broker, you can select a counterparty and account for each side of the trade and submit both sides at once.
 
@@ -14,7 +14,7 @@ You can also create synthetic strategies to allocate multi-legged trades in the 
 
 Once a trade is executed, you can view the fills and order status for each leg in the Blocktrader trade log, which is located in the bottom half of the widget. The orders and fills are also displayed in the **Fills** and **Audit Trail** widgets. Block trades can also be viewed in the **Time and Sales** widget.
 
-For a list of wholesale trade types supported in Blocktrader for NDAQ\_EU, refer to [Blocktrader wholesale trade types on TT](../description-blocktrader/blocktrader-wholesale-trade-types-on-tt.md#ndaq-eu).
+For a list of wholesale trade types supported in Blocktrader for NDAQ\_EU, refer to [Blocktrader wholesale trade types on TT](../description-blocktrader/blocktrader-wholesale-trade-types-on-tt.md).
 
 ## Blocktrader display for NDAQ\_EU wholesale trades
 

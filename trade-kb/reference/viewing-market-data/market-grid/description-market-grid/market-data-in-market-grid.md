@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Market data in Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/description-market-grid/market-data-in-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/description-market-grid/market-data-in-market-grid/)
+>
+> **Interpreted in:** [Market Data & Depth § Market Grid / Product Grid](../../../../guides/market-data-and-depth.md#market-grid-product-grid)
 
 The Market Grid displays market data for multiple instruments across multiple exchanges in a concise format. Users may add or hide columns to display various market data fields and can choose to expand the display of an instrument to display market depth.
 
@@ -32,7 +34,7 @@ For markets that provide detailed depth, the Market Grid separates direct bid an
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/market-grid-separate-quantities2.png)
 
-The display of summary rows and prices at each level of detailed depth is configurable in the [Market Grid local settings](../reference-market-grid/market-grid-reference.md#mg-settings).
+The display of summary rows and prices at each level of detailed depth is configurable in the [Market Grid local settings](../reference-market-grid/market-grid-reference.md).
 
 ## Floating Depth in Market Grid
 
@@ -77,7 +79,7 @@ If an exchange provides a pre-open or auction price or quantity, the values are 
 
 An indicative settlement price published by an exchange is displayed in the **IndSettle** column. For example, if an exchange sends an intra-day settlement price, it will be displayed in this column.
 
-To show/hide these columns in the Market Grid, right-click in the Market Grid, click **Set Market Grid columns** in the context menu and select **IndPrc**, **IndQty**, and **IndSettle**. For a description of the Market Grid columns, refer to [Market Grid Reference](../reference-market-grid/market-grid-reference.md#mg-col-desc).
+To show/hide these columns in the Market Grid, right-click in the Market Grid, click **Set Market Grid columns** in the context menu and select **IndPrc**, **IndQty**, and **IndSettle**. For a description of the Market Grid columns, refer to [Market Grid Reference](../reference-market-grid/market-grid-reference.md).
 
 ### Resting Market Orders
 
@@ -92,7 +94,7 @@ The Market Grid also provides market data specifically targeted for options cont
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mg-options-columns.png)
 
-You can display the options values by showing the following [Market Grid columns](../reference-market-grid/market-grid-reference.md#mg-col-desc) through the [Market Grid settings](../reference-market-grid/market-grid-reference.md#mg-settings).
+You can display the options values by showing the following [Market Grid columns](../reference-market-grid/market-grid-reference.md) through the [Market Grid settings](../reference-market-grid/market-grid-reference.md).
 
 When you right-click a futures or spread contract in the Market Grid, you can select **Related Contracts…** from the context menu to list all options products in the Product Family for that instrument.
 

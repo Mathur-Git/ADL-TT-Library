@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/positions
 
 # Positions overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/description-positions/positions-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/description-positions/positions-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 The Positions widget displays your positions (SODs and any daily transactions) and P/L across all of your accounts.
 

@@ -3,7 +3,7 @@
 "I need to do X — which blocks, and where is the worked example?"
 Every recipe links to the TT page that demonstrates it.
 
-[KB Home](../README.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Formulas](formula-reference.md) · [Gotchas](gotchas-and-limits.md) · [Full Index](../INDEX.md)
+[ADL KB Home](../ADL-KB-Home.md) · [Block Catalog](block-catalog.md) · [Core Semantics](core-semantics.md) · [Formulas](formula-reference.md) · [Gotchas](gotchas-and-limits.md)
 
 ---
 

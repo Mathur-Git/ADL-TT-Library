@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/bulking/task-bulkin
 
 # Bulking Care Orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/bulking/task-bulking/bulking-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/bulking/task-bulking/bulking-care-orders/)
 
 Using the Order Book or orders pane in the Order and Fills widget, you can bulk care orders together by:
 

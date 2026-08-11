@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/depth/
 
 # Using the Depth widget
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/task-depth/using-the-depth-widget/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/depth/task-depth/using-the-depth-widget/)
+>
+> **Interpreted in:** [Market Data & Depth § Depth widget & book imbalance](../../../../guides/market-data-and-depth.md#depth-widget-book-imbalance)
 
 Use the Depth widget to:
 

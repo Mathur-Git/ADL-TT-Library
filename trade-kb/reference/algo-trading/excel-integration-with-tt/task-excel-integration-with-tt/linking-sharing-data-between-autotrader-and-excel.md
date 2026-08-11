@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Linking – Sharing data between Autotrader and Excel
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/linking-sharing-data-between-autotrader-and-excel/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/linking-sharing-data-between-autotrader-and-excel/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Driving algo variables from Excel (linking)](../../../../guides/algo-ops.md#driving-algo-variables-from-excel-linking)
 
 TT lets you easily share data between the [Autotrader](../../autotrader/description-autotrader/autotrader-overview.md) widget and your Excel spreadsheet. You can:
 

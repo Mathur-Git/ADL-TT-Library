@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/floating-
 
 # Deleting orders in the Floating Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/deleting-orders-in-the-floating-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/deleting-orders-in-the-floating-order-book/)
 
 To delete an order, hover over the desired working order and click ![the Delete icon](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/Icon_DeleteOrder.png).
 

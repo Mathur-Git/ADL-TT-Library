@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Modifying orders from the Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/modifying-orders-from-the-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/modifying-orders-from-the-market-grid/)
 
 Using a Floating Order Book, you can modify the price and quantity of a working order in the Market Grid. The action (e.g., middle-click, left-click, hover) for opening the Floating Order Book is defined on the **Orders** tab in [Preferences](https://library.tradingtechnologies.com/trade/win-reference.html).
 

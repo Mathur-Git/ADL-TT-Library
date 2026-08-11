@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
 # Entering orders on a chart
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/entering-orders-on-a-chart/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/entering-orders-on-a-chart/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 ### To enter orders on a chart:
 
@@ -17,7 +19,7 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/chrt-chart-enter-order2.png)
 3. Enter an order quantity. You can type in a value, use
-   your [default order quantity](../description-charts/chart-trading.md#chart-default), or click one of the quantity buttons. You can use the **CLR** button to clear the quantity field.
+   your [default order quantity](../description-charts/chart-trading.md), or click one of the quantity buttons. You can use the **CLR** button to clear the quantity field.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/chrt-chart-enter-order-qty.png)
 4. Click a cell in either the Bids (blue) or Asks (red) column next to a price level to enter the order.

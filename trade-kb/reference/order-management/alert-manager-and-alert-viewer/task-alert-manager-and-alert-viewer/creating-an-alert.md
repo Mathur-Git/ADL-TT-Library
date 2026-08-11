@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/alert-man
 
 # Creating an alert
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/creating-an-alert/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/creating-an-alert/)
+>
+> **Interpreted in:** [Order Management & Risk § Alerts (real-time risk guard)](../../../../guides/order-management-and-risk.md#alerts-real-time-risk-guard)
 
 Use the Alert Manager to open the Alert Detail screen, which is used for creating your own custom alerts. Using the Alert Detail screen, you can create logic that determines when an alert is triggered based on order activity, positions, and algo behavior. For example, you can create an alert for when your orders get filled, or when your P/L falls below a certain amount in all of your trading accounts.
 

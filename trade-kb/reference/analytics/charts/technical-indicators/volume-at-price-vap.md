@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Volume At Price (VAP)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/volume-at-price-vap/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/volume-at-price-vap/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Volume at Price indicator displays the total volume for each price level as a bar chart on the right side of the chart. The Volume at Price indicator allows you to add the Volume at Price Side by Side indicator which shows both the buy and sell volume on the same bar.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # ADL Designer toolbar
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/reference-adl-basic-concepts/adl-designer-toolbar/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/reference-adl-basic-concepts/adl-designer-toolbar/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § Algo settings (Information Panel → Settings)](../../../../guides/algo-types.md#algo-settings-information-panel-settings)
 
 ### ADL Designer toolbar
 

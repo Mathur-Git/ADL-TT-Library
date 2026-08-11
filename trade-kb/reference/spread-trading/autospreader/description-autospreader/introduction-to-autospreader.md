@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Introduction to Autospreader
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/introduction-to-autospreader/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/introduction-to-autospreader/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § What AutoSpreader is](../../../../guides/spread-trading-autospreader.md#what-autospreader-is)
 
 Use Autospreader® to create and trade your own synthetic calendar, inter-product, or inter-exchange spreads. You can define the legs of the spread, then preview the implied market for the spread based on the outright legs. When entering orders in the implied market, Autospreader works the legs to achieve the spread setting parameters.
 

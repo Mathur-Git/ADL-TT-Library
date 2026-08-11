@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # BrackeTT (OTA)
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/brackett-ota/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/brackett-ota/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Ticket Algos (OTA) — TT Pro license](../../../../guides/order-types-and-execution.md#order-ticket-algos-ota-tt-pro-license)
 
 BrackeTT is an Order Ticket Algo (OTA) that is a simplified version of the TT Bracket order type. When launched, BrackeTT submits a Limit order which, upon being filled, submits additional orders that synthesize the logic of an OCO (one-cancels-other) order. These additional orders allow you to potentially lock in profits with a favorable move or prevent a downside loss without having to constantly monitor the position, and can be beneficial to users executing trades with tighter risk limits.
 

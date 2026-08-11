@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/trader-analytics
 
 # Trader Analytics Overview
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/description-trader-analytics/trader-analytics-overview/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/description-trader-analytics/trader-analytics-overview/)
+>
+> **Interpreted in:** [Charts & Analytics § Trader Analytics](../../../../guides/charts-and-analytics.md#trader-analytics)
 
 Trader Analytics gives a risk manager or trader the ability to analyze the current day’s trades and historical trade data from a comprehensive statistics report. By displaying individual trade and time analysis, Trader Analytics is the perfect tool for training new traders or reviewing current trader performance.
 

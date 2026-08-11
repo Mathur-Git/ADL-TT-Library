@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Disparity Index
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/disparity-index/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/disparity-index/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Disparity Index indicator measures the relative position of the most recent closing price to a selected moving average and reports the value as a percentage. A value greater than zero suggests that the asset is gaining upward momentum, while a value less than zero can be interpreted as a sign that selling pressure is increasing.
 

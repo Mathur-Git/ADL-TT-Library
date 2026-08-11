@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/combining/descripti
 
 # Combine Display
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/combining/description-combining/combine-display/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/combining/description-combining/combine-display/)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/cmb-combine-display-1024x177.png)
 

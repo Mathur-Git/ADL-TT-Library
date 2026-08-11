@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/descripti
 
 # Feedback widget
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/feedback-widget/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/feedback-widget/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 You can [report an incident or send feedback](feedback-widget.md) from within the TT application by using the Feedback widget in your workspace. Feedback can be sent for an individual widget or for your entire workspace.
 

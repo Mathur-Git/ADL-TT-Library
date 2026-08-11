@@ -3,7 +3,7 @@
 How the TT platform itself is put together — access methods, workspaces, widgets, and the global
 preferences that govern them. This is the layer underneath everything else in this KB.
 
-[KB Home](../README.md) · [Full Index](../INDEX.md) · [Spread Trading / Autospreader](spread-trading-autospreader.md) ·
+[Trade KB Home](../Trade-KB-Home.md) · [Spread Trading / Autospreader](spread-trading-autospreader.md) ·
 [Order Types & Execution](order-types-and-execution.md) · [Market Data & Depth](market-data-and-depth.md) ·
 [Algo Ops](algo-ops.md) · [Order Management & Risk](order-management-and-risk.md) ·
 **Platform & Workspace** (self) · [Charts & Analytics](charts-and-analytics.md)

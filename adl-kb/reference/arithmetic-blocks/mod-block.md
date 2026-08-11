@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/arithmetic-blocks/mod-block/
 
 # Mod block
 
-> Category: **Arithmetic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/mod-block/)
+> Category: **Arithmetic Blocks** · [Source](https://library.tradingtechnologies.com/adl/arithmetic-blocks/mod-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Arithmetic blocks](../../guides/block-catalog.md#arithmetic-blocks) · [Core Semantics § 8. NaN is contagious and destructive](../../guides/core-semantics.md#8-nan-is-contagious-and-destructive)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ab-mod-block.png)
 

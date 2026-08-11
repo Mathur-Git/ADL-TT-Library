@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Trading from the Product Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/trading-from-the-product-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/task-product-grid/trading-from-the-product-grid/)
 
 You can submit orders from the Product Grid by opening a floating order entry window (e.g., MD Trader®) or linked
 widget
@@ -41,7 +41,7 @@ To trade with a floating order entry MD Trader:
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/pg-trade-float-mdt.png)
 2. Enter the remaining order information in [MD
-   Trader](../../../basic-order-entry/md-trader/task-md-trader/recentering-md-trader.md#mdt-order) and submit the order.
+   Trader](../../../basic-order-entry/md-trader/task-md-trader/recentering-md-trader.md) and submit the order.
 
 ## Trading with a Linked Widget
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Submitting an order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/submitting-an-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/submitting-an-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Ticket](../../../../guides/order-types-and-execution.md#order-ticket)
 
 —
 widget: ot
@@ -30,16 +32,16 @@ To submit an order from Order Ticket:
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-submit-order-3.png)
 
-   **Note**: You can click ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-hamburger-icon-1.png) to display the available [templates](../../tt-order-types/description-tt-order-types/tt-order-type-templates.md) and ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-flyout-icon-1.png) to display all of the parameters in a [flyout](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md#tto-parameters).
+   **Note**: You can click ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-hamburger-icon-1.png) to display the available [templates](../../tt-order-types/description-tt-order-types/tt-order-type-templates.md) and ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-tto-flyout-icon-1.png) to display all of the parameters in a [flyout](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md).
 
    For quicker access to order templates, you can display the template selector by enabling **Algo templates** from the **Show/Hide** context menu.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-template-selector-bracket.png)
-5. Optionally, click the tag icon to show and enter data in the [free-form text fields](../description-order-ticket/order-entry-from-order-ticket.md#free-form).
+5. Optionally, click the tag icon to show and enter data in the [free-form text fields](../description-order-ticket/order-entry-from-order-ticket.md).
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-submit-order-4.png)
 
-   These fields may be populated by default with user order-routing exchange properties from the Setup application. The usage of these [free-form text fields](../reference-order-ticket/order-ticket-reference.md#fft-table) varies by exchange.**Tip**: As needed, you can click the reset icon to reset the order ticket to its default settings.
+   These fields may be populated by default with user order-routing exchange properties from the Setup application. The usage of these [free-form text fields](../reference-order-ticket/order-ticket-reference.md) varies by exchange.**Tip**: As needed, you can click the reset icon to reset the order ticket to its default settings.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/ot-submit-order-5.png)
 6. Click **Buy** or **Sell** to submit the order.

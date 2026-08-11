@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Correlation Coefficient
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/correlation-coefficient/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/correlation-coefficient/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Correlation Coefficient indicator helps identify the level of correlation between multiple instruments. When two instruments trend in the same direction, whether higher or lower, a stronger positive correlation is indicated. Likewisem, when the prices of the instruments trend in opposite directions, a stronger negative correlation is indicated. The correlation fluctuates between -1 and 1, with 0 meaning no correlation exists between the instruments.
 

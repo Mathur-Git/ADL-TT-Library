@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # User-defined variables
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/user-defined-variables/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/user-defined-variables/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § User-defined variables](../../../../guides/algo-types.md#user-defined-variables) · [Algo Ops: Dashboard, Autotrader & Excel § Algo Dashboard vs Autotrader](../../../../../trade-kb/guides/algo-ops.md#algo-dashboard-vs-autotrader)
 
 A user-defined variable is setting for certain blocks that lets the trader set a block value when starting an algo. User-defined variables help you create multi-purpose algos than can be configured dynamically and differently each time the algo is used. The following blocks can be designated as variable blocks:
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/group-blocks/group-blocks-ov
 
 # Group blocks overview
 
-> Category: **Group Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/group-blocks/group-blocks-overview/)
+> Category: **Group Blocks** · [Source](https://library.tradingtechnologies.com/adl/group-blocks/group-blocks-overview/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Organisation and reuse](../../guides/design-patterns.md#organisation-and-reuse)
 
 Any set of blocks can be consolidated into a single Group block. In addition to the ease of replication and enabling a “cleaner” canvas, grouping a set of blocks allows the user to virtualize or save the group to a library for future use.
 

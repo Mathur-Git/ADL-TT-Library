@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Automating a Fixed Income Futures Hedge Order
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/case-studies-advanced-concepts/automating-a-fixed-income-futures-hedge-order/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/case-studies-advanced-concepts/automating-a-fixed-income-futures-hedge-order/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Exits and position management](../../../../guides/design-patterns.md#exits-and-position-management)
 
 ### Case Study Overview
 
@@ -72,7 +74,7 @@ Once the ADL algo has been [deployed](../../adl-basic-concepts/description-adl-b
 select the algo then stage an instance by clicking on the “+ Add row” button.
 
 We will need to define an account and futures contract within this algo instance on Autotrader, then using the [Copy
-Link to TT](../../../../../trade-kb/reference/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/linking-sharing-data-between-autotrader-and-excel.md#autotrader) function from Excel, copy the Equivocal Futures (lot) value (Cell F2) and paste into the user-defined
+Link to TT](../../../../../trade-kb/reference/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/linking-sharing-data-between-autotrader-and-excel.md) function from Excel, copy the Equivocal Futures (lot) value (Cell F2) and paste into the user-defined
 variable qty cell within Autotrader. You will see the cell turn green to indicate the dynamic linking of these two
 cells:
 

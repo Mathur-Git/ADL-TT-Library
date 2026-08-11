@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-t
 
 # Managing a multi-monitor workspace
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-tt-desktop/managing-a-multi-monitor-workspace/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/task-tt-desktop/managing-a-multi-monitor-workspace/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 Using the workspace windows functionality, you can add windows and switch between multiple monitors in a single workspace. After adding a window, you can also rename it, delete it, or set it as your default window.
 

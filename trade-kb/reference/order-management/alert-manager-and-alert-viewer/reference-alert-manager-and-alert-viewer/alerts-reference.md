@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/alert-man
 
 # Alerts Reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference/)
+>
+> **Interpreted in:** [Order Management & Risk § Alerts (real-time risk guard)](../../../../guides/order-management-and-risk.md#alerts-real-time-risk-guard)
 
 ## Order Condition
 

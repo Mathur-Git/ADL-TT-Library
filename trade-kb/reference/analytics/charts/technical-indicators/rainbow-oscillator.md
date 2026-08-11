@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Rainbow Oscillator
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/rainbow-oscillator/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/rainbow-oscillator/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Rainbow Oscillator calculates and displays the highest high and the lowest low of one or more simple moving averages to determine market trends. The oscillator curves are created based the moving average calculations. The high and low oscillator curves are color-coded in the chart, and market trends can be determined based on the width of the curves.
 

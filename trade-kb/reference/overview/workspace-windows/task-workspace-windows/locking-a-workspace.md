@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Locking a workspace
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/locking-a-workspace/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/locking-a-workspace/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 You can lock a workspace to prevent any actions in the workspace, such as submitting an order by accidentally clicking the mouse.
 

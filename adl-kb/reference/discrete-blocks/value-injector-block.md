@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/value-inject
 
 # Value Injector block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/value-injector-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/value-injector-block/)
+>
+> **Interpreted in:** [Core Semantics § 7. Virtualization](../../guides/core-semantics.md#7-virtualization) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas) · [Formula Editor Reference § Message fields](../../guides/formula-reference.md#message-fields)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/db-value-injector-block.png)
 

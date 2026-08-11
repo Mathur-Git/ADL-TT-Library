@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Trading Crypto on TT Overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/description-trading-crypto-on-tt/trading-crypto-on-tt-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/description-trading-crypto-on-tt/trading-crypto-on-tt-overview/)
 
 The TT® platform provides users with access to crypto exchanges to trade a variety of digital currencies like Bitcoin, Ethereum, and Litecoin.
 

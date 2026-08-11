@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Algo dashboard panes
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/description-algo-dashboard/algo-dashboard-panes/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/description-algo-dashboard/algo-dashboard-panes/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Algo Dashboard vs Autotrader](../../../../guides/algo-ops.md#algo-dashboard-vs-autotrader) · [Algo Ops: Dashboard, Autotrader & Excel § Monitoring a running algo](../../../../guides/algo-ops.md#monitoring-a-running-algo)
 
 The Algo Dashboard is divided into three separate panes. Located on the left side is the **Algo Explorer** pane where you can search for and select private or shared algos. When selected, the algo variables display in the center Algo Orders pane where you can edit and start the algo. Any changes made to variables can be saved as a template for future use. After an algo has been started, you can monitor and manage its progress in the **Algo Variables** pane.
 

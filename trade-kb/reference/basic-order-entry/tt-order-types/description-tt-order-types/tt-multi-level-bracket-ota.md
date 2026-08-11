@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Multi-Level Bracket (OTA)
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-multi-level-bracket-ota/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-multi-level-bracket-ota/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Ticket Algos (OTA) — TT Pro license](../../../../guides/order-types-and-execution.md#order-ticket-algos-ota-tt-pro-license)
 
 TT Multi-Level Bracket is an Order Ticket Algo (OTA) that allows you to take a position in an instrument and exit at
 one or more prices.

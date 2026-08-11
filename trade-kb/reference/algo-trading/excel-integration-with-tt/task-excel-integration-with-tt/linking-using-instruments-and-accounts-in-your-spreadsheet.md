@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Linking – Using instruments and accounts in your spreadsheet
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/linking-using-instruments-and-accounts-in-your-spreadsheet/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/linking-using-instruments-and-accounts-in-your-spreadsheet/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Driving algo variables from Excel (linking)](../../../../guides/algo-ops.md#driving-algo-variables-from-excel-linking)
 
 TT does not allow you to change instrument and account information after an algo is launched. Therefore, TT does not support linking instrument or account values from Excel. You can, however, store the values in your spreadsheet and use the standard system copy and paste functionality to copy the values from your spreadsheet into an Algo Dashboard or Autotrader widget before launching the algo.
 

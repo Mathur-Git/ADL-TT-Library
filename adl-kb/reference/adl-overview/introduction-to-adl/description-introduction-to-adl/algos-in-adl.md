@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/introduction-to
 
 # Algos in ADL
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/description-introduction-to-adl/algos-in-adl/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/description-introduction-to-adl/algos-in-adl/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Order entry](../../../../guides/design-patterns.md#order-entry)
 
 An algo in ADL represents programmatic logic visually as:
 

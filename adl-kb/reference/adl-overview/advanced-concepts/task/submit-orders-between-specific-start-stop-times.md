@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Submit Orders Between Specific Start/Stop Times
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/submit-orders-between-specific-start-stop-times/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/submit-orders-between-specific-start-stop-times/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Time and scheduling](../../../../guides/design-patterns.md#time-and-scheduling)
 
 Users often need to turn on/off logic during specific time frames. There are multiple ways to do something in ADL, however the following focuses on using the [Generator block](../../../discrete-blocks/generator-block.md) to achieve this type of logic.
 

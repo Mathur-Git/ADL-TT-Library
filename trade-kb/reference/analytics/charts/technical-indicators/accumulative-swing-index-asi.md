@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Accumulative Swing Index (ASI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/accumulative-swing-index-asi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/accumulative-swing-index-asi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Accumulative Swing Index created by Welles Wilder attempts to find the swing line within the bar. Originally created to apply to daily bars, as there is a market or user defined value of the maximum price change that can occur during the trading session. Using the study on intra-day bar data will require the user to specify a limit value for the given bar interval.
 

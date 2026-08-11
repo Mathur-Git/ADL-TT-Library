@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/logic-blocks/if-then-block/
 
 # If Then block
 
-> Category: **Logic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/if-then-block/)
+> Category: **Logic Blocks** · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/if-then-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Logic blocks](../../guides/block-catalog.md#logic-blocks) · [Core Semantics § 8. NaN is contagious and destructive](../../guides/core-semantics.md#8-nan-is-contagious-and-destructive) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ### If Then block
 

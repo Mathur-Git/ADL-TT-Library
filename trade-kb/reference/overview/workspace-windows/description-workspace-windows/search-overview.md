@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Search overview
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/description-workspace-windows/search-overview/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/description-workspace-windows/search-overview/)
+>
+> **Interpreted in:** [Platform & Workspace § Finding instruments](../../../../guides/platform-and-workspace.md#finding-instruments)
 
 TT provides you with the capability to quickly find instruments and trade them in your workspace. After creating or opening a workspace, you can use the Search functionality to [search for an instrument and open a widget](../task-workspace-windows/searching-for-an-instrument.md)
 

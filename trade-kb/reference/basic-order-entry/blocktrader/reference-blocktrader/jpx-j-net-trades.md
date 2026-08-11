@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # JPX J-Net Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/jpx-j-net-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/jpx-j-net-trades/)
 
 The TT® platform supports [J-NET Trading on JPX](https://www.jpx.co.jp/english/derivatives/rules/j-net/index.html). Using the Blocktrader widget on TT, you can submit the following orders:
 

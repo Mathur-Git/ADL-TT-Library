@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Momentum Indicator
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/momentum-indicator/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/momentum-indicator/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Momentum Indicator identifies when the price is moving upwards or downwards, and by how much.. The Momentum indicator compares the most recent closing price to a previous closing price of any time frame. The Momentum indicator is regarded as an excellent gauge of market strength. A shorter period setting will create a more sensitive indicator, but will also increase choppiness and the potential for increased false signals.
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/routing-
 
 # Routing Rules Display
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/description-routing-rules/routing-rules-display/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/description-routing-rules/routing-rules-display/)
 
 The Routing Rules widget consists of the following elements as shown.
 

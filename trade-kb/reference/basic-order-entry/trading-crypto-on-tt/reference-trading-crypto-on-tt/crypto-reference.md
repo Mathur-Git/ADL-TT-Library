@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Crypto Reference
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/crypto-reference/)
 
 The following table shows the [MD Trader local settings](../../md-trader/reference-md-trader/md-trader-reference.md) and [workspace global preferences](https://library.tradingtechnologies.com/trade/win-reference.html) specific to trading crypto instruments.
 

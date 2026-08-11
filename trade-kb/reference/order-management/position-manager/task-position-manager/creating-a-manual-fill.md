@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Creating a manual fill
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/creating-a-manual-fill/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/task-position-manager/creating-a-manual-fill/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 **Note**: As an administrator, the “Update positions” setting must be enabled in Setup for each
 account available to you in order to create manual fills for that account.
@@ -16,7 +18,7 @@ To create a manual fill:
 1. In the workspace menu bar, click **Widgets** | **Miscellaneous** | **Position Manager**.
 
    **Tip**: You can also open Positions Manager by clicking **Create Manual Fill** from the context menu when selecting a row in the Positions widget.
-2. Select [Admin Fills](../description-position-manager/position-manager-overview.md#admin) or [Local Fills](../description-position-manager/position-manager-overview.md#local) as the manual fill mode and click **+ Add Row**.
+2. Select [Admin Fills](../description-position-manager/position-manager-overview.md) or [Local Fills](../description-position-manager/position-manager-overview.md) as the manual fill mode and click **+ Add Row**.
 3. Enable the following optional settings as needed:
    * **Price off tick** — If checked, allows you to enter an off tick price per leg for instruments that support tick sizes smaller than what is displayed.
 

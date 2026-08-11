@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/widgets/descripti
 
 # Available Widgets
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/available-widgets/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/widgets/description-widgets/available-widgets/)
+>
+> **Interpreted in:** [Platform & Workspace § Widgets](../../../../guides/platform-and-workspace.md#widgets)
 
 The following widgets are available in the Trade application:
 
@@ -24,9 +26,9 @@ The following widgets are available in the Trade application:
 * [Balances](../../../order-management/balances/description-balances/balances-overview.md) — Allows you to view real-time account balances and margin requirements of your account.
 * [Blocktrader](../../../basic-order-entry/blocktrader/description-blocktrader/blocktrader-overview.md) — Gives you the ability to submit wholesale and OTC trades.
 * [Chart](../../../analytics/charts/description-charts/chart-overview.md) — Displays historical market data in a variety of chart types and gives you the ability to add a multitude of technical indicators.
-* [Depth](/trade/dep-depth-widget-overview.html%0A) — Supports viewing detailed or aggregate depth for a single instrument.
+* [Depth](https://library.tradingtechnologies.com/trade/dep-depth-widget-overview.html) — Supports viewing detailed or aggregate depth for a single instrument.
 * [Electronic Eye](https://library.tradingtechnologies.com/trade/oee-options-electronic-eye-overview.html) — Displays market data for all puts and calls of an options expiry and can be configured to find trading opportunities based on your criteria.
-* [Exchange News](/trade/b3-trading-on-b3-overview.html%0A) — Displays news messages sent by the B3 exchange via their price feed.
+* [Exchange News](https://library.tradingtechnologies.com/trade/b3-trading-on-b3-overview.html) — Displays news messages sent by the B3 exchange via their price feed.
 * [Expiration Manager](../../../order-management/position-manager/description-position-manager/position-manager-overview.md) — Allows you to monitor your positions by strike and easily and accurately expire your options positions.
 * [Fills](../../../order-management/fills/description-fills/fills-overview.md) — Displays all of your fills from the current trading session as well as from previous trading sessions.
 * [Hedge Manager](../../../spread-trading/hedge-manager/description-hedge-manager/hedge-manager-overview.md) — Displays all of your Autospreader hedge orders in a single widget and gives you the ability to act on unfilled hedge orders.

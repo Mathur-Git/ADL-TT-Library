@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/routing-
 
 # Routing Rules Overview
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/description-routing-rules/routing-rules-overview/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/description-routing-rules/routing-rules-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Routing rules](../../../../guides/order-types-and-execution.md#routing-rules)
 
 The Routing Rules widget gives you the ability to configure your most common routing scenarios on a per broker or
 customer basis. Using the widget, you can create routing rules that allow you to split and route different portions

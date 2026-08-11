@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Claiming and unclaiming care orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/claiming-and-unclaiming-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/claiming-and-unclaiming-care-orders/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 Users with order permissions to manage care orders can [claim a care order](#claiming) using their Order
 Book. After claiming the order, the user is considered the “owner” of the care order in the TT system.

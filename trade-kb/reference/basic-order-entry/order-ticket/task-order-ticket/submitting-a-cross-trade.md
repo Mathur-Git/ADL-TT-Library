@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Submitting a cross trade
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/submitting-a-cross-trade/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/submitting-a-cross-trade/)
+>
+> **Interpreted in:** [Order Types & Execution § Native order types](../../../../guides/order-types-and-execution.md#native-order-types)
 
 To submit a cross trade:
 

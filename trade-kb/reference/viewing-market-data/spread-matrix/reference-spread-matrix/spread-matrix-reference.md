@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/spread
 
 # Spread Matrix reference
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/reference-spread-matrix/spread-matrix-reference/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/spread-matrix/reference-spread-matrix/spread-matrix-reference/)
+>
+> **Interpreted in:** [Market Data & Depth § Spread Matrix (exchange-listed & inter-product spreads)](../../../../guides/market-data-and-depth.md#spread-matrix-exchange-listed-inter-product-spreads)
 
 ## Context menu options
 
@@ -72,7 +74,7 @@ newly-opened Spread Matrix widgets, or to apply them to existing opened widgets,
 
 ### Display
 
-* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget.
+* **Colors**: Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget.
 * **Bold font**: Enable this setting to use bold text in the widget.
 * **Cell highlight type** — Sets whether to highlight **Net change** or **Implied prices/quantities** with colors selected in the **Colors** palette. The default setting is **None**.
 * **Show tabs** — Check this option to enable tabs in the Spread Matrix or uncheck to hide the tabs

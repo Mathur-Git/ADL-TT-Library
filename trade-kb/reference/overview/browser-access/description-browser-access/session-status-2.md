@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/de
 
 # Session Status
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/session-status-2/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/session-status-2/)
+>
+> **Interpreted in:** [Platform & Workspace § Session status](../../../../guides/platform-and-workspace.md#session-status)
 
 ## Session Status indicator
 

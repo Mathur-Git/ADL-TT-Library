@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/time-a
 
 # Entering orders from Time and Sales
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/task-time-and-sales/entering-orders-from-time-and-sales/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/task-time-and-sales/entering-orders-from-time-and-sales/)
+>
+> **Interpreted in:** [Market Data & Depth § Time and Sales](../../../../guides/market-data-and-depth.md#time-and-sales)
 
 You can enter orders for instruments displayed in Time and Sales by enabling **Launch floating order entry on left click on price or quantity** in the widget [settings](../reference-time-and-sales/time-sales-reference.md). Click the price or quantity for a trade displayed in Time and Sales to open the floating order entry widget of your choice seeded with either the price or quantity that you selected, and configure and submit the order.
 

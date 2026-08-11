@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/de
 
 # Title Bar
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/title-bar/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/title-bar/)
 
 The Workspace Management page and most TT applications contain the TT platform title bar at the top of the page.
 

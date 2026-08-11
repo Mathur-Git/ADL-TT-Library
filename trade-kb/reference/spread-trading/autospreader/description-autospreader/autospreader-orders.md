@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader Orders
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/autospreader-orders/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/autospreader-orders/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Tick size and the synthetic spread](../../../../guides/spread-trading-autospreader.md#tick-size-and-the-synthetic-spread) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Quoting and hedging](../../../../guides/spread-trading-autospreader.md#quoting-and-hedging) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Cross-references](../../../../guides/spread-trading-autospreader.md#cross-references)
 
 When an Autospreader order is entered, all potential outright orders, including all quoting and all possible hedge orders, are position risk-checked before being submitted into the market. If any of the potential orders fails the risk check, no orders are placed and the whole synthetic spread order is pulled.
 
@@ -34,7 +36,7 @@ Order Book.
 
 When submitting Autospreader parent orders, the following order types are supported:
 
-* [Limit](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md#limit-type)
+* [Limit](../../../basic-order-entry/order-ticket/description-order-ticket/order-types.md)
 * [TT Iceberg](../../../basic-order-entry/tt-order-types/description-tt-order-types/tt-iceberg-order.md)
 * [TT Timed](../../../basic-order-entry/tt-order-types/description-tt-order-types/tt-timed-order.md)
 * [TT Time Weighed Average Price (TWAP)](../../../basic-order-entry/tt-order-types/description-tt-order-types/tt-time-weighted-average-price.md)

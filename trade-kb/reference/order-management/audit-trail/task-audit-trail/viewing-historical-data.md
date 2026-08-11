@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-tra
 
 # Viewing historical data
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/task-audit-trail/viewing-historical-data/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/task-audit-trail/viewing-historical-data/)
+>
+> **Interpreted in:** [Order Management & Risk § Audit trail / query](../../../../guides/order-management-and-risk.md#audit-trail-query)
 
 You can view messages from any date and time in the history of the
 account. Simply right-click in the widget and select **Go to date** from the context menu.

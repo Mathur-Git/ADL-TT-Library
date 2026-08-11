@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/des
 
 # Fill Confirmation
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/description-fills/fill-confirmation/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/description-fills/fill-confirmation/)
 
 Brokers or users who share an account can indicate to one another which trades/confirmations have been reported to a client by confirming fills in the Fills widget. Full and partial fills can be confirmed in either Detail, Continuous, or By Order mode. Synthetic parent order fills cannot be confirmed, but you can confirm the child order fills. Once a fill is confirmed, it cannot be unconfirmed.
 

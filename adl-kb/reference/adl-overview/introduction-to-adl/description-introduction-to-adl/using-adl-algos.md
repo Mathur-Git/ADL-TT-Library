@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/introduction-to
 
 # Using ADL algos
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/description-introduction-to-adl/using-adl-algos/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/description-introduction-to-adl/using-adl-algos/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § Standard algo](../../../../guides/algo-types.md#standard-algo)
 
 ADL and the [Trade](https://library.tradingtechnologies.com/trade/index.html) app are closely integrated so that you can easily use custom ADL algos to submit and manage orders from the Trade app. The process for creating and using an ADL algo is as follows:
 

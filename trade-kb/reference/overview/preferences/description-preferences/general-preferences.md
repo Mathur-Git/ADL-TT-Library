@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/preferences/descr
 
 # General Preferences
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/general-preferences/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/general-preferences/)
+>
+> **Interpreted in:** [Platform & Workspace § Preferences](../../../../guides/platform-and-workspace.md#preferences)
 
 ![General preferences](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/wrk-preferences-general.png)
 
@@ -51,7 +53,7 @@ Click each preference in the **Display** section to see a list of options.
 
 | Preference | Description |
 | --- | --- |
-| Cache instrument data locally | Sets whether to cache the instrument information downloaded when starting the Trade application. The setting is enabled by default to reduce bandwidth and improve performance, as most instrument definitions do not change frequently.  **Note:** You can update an instrument definition manually, if needed, from the [MD Trader](../../../basic-order-entry/md-trader/reference-md-trader/md-trader-reference.md#contextmenu) or [Spread Matrix](../../../order-management/fills/reference-fills/fills-reference.md) context menus. |
+| Cache instrument data locally | Sets whether to cache the instrument information downloaded when starting the Trade application. The setting is enabled by default to reduce bandwidth and improve performance, as most instrument definitions do not change frequently.  **Note:** You can update an instrument definition manually, if needed, from the [MD Trader](../../../basic-order-entry/md-trader/reference-md-trader/md-trader-reference.md) or [Spread Matrix](../../../order-management/fills/reference-fills/fills-reference.md) context menus. |
 
 ←[Previous PostPreferences Overview](preferences-overview.md)
 

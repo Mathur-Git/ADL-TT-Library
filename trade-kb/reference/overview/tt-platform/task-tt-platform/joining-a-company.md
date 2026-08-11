@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/task-
 
 # Joining a company
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/task-tt-platform/joining-a-company/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/task-tt-platform/joining-a-company/)
+>
+> **Interpreted in:** [Platform & Workspace § TT accounts](../../../../guides/platform-and-workspace.md#tt-accounts)
 
 To trade in the production environment, you must register your TT account with your trading or clearing firm by joining a “company” in the TT system. To begin the process of joining a company, contact your [company administrator](https://library.tradingtechnologies.com/user-setup/TTUS_User_Profile.html), who will send you an invitation to join via email. When the invitation is sent, you’ll receive an email to “Get Started”.
 

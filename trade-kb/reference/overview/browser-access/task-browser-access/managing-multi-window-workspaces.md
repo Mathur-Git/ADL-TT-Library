@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/ta
 
 # Managing multi-window workspaces
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/managing-multi-window-workspaces/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/managing-multi-window-workspaces/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 Using the workspace windows functionality, you can add and switch between multiple windows in a single workspace. After adding a window, you can also rename it, delete it, or set it as your default window.
 

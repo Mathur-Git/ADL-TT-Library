@@ -6,9 +6,11 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Time Series Bars for OHLC and VWAP Values
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/time-series-bars-for-ohlc-and-vwap-values/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/time-series-bars-for-ohlc-and-vwap-values/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Market data, bars and indicators](../../../../guides/design-patterns.md#market-data-bars-and-indicators)
 
-ADL allows a number of ways to create [technical indicators](../../../miscellaneous-blocks/analytics-block.md#technical-indicators). In this article, we focus on creating time series bars for OHLC (Open, High, Low, Close) and VWAP (Volume Weighted Average Price indicators).
+ADL allows a number of ways to create [technical indicators](../../../miscellaneous-blocks/analytics-block.md). In this article, we focus on creating time series bars for OHLC (Open, High, Low, Close) and VWAP (Volume Weighted Average Price indicators).
 
 This first ADL Canvas leverages the [Analytics block](../../../miscellaneous-blocks/analytics-block.md) to update the time series bars at 1 Minute Time intervals.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Swing Index (SI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/swing-index-si/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/swing-index-si/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Swing Index (SI) indicator is an oscillator that is used as part of the Accumulative Swing Index for determining price trends for an instrument. Typically, an indication to buy is when the SI curve crosses above the zero line, and an indication to sell is when the SI curve crosses below the
 zero line.

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/discrete-orde
 
 # Discrete Order block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/discrete-order-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/discrete-order-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § After launch](../../guides/algo-types.md#after-launch) · [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Core Semantics § 6. The Loop block suspends actors](../../guides/core-semantics.md#6-the-loop-block-suspends-actors) · [Core Semantics § 9. Order block vs Discrete Order block vs Single Order...](../../guides/core-semantics.md#9-order-block-vs-discrete-order-block-vs-single-order-container) · [Design Patterns & Recipe Index § Order entry](../../guides/design-patterns.md#order-entry)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tb-discrete-order-block.png)
 

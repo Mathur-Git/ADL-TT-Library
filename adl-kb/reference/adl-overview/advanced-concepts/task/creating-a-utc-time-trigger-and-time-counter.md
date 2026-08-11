@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Creating a UTC Time Trigger and Time Counter
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-a-utc-time-trigger-and-time-counter/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-a-utc-time-trigger-and-time-counter/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Time and scheduling](../../../../guides/design-patterns.md#time-and-scheduling)
 
 ### Creating a UTC Time Trigger and Time Counter
 

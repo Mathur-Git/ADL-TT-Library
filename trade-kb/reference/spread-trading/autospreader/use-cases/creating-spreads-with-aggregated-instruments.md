@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Creating spreads with aggregated instruments
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/use-cases/creating-spreads-with-aggregated-instruments/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/use-cases/creating-spreads-with-aggregated-instruments/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Spread definition & formulas](../../../../guides/spread-trading-autospreader.md#spread-definition-formulas) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Aggregator](../../../../guides/spread-trading-autospreader.md#aggregator)
 
 Using Autospreader, you can create a synthetic spread using an Aggregator instrument as one of the spread legs. For example, you can create a Basis Spread using an aggregated cash instrument as the front leg and a treasury futures instrument as the back leg.
 

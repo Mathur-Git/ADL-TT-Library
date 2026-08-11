@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Order upload .csv file format
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/reference-order-book/order-upload-csv-file-format/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/reference-order-book/order-upload-csv-file-format/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 ## About the order upload file
 

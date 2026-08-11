@@ -6,7 +6,11 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Introduction to Product Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/description-product-grid/introduction-to-product-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/description-product-grid/introduction-to-product-grid/)
+>
+> **Interpreted in:** [Market Data & Depth § Market Grid / Product Grid](../../../../guides/market-data-and-depth.md#market-grid-product-grid) · [Market Data & Depth § Quick lookup](../../../../guides/market-data-and-depth.md#quick-lookup)
+>
+> **Also in this section:** [Product Grid Reference](../reference-product-grid/product-grid-reference.md)
 
 The Product Grid displays market data for all available contracts for the selected products. These appear in a
 horizontal, grid-like format with the selected products across the top and all available expirys listed below. This

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-split
 
 # Stitching and Splitting Care Orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-splitting/task-stitching-and-splitting/stitching-and-splitting-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/stitching-and-splitting/task-stitching-and-splitting/stitching-and-splitting-care-orders/)
 
 Using the Order Book or orders pane of the Order and Fills widget, you can [stitch and split](../description-stitching-and-splitting/stitching-and-splitting-overview.md) care orders to create exchange-traded spreads. Care orders can be [stitched](#stitch) and [split](#split) using the context menu or [combining tool](#combine).
 

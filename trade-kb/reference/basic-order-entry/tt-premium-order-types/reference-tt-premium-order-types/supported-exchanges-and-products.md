@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premi
 
 # Supported Exchanges and Products
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/reference-tt-premium-order-types/supported-exchanges-and-products/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-premium-order-types/reference-tt-premium-order-types/supported-exchanges-and-products/)
 
 ## TT Premium Order Type Supported Exchange
 

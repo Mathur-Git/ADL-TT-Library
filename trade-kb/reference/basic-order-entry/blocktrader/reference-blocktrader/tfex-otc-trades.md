@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # TFEX OTC Trades
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/tfex-otc-trades/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/tfex-otc-trades/)
 
 The TT® platform supports [TFEX OTC Trades](https://www.tfex.co.th/tfex/index.html).
 Using the Blocktrader widget, you can submit One Sided Orders. One Sided Orders are orders posted from one participant to another who is listed as the counterparty.

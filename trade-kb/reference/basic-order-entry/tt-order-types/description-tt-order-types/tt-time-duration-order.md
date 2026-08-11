@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Time Duration order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-time-duration-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-time-duration-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Slicing family](../../../../guides/order-types-and-execution.md#slicing-family) · [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 A TT Time Duration order slices a large quantity order into smaller disclosed order portions for a specified duration to
 achieve the total goal quantity; child order portions are entered into the market based on an interval or disclosed

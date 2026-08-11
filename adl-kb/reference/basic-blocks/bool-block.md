@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/basic-blocks/bool-block/
 
 # Bool block
 
-> Category: **Basic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/basic-blocks/bool-block/)
+> Category: **Basic Blocks** · [Source](https://library.tradingtechnologies.com/adl/basic-blocks/bool-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § OTA — Order Ticket Algo](../../guides/algo-types.md#ota-order-ticket-algo) · [Algo Types, Launching & Deployment § User-defined variables](../../guides/algo-types.md#user-defined-variables) · [Design Patterns & Recipe Index § Order entry](../../guides/design-patterns.md#order-entry)
 
 ### Bool block
 

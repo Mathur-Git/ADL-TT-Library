@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/building-your-f
 
 # Building the entry logic
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/building-the-entry-logic/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/building-your-first-algo/lessons/building-the-entry-logic/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Testing](../../../../guides/design-patterns.md#testing)
 
 The first part of building the Scalper algo is to define the entry order. This portion of your algo places a buy
 order for a specified quantity at the best bid of the defined instrument.
@@ -45,7 +47,7 @@ To define the instrument for our entry order:
 1. From the **Blocks** panel, double-click the [Instrument](../../../trading-blocks/instrument-block.md)
    block and then arrange it within the ADL canvas.
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/bfa-scalper-algo-ib-1.png)
-2. In the **Block Properties** panel, specify the following [properties](../../../trading-blocks/instrument-block.md#settings).
+2. In the **Block Properties** panel, specify the following [properties](../../../trading-blocks/instrument-block.md).
    * Give the block a **Name** of **Instrument**.
    * In the **Instrument** field, specify the default instrument for the algo. In this
      example, you want to use CME’s front-month e-Mini S&P contract.

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Fractal Chaos Bands (FCB)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/fractal-chaos-bands-fcb/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/fractal-chaos-bands-fcb/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Fractal Chaos Bands (FCB) indicator looks back in time depending on the number of time periods trader selected to plot the indicator. The upper fractal line is made by plotting an instrument’s high prices and the lower fractal line is made by plotting price lows. Essentially, the Fractal Chaos Bands show an overall panorama of the price movement by filtering out the insignificant price fluctuations.
 

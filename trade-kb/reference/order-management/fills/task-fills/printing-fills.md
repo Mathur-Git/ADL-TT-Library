@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/tas
 
 # Printing fills
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/printing-fills/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/task-fills/printing-fills/)
 
 Select **Print** from the right-click context menu to print fills from the Fills widget. Fills are
 printed based on the filtered content of the widget, and not what fills are manually selected.

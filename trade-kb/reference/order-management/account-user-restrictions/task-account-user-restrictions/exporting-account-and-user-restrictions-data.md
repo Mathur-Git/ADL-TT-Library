@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/account-u
 
 # Exporting account and user restrictions data
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/account-user-restrictions/task-account-user-restrictions/exporting-account-and-user-restrictions-data/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/account-user-restrictions/task-account-user-restrictions/exporting-account-and-user-restrictions-data/)
 
 The account and user restrictions data can be exported to a .csv or .xlsx file directly from the Account & User Restrictions widget.
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Submitting related child orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/submitting-related-child-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/submitting-related-child-orders/)
 
 The owner who claimed the care order can enter related child orders to fill the parent order. Child orders are sent
 to the exchange based on the total quantity, price and position of the parent care order, and can be submitted in

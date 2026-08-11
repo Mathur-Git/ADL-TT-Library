@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Message timing
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/message-timing/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/message-timing/)
+>
+> **Interpreted in:** [Core Semantics § 2. The freeze rule](../../../../guides/core-semantics.md#2-the-freeze-rule)
 
 A discrete event message occurs at a single point in time and can be used to capture market data at that precise moment.
 

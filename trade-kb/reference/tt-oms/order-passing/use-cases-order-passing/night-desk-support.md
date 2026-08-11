@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/order-passing/use-c
 
 # Night desk support
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-passing/use-cases-order-passing/night-desk-support/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-passing/use-cases-order-passing/night-desk-support/)
 
 A simple use case for order passing is the use of a 24 hour “night desk” to manage unfilled orders or partially filled orders still working in the market.
 

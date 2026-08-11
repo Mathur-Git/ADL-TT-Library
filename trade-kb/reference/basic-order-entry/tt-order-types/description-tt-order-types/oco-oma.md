@@ -6,11 +6,13 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # OCO OMA
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/oco-oma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/oco-oma/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Management Algos (OMA) — applied to existing orders](../../../../guides/order-types-and-execution.md#order-management-algos-oma-applied-to-existing-orders)
 
 The OCO OMA lets you adopt two or more working orders in the Order Book and apply an OCO (one-cancels-other) OMA (Order Management Algo) to them. When one order is fully-filled, the other orders are canceled. Also, when partial fills are received for one order, the quantities of the other orders are reduced accordingly. The OCO OMA also lets you choose whether cancel the order if the market state of one of the child orders changes to a non-tradable state.
 
-**Note:** For an overview of Order Management Algos (OMA), refer to [https://library.tradingtechnologies.com/trade/oma-overview.html](https://library.tradingtechnologies.com/trade/oma-overview.html)
+**Note:** For an overview of Order Management Algos (OMA), refer to [Order Management Algos (OMA) overview](../../../algo-trading/order-management-algos-omas/order-management-algos-oma-overview.md)
 
 ## Limitations for adopting orders
 

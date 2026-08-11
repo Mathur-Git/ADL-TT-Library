@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Subscribing to Products in the Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/subscribing-to-products-in-the-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/subscribing-to-products-in-the-market-grid/)
+>
+> **Interpreted in:** [Market Data & Depth § Market Grid / Product Grid](../../../../guides/market-data-and-depth.md#market-grid-product-grid)
 
 You can create a tab that includes all available instruments for a specific product. This method allows the expired
 contracts to automatically roll into the next contract and will automatically add new instruments to the tab as they
@@ -17,7 +19,7 @@ come available.
 To subscribe to a product:
 
 1. [Add a
-   new tab](using-tabs-in-the-market-grid.md#add-tabs) to the
+   new tab](using-tabs-in-the-market-grid.md) to the
    Market Grid using the **From a Product** selector. Enter the product name and click the
    **OK** button.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Autospreader rules overview
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/autospreader-rules-overview/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/autospreader-rules-overview/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § AutoSpreader Rules — custom quoting/hedging logic](../../../../guides/spread-trading-autospreader.md#autospreader-rules-custom-quotinghedging-logic)
 
 Use Autospreader Rules to design your own custom spreading logic and features and add them to a spread. While the default Autospreader Server uses conventional spreading logic, the custom rules that you design will override or add to this default spread engine behavior.
 
@@ -19,7 +21,7 @@ The rules that you create can be added at three critical points of a spread life
 TT provides some commonly-used rules that you can add to your spread configuration. You can also create a rule or select a rule that was shared with you by your administrator. To create or add a rule, click the
 **+** button in the **Rules** field.
 
-For a description of each TT rule, refer to [Rule descriptions](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md#rules-desc).
+For a description of each TT rule, refer to [Rule descriptions](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md).
 
 Launch the widget by clicking the Widgets menu in the title bar and selecting **Autospreader Rules**.
 

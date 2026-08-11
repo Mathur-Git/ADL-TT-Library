@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/time-a
 
 # Adding instruments to Time & Sales
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/task-time-and-sales/adding-instruments-to-time-sales/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/time-and-sales/task-time-and-sales/adding-instruments-to-time-sales/)
+>
+> **Interpreted in:** [Market Data & Depth § Time and Sales](../../../../guides/market-data-and-depth.md#time-and-sales)
 
 You can populate a Time & Sales widget with one or more products and instruments. You can add a product, a single instrument, multiple instruments, all instruments in a product, or instruments from multiple products. When you add a product to a Time & Sales widget, newly created instruments for the product get added to that widget automatically.
 

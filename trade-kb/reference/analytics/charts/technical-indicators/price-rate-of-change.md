@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Price Rate of Change
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/price-rate-of-change/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/price-rate-of-change/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Price Rate of Change indicator is used to identify overbought or oversold conditions. It compares the current price with the previous price from a selected number of periods ago. The current price is divided by the previous price and expressed as a percentage. The rate increases until it reaches a market specific level. Extreme rates of increase could mean that the market is overheated and in need of a pause.
 

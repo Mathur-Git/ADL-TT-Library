@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/orders-an
 
 # Allocating Fills to Different Accounts
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/orders-and-fills/task-orders-and-fills/allocating-fills-to-different-accounts/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/orders-and-fills/task-orders-and-fills/allocating-fills-to-different-accounts/)
+>
+> **Interpreted in:** [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 ## Introduction
 

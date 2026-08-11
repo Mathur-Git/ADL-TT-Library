@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/descrip
 
 # Supported/Unsupported Care Order Actions
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/supported-unsupported-care-order-actions/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/supported-unsupported-care-order-actions/)
 
 The TT Platform will prevent a user from attempting to perform OMS actions that are not supported. The Order Book and OFW does not allow the following actions:
 

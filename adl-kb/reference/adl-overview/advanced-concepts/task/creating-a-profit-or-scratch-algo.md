@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Creating a Profit or Scratch Algo
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-a-profit-or-scratch-algo/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/creating-a-profit-or-scratch-algo/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Exits and position management](../../../../guides/design-patterns.md#exits-and-position-management)
 
 **Please note that all samples in the help library are intended for educational purpose to give insight into ways to approach building different pieces of logic in ADL. Any use of the samples in production is at your own risk.**
 

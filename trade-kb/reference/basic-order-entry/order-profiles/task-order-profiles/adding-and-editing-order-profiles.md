@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-pr
 
 # Adding and editing order profiles
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/adding-and-editing-order-profiles/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-profiles/task-order-profiles/adding-and-editing-order-profiles/)
 
 To add an Order Profile:
 
@@ -88,7 +88,7 @@ To edit an Order Profile:
 
    To remove a rule from a profile, select the rule in edit mode and click **Remove**.
 
-   For more details about your editing options, refer to [Edit Mode](../description-order-profiles/order-profiles-display.md#edit-mode).
+   For more details about your editing options, refer to [Edit Mode](../description-order-profiles/order-profiles-display.md).
 5. Click **Publish Changes**.
 
    If you make changes to an uploaded profile or admin profile as an administrator, the changes are saved and broadcast to all users when you click “Publish”.

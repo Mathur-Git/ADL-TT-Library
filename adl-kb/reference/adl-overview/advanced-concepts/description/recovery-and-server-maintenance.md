@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Recovery And Server Maintenance
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/recovery-and-server-maintenance/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/recovery-and-server-maintenance/)
+>
+> **Interpreted in:** [Core Semantics § 11. Recovery and server maintenance](../../../../guides/core-semantics.md#11-recovery-and-server-maintenance)
 
 TT has developed a new feature to automatically restart ADL algos following Algo Server maintenance restarts. Algo Servers in simulation are restarted Monday through Friday at 4:15PM Chicago time. Algo Servers in production may or may not restart on weekends if maintenance is required.
 

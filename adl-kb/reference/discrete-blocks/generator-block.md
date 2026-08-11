@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/generator-bl
 
 # Generator block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/generator-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/generator-block/)
+>
+> **Interpreted in:** [Core Semantics § 1. Two kinds of message](../../guides/core-semantics.md#1-two-kinds-of-message) · [Core Semantics § 5. Actor blocks act before generators fire](../../guides/core-semantics.md#5-actor-blocks-act-before-generators-fire) · [Gotchas, Hard Limits & Platform Constraints § Hard numeric limits](../../guides/gotchas-and-limits.md#hard-numeric-limits)
 
 ### Generator block
 

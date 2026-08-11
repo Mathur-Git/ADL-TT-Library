@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/trading-in-
 
 # Yield Type Calculations
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/use-cases-trading-in-yield/yield-type-calculations/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/trading-in-yield/use-cases-trading-in-yield/yield-type-calculations/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Trading in Yield](../../../../guides/spread-trading-autospreader.md#trading-in-yield)
 
 TT supports calculating the yield on futures and Treasury Bonds. For futures, you can change the type of yield calculation based on the configuration values.
 

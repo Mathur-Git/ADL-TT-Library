@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # NZX Block Orders
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/nzx-block-orders/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/nzx-block-orders/)
 
 The TT® platform supports [NZX Block Trades](https://assets.ctfassets.net/m5mydry9e35f/4tVvw8a4eZLJAPrGpwJv1u/50871a1f6ddb3458b5f3ce47a47cd94b/Derivatives_Procedures_July_2018.pdf). Using the Blocktrader widget on TT, you can submit the following orders:
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # Creating Blocktrader templates
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/task-blocktrader/creating-blocktrader-templates/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/task-blocktrader/creating-blocktrader-templates/)
+>
+> **Interpreted in:** [Order Types & Execution § Block trading](../../../../guides/order-types-and-execution.md#block-trading)
 
 Templates allow you to save frequently-used Blocktrader settings for future use. They let you quickly select a set of predefined values from a template list. You can create multiple templates for a specific blocktrade, as well as create different sets of templates for different blocktrades. These templates can be selected from the drop-down to populate the order parameter fields with the saved values.
 

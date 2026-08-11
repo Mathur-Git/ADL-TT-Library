@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # STARC Bands
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/starc-bands/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/starc-bands/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The STARC (Stoller Average Range Channels) Bands indicator calculates upper and lower bands around a simple moving average to predict price movement. A price move toward the upper band may mean a pull back towards the moving average, and a move to the lower band may mean a move up towards the moving average.
 

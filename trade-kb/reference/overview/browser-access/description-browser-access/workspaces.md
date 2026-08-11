@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/de
 
 # Workspaces
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/workspaces/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/description-browser-access/workspaces/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 —
 widget: ttw
@@ -30,7 +32,7 @@ Each window is viewed individually within the workspace, and you can easily swit
 * Dedicate windows to trading for specific accounts
 * Increase the effective area of a workspace so you are not constrained to the size of your physical display.
 
-You can also [send widgets](../task-browser-access/managing-multi-window-workspaces.md#send-widget) from one window to another.
+You can also [send widgets](../task-browser-access/managing-multi-window-workspaces.md) from one window to another.
 
 ## Managing Workspaces and Templates
 
@@ -45,7 +47,7 @@ The home page contains the following sections:
 
 A Workspace Template can be used as a guide to help you create your own workspace. The templates are pre-configured with widgets that may be used for different trading markets and trading environments. Company administrators can share workspace templates with all other administrators and traders in a company.
 
-After [sharing a template](../task-browser-access/managing-templates.md#share), users in the company can select it when creating a new workspace. For administrators, the shared template appears in the **Manage Templates** section on the Trade application landing page. Each template has options for [administering the template](../task-browser-access/managing-templates.md#admin).
+After [sharing a template](../task-browser-access/managing-templates.md), users in the company can select it when creating a new workspace. For administrators, the shared template appears in the **Manage Templates** section on the Trade application landing page. Each template has options for [administering the template](../task-browser-access/managing-templates.md).
 
 ## Workspace Window Menu Bar
 

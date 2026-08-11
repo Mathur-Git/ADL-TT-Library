@@ -3,7 +3,7 @@
 "What does this order type actually do, and how do I get the same behavior out of ADL?"
 Every claim links to the TT page that supports it.
 
-[KB Home](../README.md) · [Full Index](../INDEX.md) · [Spread Trading / Autospreader](spread-trading-autospreader.md) ·
+[Trade KB Home](../Trade-KB-Home.md) · [Spread Trading / Autospreader](spread-trading-autospreader.md) ·
 [Order Management & Risk](order-management-and-risk.md) · [Algo Ops](algo-ops.md)
 
 ---

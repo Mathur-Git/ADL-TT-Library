@@ -1,6 +1,6 @@
 # Market Data & Depth
 
-[KB Home](../README.md) · [Full Index](../INDEX.md) · [Spread Trading (Autospreader)](spread-trading-autospreader.md) · [Order Types and Execution](order-types-and-execution.md) · [Algo Ops](algo-ops.md) · [Order Management and Risk](order-management-and-risk.md) · [Platform and Workspace](platform-and-workspace.md)
+[Trade KB Home](../Trade-KB-Home.md) · [Spread Trading (Autospreader)](spread-trading-autospreader.md) · [Order Types and Execution](order-types-and-execution.md) · [Algo Ops](algo-ops.md) · [Order Management and Risk](order-management-and-risk.md) · [Platform and Workspace](platform-and-workspace.md)
 
 "Which widget shows me X, and how do I configure it to see book imbalance, spread ticks, or a trade print the moment it happens?" This guide covers the five market-data widgets in Trade: Spread Matrix, Depth, Time & Sales, Position in Queue (PIQ), and Market Grid / Product Grid.
 

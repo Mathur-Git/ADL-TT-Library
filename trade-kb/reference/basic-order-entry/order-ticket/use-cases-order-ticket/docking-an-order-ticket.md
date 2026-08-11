@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Docking an Order Ticket
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/use-cases-order-ticket/docking-an-order-ticket/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/use-cases-order-ticket/docking-an-order-ticket/)
 
 When you dock an Order Ticket to a Market Grid, you create a single widget that automatically updates when you
 select different contracts.

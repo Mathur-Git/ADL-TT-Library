@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Testing OMA Logic
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/testing-oma-logic/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/testing-oma-logic/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § OMA — Order Management Algo](../../../../guides/algo-types.md#oma-order-management-algo) · [Design Patterns & Recipe Index § Testing](../../../../guides/design-patterns.md#testing)
 
 ### Testing OMA Logic from the ADL Design Canvas
 

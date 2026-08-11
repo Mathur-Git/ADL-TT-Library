@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # Using TT TWAP to Drive TT Autospreader Instruments
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/case-studies/using-tt-twap-to-drive-tt-autospreader-instruments/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/case-studies/using-tt-twap-to-drive-tt-autospreader-instruments/)
+>
+> **Interpreted in:** [Order Types & Execution § TT Premium Order Types](../../../../guides/order-types-and-execution.md#tt-premium-order-types) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Cross-references](../../../../guides/spread-trading-autospreader.md#cross-references)
 
 The TT Time Weighted Average Price (TWAP) synthetic order type may be used to fill large orders when a trader
 wants to keep the executed trade price as close as possible to the average market price without alerting other

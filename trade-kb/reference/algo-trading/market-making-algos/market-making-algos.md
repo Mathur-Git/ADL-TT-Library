@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/market-making
 
 # Market-making algos
 
-> Category: **Algo Trading** · [KB Home](../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/market-making-algos/market-making-algos/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/market-making-algos/market-making-algos/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Market-making algos (MMAs)](../../../guides/algo-ops.md#market-making-algos-mmas)
 
 TT offers a suite of algos that provide automated order entry strategies to quote a market based on a set of input
 parameters. Users are able to customize the quoting behavior, specify an action taken after a fill occurs, and control

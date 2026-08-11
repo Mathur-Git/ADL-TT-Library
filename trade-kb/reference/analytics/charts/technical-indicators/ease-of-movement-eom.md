@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Ease of Movement (EOM)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/ease-of-movement-eom/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/ease-of-movement-eom/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 Ease of Movement, developed by Richard W. Arms, Jr., relates price change to volume and is particularly useful for assessing the strength of a trend. High positive values indicate the price is increasing on low volume and strong negative values indicate the price is dropping on low volume.
 

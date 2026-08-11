@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Inquiring and accepting EEX and Eurex block trades
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/inquiring-and-accepting-eex-and-eurex-block-trades/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/inquiring-and-accepting-eex-and-eurex-block-trades/)
 
 The Order Book widget allows you to inquire about EEX and Eurex block trades.
 

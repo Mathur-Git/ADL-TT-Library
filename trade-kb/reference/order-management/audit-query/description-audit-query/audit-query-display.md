@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-que
 
 # Audit Query Display
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-query/description-audit-query/audit-query-display/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-query/description-audit-query/audit-query-display/)
 
 The Audit Query widget consists of the following fields and columns.
 

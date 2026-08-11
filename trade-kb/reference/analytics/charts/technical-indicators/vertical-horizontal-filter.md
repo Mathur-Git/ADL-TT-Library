@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Vertical Horizontal Filter
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/vertical-horizontal-filter/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/vertical-horizontal-filter/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 Created by Adam White, the Vertical Horizontal Filter helps the user determine whether a particular price is trending. The higher the Vertical Horizontal Filter value, the more a particular contract is trending. In addition, the direction of the Vertical Horizontal Filter shows what phase the Vertical Horizontal Filter is entering:
 

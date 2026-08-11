@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Aggregator configuration
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/description-aggregator/aggregator-configuration/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/description-aggregator/aggregator-configuration/)
 
 Use the Aggregator configuration interface to configure and control the behavior of the aggregated instrument as it trades. After adding products to your aggregated instrument, configure the optimal aggregated instrument parameters based on your trading needs.
 

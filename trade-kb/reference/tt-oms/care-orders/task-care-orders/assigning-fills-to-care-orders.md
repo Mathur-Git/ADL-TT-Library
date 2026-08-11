@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Assigning fills to care orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/assigning-fills-to-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/assigning-fills-to-care-orders/)
 
 After claiming a care order, the owner can partially or fully fill the order by assigning fills from their inventory
 using the Order and Fills widget. When the fills are assigned to the care order, both the owner and originator see
@@ -22,7 +22,7 @@ When assigning fills, consider the following:
 
 To assign fills to a care order:
 
-1. [Claim the care order](claiming-and-unclaiming-care-orders.md#claiming) in the orders pane of
+1. [Claim the care order](claiming-and-unclaiming-care-orders.md) in the orders pane of
    the Order and Fills widget.
 2. Right-click the care order and select **Assign Fills…** from the context menu.
 

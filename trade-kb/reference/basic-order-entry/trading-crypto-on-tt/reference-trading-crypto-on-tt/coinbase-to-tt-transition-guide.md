@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Coinbase to TT Transition Guide
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/coinbase-to-tt-transition-guide/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/reference-trading-crypto-on-tt/coinbase-to-tt-transition-guide/)
 
 Use this guide to map functionality in the Coinbase trading interface to the same functionality provided in your
 TT® workspace.
@@ -63,7 +63,7 @@ Similar to using the Coinbase Title Bar, you can use the Market Grid to:
 In addition, you can also use TT’s Market Grid to:
 
 * [Launch the order ticket widget and quickly place orders for
-  the selected currency.](../../../viewing-market-data/market-grid/task-market-grid/trading-from-the-market-grid.md#ot)
+  the selected currency.](../../../viewing-market-data/market-grid/task-market-grid/trading-from-the-market-grid.md)
 * [Configure the display of your list of currencies and add
   label rows.](../../../viewing-market-data/market-grid/task-market-grid/configuring-the-market-grid-display.md)
 * [Add columns for additional pieces of market data.](../../../viewing-market-data/market-grid/task-market-grid/configuring-the-market-grid-display.md)
@@ -86,7 +86,7 @@ Similar to using the Order Form, you can use the Order Ticket to:
 
 * [Define the parameters of your order.](../../order-ticket/task-order-ticket/submitting-an-order.md)
 * [Auto-populate the price parameter of your order by clicking a
-  price in the market grid.](../../../viewing-market-data/market-grid/task-market-grid/trading-from-the-market-grid.md#ot)
+  price in the market grid.](../../../viewing-market-data/market-grid/task-market-grid/trading-from-the-market-grid.md)
 
 In addition, you can also use TT’s Order Ticket to:
 
@@ -96,7 +96,7 @@ In addition, you can also use TT’s Order Ticket to:
 * [Launch a linked Order Ticket which will
   switch to whichever currency you have selected in the Market Grid.](../../order-ticket/task-order-ticket/launching-a-linked-order-ticket-from-a-contract-row.md)
 * [Group the Order ticket with a Market Grid to create a widget
-  group.](../../../viewing-market-data/market-grid/description-market-grid/trading-from-market-grid.md#group)
+  group.](../../../viewing-market-data/market-grid/description-market-grid/trading-from-market-grid.md)
 
 ## MD Trader (Order Book)
 
@@ -105,9 +105,9 @@ the best Bid and Ask, as well as the volume at each price level. In TT, this inf
 
 Similar to using the Coinbase Order Book, you can use MD Trader to:
 
-* [Only display price levels with working orders.](../task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt.md#prices)
+* [Only display price levels with working orders.](../task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt.md)
 * [Aggregate price levels using Price
-  Consolidation.](../task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt.md#aggregate)
+  Consolidation.](../task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt.md)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/gdx-md-trader-pro.png)
 
@@ -120,12 +120,12 @@ at each price level. You can also see any orders you have working in the market.
 
 In addition to placing an order with a single click, you can use TT’s MD Trader to:
 
-* [Place orders using a wide variety of TT Order types.](../../md-trader/description-md-trader/trading-with-md-trader.md#select)
+* [Place orders using a wide variety of TT Order types.](../../md-trader/description-md-trader/trading-with-md-trader.md)
 * [Create custom order type buttons to quickly access commonly-used
-  order types.](../../md-trader/task-md-trader/configuring-md-trader.md#buttons)
-* [Create custom order quantity buttons.](../../md-trader/task-md-trader/recentering-md-trader.md#order-quantity-buttons)
+  order types.](../../md-trader/task-md-trader/configuring-md-trader.md)
+* [Create custom order quantity buttons.](../../md-trader/task-md-trader/recentering-md-trader.md)
 * [Add a tab to your MD Trader to switch between different
-  currencies.](../../../overview/widgets/description-widgets/widgets-overview.md#tabbed-widgets)
+  currencies.](../../../overview/widgets/description-widgets/widgets-overview.md)
 
 ## Charts (Price Chart)
 
@@ -220,7 +220,7 @@ When trading Coinbase products on TT, you may also want to:
 
 * [Run TT across multiple monitors using TT Desktop](../../../overview/tt-desktop/task-tt-desktop/managing-a-multi-monitor-workspace.md).
 * [Customize the color-scheme of your workspace](https://library.tradingtechnologies.com/trade/win-reference.html).
-* [Enable or disable order confirmations](../../md-trader/description-md-trader/trading-with-md-trader.md#confirm).
+* [Enable or disable order confirmations](../../md-trader/description-md-trader/trading-with-md-trader.md).
 * [Define how many decimal points to display
   for currencies](../task-trading-crypto-on-tt/viewing-crypto-market-data-on-tt.md#quantity-display).
 

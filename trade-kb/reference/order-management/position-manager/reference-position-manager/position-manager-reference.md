@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/position-
 
 # Position Manager reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/reference-position-manager/position-manager-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/position-manager/reference-position-manager/position-manager-reference/)
 
 ## Context menu
 

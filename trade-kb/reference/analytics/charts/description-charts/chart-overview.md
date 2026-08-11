@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/descripti
 
 # Chart Overview
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/chart-overview/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/chart-overview/)
+>
+> **Interpreted in:** [Charts & Analytics § Chart types & basics](../../../../guides/charts-and-analytics.md#chart-types-basics)
 
 The Chart widget on the TT platform fully integrates charting and analytics into the Trade app by blending historical
 time series data with continuous real-time market data updates. The Chart uses the same price feed as the market data
@@ -33,7 +35,7 @@ To open a Chart widget in your workspace, you can:
 * Click [Explore](../../../overview/workspace-windows/task-workspace-windows/finding-an-instrument-in-market-explorer.md) in the title bar, select an expiry,
   then click on the Chart icon.
 * Select **Chart** from the [Widgets](../../../overview/widgets/task-widgets/opening-a-widget.md) menu in the title bar.
-* Launch as a [linked widget](../../../viewing-market-data/market-grid/task-market-grid/launching-widgets-from-market-grid.md#launch-linked) for an instrument in an open
+* Launch as a [linked widget](../../../viewing-market-data/market-grid/task-market-grid/launching-widgets-from-market-grid.md) for an instrument in an open
   Market Grid widget.
 
 ## Chart Menu

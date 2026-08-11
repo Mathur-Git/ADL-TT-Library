@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/value-bucket
 
 # Value Bucket block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/value-bucket-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/value-bucket-block/)
+>
+> **Interpreted in:** [Formula Editor Reference § Blocks that take formulas](../../guides/formula-reference.md#blocks-that-take-formulas)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/db-value-bucket-block.png)
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Submit Iceberg with Random Quantity and Delay
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/submit-iceberg-with-random-quantity-and-delay/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/task/submit-iceberg-with-random-quantity-and-delay/)
+>
+> **Interpreted in:** [Design Patterns & Recipe Index § Order entry](../../../../guides/design-patterns.md#order-entry) · [Order Types & Execution § The ADL bridge](../../../../../trade-kb/guides/order-types-and-execution.md#the-adl-bridge)
 
 An Iceberg order executes a large volume order by breaking it into smaller disclosed orders, publicly displaying only
 the specified portion instead of the full order quantity.

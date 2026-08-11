@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Mass Index (MI)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/mass-index-mi/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/mass-index-mi/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Mass Index indicator, developed by Donald Dorsey, uses the bar range to identify trend reversals based on range expansions. It is more of a volatility indicator as it does not have a directional bias. It identifies trending and congession areas, which can occur before change in trend.
 

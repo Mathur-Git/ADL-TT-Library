@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/blocktra
 
 # MX Committed 1-Sided Orders
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/mx-committed-1-sided-orders/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/blocktrader/reference-blocktrader/mx-committed-1-sided-orders/)
 
 The Blocktrader widget supports entering committed (1-sided) orders using the [committed order functionality at MX](https://www.m-x.ca/f_avis_tech_en/11-022_en.pdf). A committed trade occurs when two exchange-approved parties pre-arrange a transaction and their committed orders are matched at an equal price and quantity on opposite sides of the trade.
 

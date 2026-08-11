@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/preferences/descr
 
 # Orders Preferences
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/orders-preferences/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/preferences/description-preferences/orders-preferences/)
+>
+> **Interpreted in:** [Platform & Workspace § Preferences](../../../../guides/platform-and-workspace.md#preferences)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/wrk-preferences-orders.png)
 

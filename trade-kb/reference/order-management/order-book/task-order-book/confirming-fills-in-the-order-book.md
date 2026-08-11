@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/order-boo
 
 # Confirming fills in the Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/confirming-fills-in-the-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/order-book/task-order-book/confirming-fills-in-the-order-book/)
 
 You can confirm a fill (e.g., parent order fill for a TT Algo) by using the **Confirmed** column and “Confirm”
 button in the Order Book widget or Order Book pane of the Order and Fills widget.

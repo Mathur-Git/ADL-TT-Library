@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Entering an order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/entering-an-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/entering-an-order/)
+>
+> **Interpreted in:** [Order Types & Execution § MD Trader mechanics](../../../../guides/order-types-and-execution.md#md-trader-mechanics)
 
 In MD Trader, you can easily configure an order, and quickly and safely enter the order for an instrument
 with a single click.
@@ -15,16 +17,16 @@ with a single click.
 
 Before configuring and entering an order, configure the following parameters in MD Trader:
 
-* [Maximum order quantity](../reference-md-trader/md-trader-reference.md#order-local)
-* [Default order quantity](../description-md-trader/trading-with-md-trader.md#quantity)
-* [Second default order quantity](../description-md-trader/trading-with-md-trader.md#quantity)
+* [Maximum order quantity](../reference-md-trader/md-trader-reference.md)
+* [Default order quantity](../description-md-trader/trading-with-md-trader.md)
+* [Second default order quantity](../description-md-trader/trading-with-md-trader.md)
 
 To enter an order in MD Trader:
 
 1. Select an account, order type, and order restriction (TIF) in the Order Entry Panel or use the default settings
    for each. An account is *required* for submitting orders on TT.
 
-   You can also use [custom action buttons](configuring-md-trader.md#buttons) to select a native
+   You can also use [custom action buttons](configuring-md-trader.md) to select a native
    order type, TIF, or [TT order type](#custom).
 2. Enter an order quantity: Type in a value, use
    your default order quantity, or click one of the quantity buttons. A quantity is *required* for submitting
@@ -62,7 +64,7 @@ appear in the Order Book widget with a status of “Hold” in the **Status** co
 
 ## Submitting orders with custom TT order type buttons in MD Trader
 
-When trading, left-click a custom TT order type button to quickly seed an order type with an assigned [template of predefined default order parameters](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md#order-templates) without
+When trading, left-click a custom TT order type button to quickly seed an order type with an assigned [template of predefined default order parameters](../../tt-order-types/description-tt-order-types/tt-order-types-overview.md) without
 displaying the order parameter flyout panel. The button remains active until you de-select it with a left or
 right-click (for native order types and TIFs, not for synthetic order types), select a different order type, or have
 **Reset order type to Limit after each order** enabled in the MD Trader settings.

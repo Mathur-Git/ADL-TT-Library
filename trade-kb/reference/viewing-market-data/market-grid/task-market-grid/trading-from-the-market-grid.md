@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/market
 
 # Trading from the Market Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/trading-from-the-market-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/market-grid/task-market-grid/trading-from-the-market-grid/)
 
 You can submit orders in the Market Grid by opening a floating order entry window (e.g., MD Trader®) or linked widget
 (e.g., Order Ticket). You can also trade from the Market Grid by grouping it with an order entry widget and creating a widget group.
@@ -35,7 +35,7 @@ To trade with a floating order entry MD Trader:
    * **Pos**. The order quantity in MD Trader is seeded with the position value to allow you to flatten your position.
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mg-trade-float-mdt.png)
-2. Enter the remaining order information in [MD Trader](../../../basic-order-entry/md-trader/task-md-trader/recentering-md-trader.md#mdt-order) and submit the order.
+2. Enter the remaining order information in [MD Trader](../../../basic-order-entry/md-trader/task-md-trader/recentering-md-trader.md) and submit the order.
 
 ## Trading with a Linked Widget
 
@@ -61,7 +61,7 @@ To trade with a grouped widget:
 1. Right-click on the instrument to select **Open** and click on a widget (e.g., **MD Trader®**)
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mg-trade-group1.png)
-2. Right-click in the opened widget title bar to select **Group widget…** and [create a widget group](../../../overview/widgets/task-widgets/working-with-widget-groups.md#create-group).
+2. Right-click in the opened widget title bar to select **Group widget…** and [create a widget group](../../../overview/widgets/task-widgets/working-with-widget-groups.md).
 
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mg-trade-group2.png)
 3. Enter an order in the docked (grouped) MD Trader widget.

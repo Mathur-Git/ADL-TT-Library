@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Excel linking overview
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/description-excel-integration-with-tt/excel-linking-overview/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/description-excel-integration-with-tt/excel-linking-overview/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Excel / RTD linking](../../../../guides/algo-ops.md#excel-rtd-linking)
 
 TT supports linking from Microsoft Excel spreadsheets to a variety of TT widgets so you can leverage spreadsheet data. If you use spreadsheets to drive your trading strategies, you can feed the results of your spreadsheet calculations into TT and the widgets will update automatically when your spreadsheet calculations change.
 

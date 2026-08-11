@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/fills/ref
 
 # Fills Reference
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/reference-fills/fills-reference/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/fills/reference-fills/fills-reference/)
+>
+> **Interpreted in:** [Order Management & Risk § Why this page matters for a spread-tick algo](../../../../guides/order-management-and-risk.md#why-this-page-matters-for-a-spread-tick-algo) · [Order Management & Risk § Fills & Order Book](../../../../guides/order-management-and-risk.md#fills-order-book)
 
 ## Context menu items
 
@@ -40,7 +42,7 @@ newly-opened Fills widgets, or to apply them to existing opened widgets, click *
 
 | Setting | Description |
 | --- | --- |
-| Colors | Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md#colors) available in the widget. There are separate settings for text and background colors. |
+| Colors | Allows you to [customize or change the cell and column colors](../../../overview/widgets/task-widgets/customizing-widget-settings.md) available in the widget. There are separate settings for text and background colors. |
 | Bold font | Sets the use of bold font for text. |
 | Italic font for fills | Sets italic font on all fill rows. |
 | Row numbers | Displays the row numbers column. |
@@ -127,8 +129,8 @@ newly-opened Fills widgets, or to apply them to existing opened widgets, click *
 | Staged | Shows “Staged” to identify parent staged orders and fills. This column is blank on other orders and fills. |
 | StagedOrderID | Shows the staged order identifier on the parent care order and all related child orders and fills. |
 | Strike | Displays the strike price of the options contract. |
-| TextA | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextA** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md#fft-table) for clearing and back office purposes. |
-| TextB | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextB** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md#fft-table) for clearing and back office purposes. |
+| TextA | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextA** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md) for clearing and back office purposes. |
+| TextB | Displays an optional, user-defined text value from the Setup app, Order Profiles, or entered in the **TextB** free-form text field in the Order Ticket. This value remains on the order in the TT system. If accepted or required by an exchange, the value in this column [may be routed to the exchange](../../../basic-order-entry/order-ticket/reference-order-ticket/order-ticket-reference.md) for clearing and back office purposes. |
 | TextC | Displays a read-only, customer-defined text value set by FIX client applications. The value is not sent to the exchange. |
 | TextTT | Displays an optional, user-defined text value from the Setup app or entered in the **TextTT** free-form text field in the Order Ticket. The value displayed in this column remains on submitted orders for tracking purposes in the TT system, but is not routed to the exchange.  You can show or hide the Text TT text box for a selected working order in the Order Toolbar. You can add or modify the text that displays in the **TextTT** column for the selected order.  In the **Position Manager** widget, you can now edit the **TextTT** column for **Local Fills** and **Admin Fills**. However, this is not available for **Admin SODs**.  **Note:** For Autospreader orders submitted by an ADL algo, the value is populated with the order tag of the parent algo order. |
 | Time | The time the order action occurred. This value is updated after each order action.   * Order Book: Time the order was submitted or modified. * Fills: Time the fill or partial fill was received. * Audit Trail: Time the message was sent or received. |

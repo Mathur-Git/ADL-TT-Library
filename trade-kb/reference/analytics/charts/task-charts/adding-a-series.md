@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/task-char
 
 # Adding a series
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/adding-a-series/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/task-charts/adding-a-series/)
+>
+> **Interpreted in:** [Charts & Analytics § Trading from a chart](../../../../guides/charts-and-analytics.md#trading-from-a-chart)
 
 The Add Series feature lets you compare multiple instruments on the same chart. A series uses a line chart, along with an independent price axis, for each instrument in the series. You can add up to two more instruments to the base instrument’s chart. You might use a series to compare different instruments that you think might related in some way, such as consecutive expiries of a single instrument or multiple instruments for related products. For example, the following chart uses the Add Series feature to display the activity for the Jun18, Jul18, and Aug18 BRN (Brent Crude) instruments.
 

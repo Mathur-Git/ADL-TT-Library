@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/order-ti
 
 # Launching an unlinked Order Ticket
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/launching-an-unlinked-order-ticket/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/order-ticket/task-order-ticket/launching-an-unlinked-order-ticket/)
 
 You can launch an unlinked Order Ticket from several other widgets, such as Market Grid, Time and Sales, and Positions.
 

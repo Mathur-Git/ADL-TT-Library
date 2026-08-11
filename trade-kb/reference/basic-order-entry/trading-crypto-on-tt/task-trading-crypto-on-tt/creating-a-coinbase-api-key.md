@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Creating a Coinbase API key
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/task-trading-crypto-on-tt/creating-a-coinbase-api-key/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/task-trading-crypto-on-tt/creating-a-coinbase-api-key/)
 
 After your Coinbase account is created at coinbase.com, sign in and create a Coinbase API key, API secret, and passphrase. These credentials are required in order to connect to Coinbase via the TT platform.
 

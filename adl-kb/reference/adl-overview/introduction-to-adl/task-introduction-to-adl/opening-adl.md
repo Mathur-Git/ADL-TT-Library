@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/introduction-to
 
 # Opening ADL
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/task-introduction-to-adl/opening-adl/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/task-introduction-to-adl/opening-adl/)
 
 ### Opening ADL®
 

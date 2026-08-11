@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/balances/
 
 # Balances Overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/balances/description-balances/balances-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/balances/description-balances/balances-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Accounts & balances](../../../../guides/order-management-and-risk.md#accounts-balances)
 
 The Balances widget allows you to view real-time account balances and margin requirements of your account.
 

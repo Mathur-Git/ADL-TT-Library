@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Working with the ADL Designer Canvas
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/working-with-the-adl-designer-canvas/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/working-with-the-adl-designer-canvas/)
 
 ### Managing the display of the algo on the canvas
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/pnl-blo
 
 # Pnl block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/pnl-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/pnl-block/)
+>
+> **Interpreted in:** [Core Semantics § 10. What pauses or cancels an algo](../../guides/core-semantics.md#10-what-pauses-or-cancels-an-algo) · [Design Patterns & Recipe Index § Risk](../../guides/design-patterns.md#risk) · [Gotchas, Hard Limits & Platform Constraints § Pre-flight checklist](../../guides/gotchas-and-limits.md#pre-flight-checklist) · [Order Management & Risk § See also (ADL side)](../../../trade-kb/guides/order-management-and-risk.md#see-also-adl-side)
 
 ### Pnl block
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-desktop/descri
 
 # TT Desktop overview
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/tt-desktop-overview/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-desktop/description-tt-desktop/tt-desktop-overview/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 TT Desktop is a front-end application that supports multi-monitor workspaces and provides the highest level of performance for accessing the TT platform. TT Desktop is part of TT’s Software-as-a-Service (SaaS) delivery model and accesses the same back-end of the platform as TT through a browser and TT Mobile. No matter which interface you use to access the TT platform, you use the same login and see all of your orders, fills and positions.
 

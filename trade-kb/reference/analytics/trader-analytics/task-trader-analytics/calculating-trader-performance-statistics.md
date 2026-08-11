@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/trader-analytics
 
 # Calculating trader performance statistics
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/task-trader-analytics/calculating-trader-performance-statistics/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/trader-analytics/task-trader-analytics/calculating-trader-performance-statistics/)
+>
+> **Interpreted in:** [Charts & Analytics § Trader Analytics](../../../../guides/charts-and-analytics.md#trader-analytics)
 
 To calculate trader performance statistics:
 

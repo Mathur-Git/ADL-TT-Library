@@ -6,11 +6,13 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # MinVol OMA
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/minvol-oma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/minvol-oma/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Management Algos (OMA) — applied to existing orders](../../../../guides/order-types-and-execution.md#order-management-algos-oma-applied-to-existing-orders)
 
 The MinVol OMA is an Order Management Algo (OMA) that lets you specify a minimum quantity required at a price level to work an exchange order. The algo will cancel the order if the volume drops below the minimum quantity. If the volume builds back up to the required quantity, the algo will re-submit the order. You can also specify the maximum number of times the algo will submit an exchange order.
 
-**Note:** For an overview of Order Management Algos (OMA), refer to [https://library.tradingtechnologies.com/trade/oma-overview.html](https://library.tradingtechnologies.com/trade/oma-overview.html)
+**Note:** For an overview of Order Management Algos (OMA), refer to [Order Management Algos (OMA) overview](../../../algo-trading/order-management-algos-omas/order-management-algos-oma-overview.md)
 
 ## Limitations for adopting orders
 

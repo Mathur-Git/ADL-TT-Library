@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Stop order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-stop-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-stop-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 TT Stop is an order that is triggered when the market has reached or penetrated a specified price in the market.
 Stop triggers are typically set worse than current market prices, which means that Buy Stops are placed above the
@@ -100,7 +102,7 @@ The following example enters a Sell-side TT Stop order that trails the last-trad
 needing to reopen the flyout panel.
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tto-stop-mdt-order-1.png)
 
-**Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md#buttons)
+**Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md)
 (or use a [hotkey](../../../overview/preferences/description-preferences/hotkeys-preferences.md)) for this TT Order Type that also specifies an order
 template, these two fields will not be displayed, as the template already defines their desired
 values.Right-clicking on the button displays these parameters. You can also click the **edit**
@@ -198,7 +200,7 @@ To set start and stop times for a TT Stop parent order:
 
    **Note**: When creating or using an order template and using the **Time** option, the **Start** and **End** dates automatically adjust if originally set in the past.
 4. Enter the order at the desired price level.If you placed the order with a future start time, the TT Stop parent order would appear in MD Trader and the Order Book similar to the following.
-   ![](/trade/Content/tto-stop-times-mdt-ob.png)The Order Book shows the status of the future order.
+   ![](https://library.tradingtechnologies.com/trade/Content/tto-stop-times-mdt-ob.png)The Order Book shows the status of the future order.
    * **A** – The **Status** is **Working**, which indicates the TT Stop parent order is working on the Algo Server.
    * **B** – The **SynthStatus** is **Waiting**, which indicates the order has not yet started working in the market. When the start time is reached, the **SynthStatus** will also change to **Working**.
 
@@ -286,7 +288,7 @@ needing to reopen the flyout panel.
     * Best Bid for Sells**Tip**: An entry field for this value is added to the [MD Trader](https://mdt-trading-with-mdtrader.html) Order Entry Panel to let you set the value without needing to reopen the flyout panel.
   ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tto-stop-mdt-order-3.png)
 
-  **Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md#buttons) (or use a [hotkey](../../../overview/preferences/description-preferences/hotkeys-preferences.md)) for this TT Order Type that also specifies an order template, these two fields will not be displayed, as the template already defines their desired values.Right-clicking on the button displays these parameters. You can also click the **edit** button to make changes if desired.
+  **Note**: If you click a [custom action button](../../md-trader/task-md-trader/configuring-md-trader.md) (or use a [hotkey](../../../overview/preferences/description-preferences/hotkeys-preferences.md)) for this TT Order Type that also specifies an order template, these two fields will not be displayed, as the template already defines their desired values.Right-clicking on the button displays these parameters. You can also click the **edit** button to make changes if desired.
 * **Limit price**: Sets the price for the child Limit order.
 * **With a Tick**: Sets the threshold for the [With A Tick](tt-with-a-tick-order.md) behavior that reprices the child order one tick toward the market when available quantity at the opposite inside market is at or below the specified quantity threshold.The quantity can be specified as:
   * **Qty** for an absolute number of contracts

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/introduction-to
 
 # ADL (Algo Design Lab) overview
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/description-introduction-to-adl/adl-algo-design-lab-overview/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/introduction-to-adl/description-introduction-to-adl/adl-algo-design-lab-overview/)
 
 ADL (Algo Design Lab) is a TT platform that introduces traders to an interactive way of creating their own trading algorithms and automated strategies. ADL allows traders to design, test and deploy trading algorithms without having to write a single line of code. With an intuitive drag-and-drop interface, traders can use building blocks to construct circuit-like designs in their browsers. At the same time, ADL grants granular flexibility in design instead of offering pre-made strategies.
 

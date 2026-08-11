@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Adding laser lines to MD Trader
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/adding-laser-lines-to-md-trader/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/task-excel-integration-with-tt/adding-laser-lines-to-md-trader/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Driving algo variables from Excel (linking)](../../../../guides/algo-ops.md#driving-algo-variables-from-excel-linking)
 
 MD Trader lets you add laser lines to the price ladder that provide visual cues for prices you consider important. When you paste a link from an Excel spreadsheet into MD Trader, a laser line appears at the approximate value of the link in relation to the price level. For example, suppose you use an Excel spreadsheet to calculate a set of theoretical prices that you want to use in your trading strategy. By adding laser lines at those values, you can monitor when the market approaches your theoretical price.
 

@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/order-management/floating-
 
 # Launching a Floating Order Book
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/launching-a-floating-order-book/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/floating-order-book/task-floating-order-book/launching-a-floating-order-book/)
 
 To launch a Floating Order Book, middle-click a working order cell in MD Trader®.
 

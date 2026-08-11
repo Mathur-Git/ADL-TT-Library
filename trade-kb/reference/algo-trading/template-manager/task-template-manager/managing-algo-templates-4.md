@@ -6,10 +6,12 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/template-mana
 
 # Managing algo templates
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/template-manager/task-template-manager/managing-algo-templates-4/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/template-manager/task-template-manager/managing-algo-templates-4/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Templates](../../../../guides/algo-ops.md#templates)
 
 Using the Template Manager, you can easily create and manage templates that provide customized, preset values for an
-algo. You can then launch these algos with their predefined values, or you can associate a template with a [custom action button](../../../basic-order-entry/md-trader/task-md-trader/configuring-md-trader.md#buttons) in MD Trader.
+algo. You can then launch these algos with their predefined values, or you can associate a template with a [custom action button](../../../basic-order-entry/md-trader/task-md-trader/configuring-md-trader.md) in MD Trader.
 
 The Template Manager lets you:
 
@@ -65,7 +67,7 @@ To clone algo templates:
 ## Setting a default algo template
 
 A default algo template indicates which set of preset values to display when selecting an algo to launch, such as in
-[Algo Dashboard](../../algo-dashboard/task-algo-dashboard/launching-an-algo-from-the-algo-dashboard.md#launch-template). When you create
+[Algo Dashboard](../../algo-dashboard/task-algo-dashboard/launching-an-algo-from-the-algo-dashboard.md). When you create
 multiple templates for an algo, you must select a default template to use whenever you select an algo. The default
 template is identified with a star (![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/icon-yellow-star-1.png)), as shown.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Gopalakrishnan Range Index (GAPO)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/gopalakrishnan-range-index-gapo/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/gopalakrishnan-range-index-gapo/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 Gopalakrishnan Range Index, developed by Jayanthi Gopalakrishnan, attempts to determine the variability of price data based on the log of the price range over a user defined n-periods.
 

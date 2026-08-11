@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/jump-blocks/adding-jump-bloc
 
 # Adding jump blocks
 
-> Category: **Jump Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/jump-blocks/adding-jump-blocks/)
+> Category: **Jump Blocks** · [Source](https://library.tradingtechnologies.com/adl/jump-blocks/adding-jump-blocks/)
 
 To add Jump blocks:
 

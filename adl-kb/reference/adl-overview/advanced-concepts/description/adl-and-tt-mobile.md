@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # ADL and TT Mobile
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/adl-and-tt-mobile/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/adl-and-tt-mobile/)
+>
+> **Interpreted in:** [Gotchas, Hard Limits & Platform Constraints § Environment restrictions](../../../../guides/gotchas-and-limits.md#environment-restrictions) · [Platform & Workspace § TT Desktop vs browser access vs mobile](../../../../../trade-kb/guides/platform-and-workspace.md#tt-desktop-vs-browser-access-vs-mobile)
 
 Unfortunately, users cannot launch new algo orders via the TT Moblie App. However, when you launch algos from your TTW browser access, you can then log into your TT Mobile App to see these instances running in your Algo Dashboard.
 

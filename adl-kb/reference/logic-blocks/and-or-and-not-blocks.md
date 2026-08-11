@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/logic-blocks/and-or-and-not-
 
 # And, Or, and Not blocks
 
-> Category: **Logic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/and-or-and-not-blocks/)
+> Category: **Logic Blocks** · [Source](https://library.tradingtechnologies.com/adl/logic-blocks/and-or-and-not-blocks/)
+>
+> **Interpreted in:** [ADL Block Catalog § Logic blocks](../../guides/block-catalog.md#logic-blocks)
 
 ### And, Or, and Not blocks
 

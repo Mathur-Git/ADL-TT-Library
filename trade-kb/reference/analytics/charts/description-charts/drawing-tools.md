@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/descripti
 
 # Drawing tools
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/drawing-tools/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/drawing-tools/)
+>
+> **Interpreted in:** [Charts & Analytics § Chart settings & drawing tools](../../../../guides/charts-and-analytics.md#chart-settings-drawing-tools)
 
 TT provides a number of powerful drawing tools to help you discover trends in the market. Drawing tools are accessed
 from the Chart menu.
@@ -27,7 +29,7 @@ from the Chart menu.
   **Delete** from the context menu.
 * To remove all drawing objects, select the **Clear Drawings** tool.
 
-**Note**: Drawing tools are not available for [Price Distribution](chart-types.md#price-distribution-chart) charts.
+**Note**: Drawing tools are not available for [Price Distribution](chart-types.md) charts.
 
 ## Drawing Tools Directory
 

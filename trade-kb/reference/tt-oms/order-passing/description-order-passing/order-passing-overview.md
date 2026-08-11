@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/order-passing/descr
 
 # Order Passing Overview
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-passing/description-order-passing/order-passing-overview/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-passing/description-order-passing/order-passing-overview/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 The Order Book widget supports order passing, which allows traders to pass the visibility and management of open,
 working orders to another trader or group of traders. Passing an order to another “caretaker” ensures the order is

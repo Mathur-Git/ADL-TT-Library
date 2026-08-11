@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # MACD
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/macd/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/macd/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Moving Average Convergence Divergence (MACD) indicator is based on the differences between two moving averages of different lengths, a Fast and a Slow moving average. A second line, called the Signal line is plotted as a moving average of the MACD. A third line, called the MACD Histogram is optionally plotted as a histogram of the difference between the MACD and the Signal Line. It is used to identify overbought and oversold conditions.
 

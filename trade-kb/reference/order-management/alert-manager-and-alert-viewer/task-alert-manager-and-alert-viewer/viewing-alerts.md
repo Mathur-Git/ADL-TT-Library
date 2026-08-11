@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/alert-man
 
 # Viewing alerts
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/viewing-alerts/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/viewing-alerts/)
+>
+> **Interpreted in:** [Order Management & Risk § Alerts (real-time risk guard)](../../../../guides/order-management-and-risk.md#alerts-real-time-risk-guard)
 
 When enabled, pop-up alert notifications appear in the top right corner of your TT workspace when the alert is triggered. Each notification shows the color and message text defined for the alert in the Alert Manager, and shows how many times the notification has been sent.
 

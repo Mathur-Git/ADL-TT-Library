@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Formula Editor
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/formula-editor/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/formula-editor/)
+>
+> **Interpreted in:** [Formula Editor Reference](../../../../guides/formula-reference.md) · [Gotchas, Hard Limits & Platform Constraints § Hard numeric limits](../../../../guides/gotchas-and-limits.md#hard-numeric-limits)
 
 Many of the ADL blocks allow you to define formulas to calculate output values for the blocks. For such blocks, you can open the Formula Editor from their respective **Block Properties** panel.
 

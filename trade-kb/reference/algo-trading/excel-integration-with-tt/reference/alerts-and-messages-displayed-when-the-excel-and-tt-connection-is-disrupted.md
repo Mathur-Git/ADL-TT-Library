@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/excel-integra
 
 # Alerts and messages displayed when the Excel and TT connection is disrupted
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/reference/alerts-and-messages-displayed-when-the-excel-and-tt-connection-is-disrupted/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/excel-integration-with-tt/reference/alerts-and-messages-displayed-when-the-excel-and-tt-connection-is-disrupted/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § Driving algo variables from Excel (linking)](../../../../guides/algo-ops.md#driving-algo-variables-from-excel-linking)
 
 ## Alerts and messages displayed when the Excel and TT connection is disrupted
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # TT Volume Sliced Order
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-volume-sliced-order/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/tt-volume-sliced-order/)
+>
+> **Interpreted in:** [Order Types & Execution § Slicing family](../../../../guides/order-types-and-execution.md#slicing-family) · [Order Types & Execution § Order type reference table](../../../../guides/order-types-and-execution.md#order-type-reference-table)
 
 A Volume Sliced order slices a large quantity order into smaller disclosed orders based on trading volume. The
 resting portion may not be filled before there is enough trading volume to submit the next portion. The “Leftover”

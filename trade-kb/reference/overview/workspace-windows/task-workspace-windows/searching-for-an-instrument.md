@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Searching for an instrument
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/searching-for-an-instrument/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/searching-for-an-instrument/)
+>
+> **Interpreted in:** [Platform & Workspace § Finding instruments](../../../../guides/platform-and-workspace.md#finding-instruments)
 
 After creating or opening a workspace, you can search and find an instrument as follows:
 

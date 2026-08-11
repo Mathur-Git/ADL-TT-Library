@@ -6,13 +6,13 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-tra
 
 # Fill and Audit Trail Service
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/reference-audit-trail/fill-and-audit-trail-service-2/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/reference-audit-trail/fill-and-audit-trail-service-2/)
 
 ## Overview
 
 Trading Technologies provides a Fill and Audit Trail Service that periodically collects your TT fill or audit trail data in a CSV file, and makes each file available for retrieval via a secure portal known as Enhanced File Transfer (EFT). When the service is activated for a company, TT downloads the fill and audit trail files in secure, customer-specific repositories on the EFT site, and provides each customer with unique credentials to allow access to this data.
 
-To activate the Fill and Audit Trail Service, please contact TT Onboarding ([[email protected]](/cdn-cgi/l/email-protection#88e7e6eae7e9faece1e6efc8fcfae9eceda6fcfc)). When contacted, a TT Onboarding Manager will activate the service for your company in TT, and notify you when the files are available for retrieval.
+To activate the Fill and Audit Trail Service, please contact TT Onboarding (onboarding@trade.tt). When contacted, a TT Onboarding Manager will activate the service for your company in TT, and notify you when the files are available for retrieval.
 
 ## Fill and Audit Trail filenames
 
@@ -30,7 +30,7 @@ Each fill or audit trail download is provided as a single CSV file as shown.
 
 ## Accessing your Fill or Audit Trail files
 
-Your files can be retrieved via an EFT server, which can be remotely accessed via a SSH / SFTP client or web browser (HTTPS). Both methods are encrypted and each client has their own unique user ID. Authorized users will be given a username and password to access the EFT service. Please contact TT Onboarding ([[email protected]](/cdn-cgi/l/email-protection#b0dfded2dfd1c2d4d9ded7f0c4c2d1d4d59ec4c4)) to request a username and password.
+Your files can be retrieved via an EFT server, which can be remotely accessed via a SSH / SFTP client or web browser (HTTPS). Both methods are encrypted and each client has their own unique user ID. Authorized users will be given a username and password to access the EFT service. Please contact TT Onboarding (onboarding@trade.tt) to request a username and password.
 
 To connect via SFTP: <https://eft.tradingtechnologies.com>
 
@@ -54,7 +54,7 @@ When activated, the Fill download is delivered to the EFT site every 15 minutes.
 
 It is highly recommended that you automate the daily collection of your compliance data, leveraging the SFTP protocol by creating a simple script or batch. EFT also supports the use of encrypted SSH keys which can be generated upon request. Using SSH key authentication rather than a standard password entry can help with automation, and ensure the whole process remains non-interactive.
 
-If you would like to leverage connectivity via secure SSH keys, please contact TT Onboarding ([[email protected]](/cdn-cgi/l/email-protection#5d32333f323c2f3934333a1d292f3c3938732929)) for further assistance.
+If you would like to leverage connectivity via secure SSH keys, please contact TT Onboarding (onboarding@trade.tt) for further assistance.
 
 ## Fill column descriptions
 

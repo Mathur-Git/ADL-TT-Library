@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Managing algo templates
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/task-algo-dashboard/managing-algo-templates/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/task-algo-dashboard/managing-algo-templates/)
 
 ### Creating an algo template
 

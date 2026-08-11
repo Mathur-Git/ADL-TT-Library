@@ -6,14 +6,16 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # Conditional OMA
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/conditional-oma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/conditional-oma/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Management Algos (OMA) — applied to existing orders](../../../../guides/order-types-and-execution.md#order-management-algos-oma-applied-to-existing-orders)
 
 The Conditional OMA lets you set one order as the trigger condition (primary order) for working a second order
 (conditional order). The algo works the primary order and submits the second order on hold. As the first order
 receives fills, the algo submits the held order into the market and automatically increments the quantity of the
 second order.
 
-**Note:** For an overview of Order Management Algos (OMA), refer to [https://library.tradingtechnologies.com/trade/oma-overview.html](https://library.tradingtechnologies.com/trade/oma-overview.html)
+**Note:** For an overview of Order Management Algos (OMA), refer to [Order Management Algos (OMA) overview](../../../algo-trading/order-management-algos-omas/order-management-algos-oma-overview.md)
 
 The Conditional OMA is available only in “order building” mode within [MD Trader](../../md-trader/description-md-trader/md-trader-overview.md),
 which lets you dynamically build an OMA from existing or new orders. After entering order building mode for the

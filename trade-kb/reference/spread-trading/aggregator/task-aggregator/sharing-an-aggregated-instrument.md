@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Sharing an aggregated instrument
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/sharing-an-aggregated-instrument/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/sharing-an-aggregated-instrument/)
 
 Aggregated instruments can be shared in Aggregator by selecting the instrument definition and clicking the
 **Share** button. The **Visibility** column in Aggregator shows if the instrument is available to all users in

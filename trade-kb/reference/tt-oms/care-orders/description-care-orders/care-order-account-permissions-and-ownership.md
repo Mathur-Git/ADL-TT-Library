@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/descrip
 
 # Care order account permissions and ownership
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/care-order-account-permissions-and-ownership/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/description-care-orders/care-order-account-permissions-and-ownership/)
 
 The risk administrator at your firm sets the [order permissions for submitting and managing care orders](https://library.tradingtechnologies.com/user-setup/ac-staged-order-permissions.html) per account or user. The risk administrator also configures risk settings for the execution accounts used for submitting child orders related to the parent care order.
 

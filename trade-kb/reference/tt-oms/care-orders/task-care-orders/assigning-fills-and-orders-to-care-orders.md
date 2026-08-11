@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-ca
 
 # Assigning Fills and Orders to Care Orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/assigning-fills-and-orders-to-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/care-orders/task-care-orders/assigning-fills-and-orders-to-care-orders/)
+>
+> **Interpreted in:** [Order Types & Execution § Care orders & the TT OMS lifecycle](../../../../guides/order-types-and-execution.md#care-orders-the-tt-oms-lifecycle)
 
 ## Assigning Orders to Care Orders
 
@@ -19,7 +21,7 @@ When assigning orders, consider the following:
 
 To assign orders to a care order:
 
-1. [Claim the care order](claiming-and-unclaiming-care-orders.md#claiming) in the orders pane of
+1. [Claim the care order](claiming-and-unclaiming-care-orders.md) in the orders pane of
    the Order and Fills widget.
 2. Right-click the care order and select **Assign Orders…** from the context menu.
 
@@ -56,7 +58,7 @@ When assigning fills, consider the following:
 
 To assign fills to a care order:
 
-1. [Claim the care order](claiming-and-unclaiming-care-orders.md#claiming) in the orders pane of
+1. [Claim the care order](claiming-and-unclaiming-care-orders.md) in the orders pane of
    the Order and Fills widget.
 2. Right-click the care order and select **Assign Fills…** from the context menu.
 

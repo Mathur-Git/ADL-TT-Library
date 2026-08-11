@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/basic-blocks/number-block/
 
 # Number block
 
-> Category: **Basic Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/basic-blocks/number-block/)
+> Category: **Basic Blocks** · [Source](https://library.tradingtechnologies.com/adl/basic-blocks/number-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § The four types](../../guides/algo-types.md#the-four-types) · [Algo Types, Launching & Deployment § OTA — Order Ticket Algo](../../guides/algo-types.md#ota-order-ticket-algo) · [Algo Types, Launching & Deployment § User-defined variables](../../guides/algo-types.md#user-defined-variables) · [Formula Editor Reference § Formula-driven order parameters](../../guides/formula-reference.md#formula-driven-order-parameters)
 
 ### Number block
 
@@ -18,8 +20,8 @@ The Number block outputs a constant numeric value. The value of the block can be
 * User-defined value that can be set by the user when starting the algorithm
 * Order price value that gets its values from the price level a user clicks in the MD Trader widget when launching a OTA (order ticket algorithm)
 * Order quantity value that gets its value from the quantity specified in the MD Trader widget when launching a OTA (order ticket algorithm)
-* User-defined value that sets the time-in-force for a [Discrete Order](../trading-blocks/discrete-order-block.md#formulas) block formula.
-* User-defined value that sets the order type for a [Discrete Order](../trading-blocks/discrete-order-block.md#formulas) block formula.
+* User-defined value that sets the time-in-force for a [Discrete Order](../trading-blocks/discrete-order-block.md) block formula.
+* User-defined value that sets the order type for a [Discrete Order](../trading-blocks/discrete-order-block.md) block formula.
 
 **Example:** **The Number block outputs a number that is used by the Order block to set the order quantity.**
 
@@ -32,8 +34,8 @@ To customize the block, update the **Block Properties**.
 | Property | Description |
 | --- | --- |
 | Name | Name to display beneath the block on the ADL canvas |
-| Default Value | Default value to use when configuring an algo instance.  **Note**: This value pre-populates the value in the in the [Variables](../adl-overview/adl-basic-concepts/description-adl-basic-concepts/user-defined-variables.md) tab. Changing the value in the **Variables** tab while [testing user-defined variables](../adl-overview/building-your-first-algo/lessons/testing-the-entry-logic.md#testing-variables) only changes the block value for the algo currently running in the canvas; it does not affect the default value defined for the block. |
-| Variable Type | Method to set the value:   * Static * User Defined * Order Quantity * Order Price * User Defined (TIF)  Can be used to specify the **timeInForce** variable in the [Discrete Order](../trading-blocks/discrete-order-block.md#formulas) block’s **Formulas** block property. The user must use one of the following values:   + 1: Day (GTD)   + 2: Good till cancel (GTC)   + 3: At the opening   + 4: Immediate or cancel (IOC)   + 5: Fill or kill (FOK)   + 6: Good till crossing   + 7: Good till date (GTDate)   + 8: At the close   + 9: Good through crossing   + 10: At crossing   + 13: Auction   + 14: Good in session   + 15: Day plus   + 16: Good till cancel plus   + 17: Good till date plus * User Defined (Order Type)  Can be used to specify the **orderType** variable in the [Discrete Order](../trading-blocks/discrete-order-block.md#formulas) block’s **Formulas** block property. The user must use one of the following values:   + 1: Market   + 2: Limit   + 3: Stop   + 4: Stop limit   + 5: Iceberg   + 20: Market with leftover as limit   + 21: Market limit market with leftover as limit   + 30: Stop market to limit   + 31: If-touched market   + 32: If-touched limit   + 33: If-touched market to limit   + 37: Limit post-only |
+| Default Value | Default value to use when configuring an algo instance.  **Note**: This value pre-populates the value in the in the [Variables](../adl-overview/adl-basic-concepts/description-adl-basic-concepts/user-defined-variables.md) tab. Changing the value in the **Variables** tab while [testing user-defined variables](../adl-overview/building-your-first-algo/lessons/testing-the-entry-logic.md) only changes the block value for the algo currently running in the canvas; it does not affect the default value defined for the block. |
+| Variable Type | Method to set the value:   * Static * User Defined * Order Quantity * Order Price * User Defined (TIF)  Can be used to specify the **timeInForce** variable in the [Discrete Order](../trading-blocks/discrete-order-block.md) block’s **Formulas** block property. The user must use one of the following values:   + 1: Day (GTD)   + 2: Good till cancel (GTC)   + 3: At the opening   + 4: Immediate or cancel (IOC)   + 5: Fill or kill (FOK)   + 6: Good till crossing   + 7: Good till date (GTDate)   + 8: At the close   + 9: Good through crossing   + 10: At crossing   + 13: Auction   + 14: Good in session   + 15: Day plus   + 16: Good till cancel plus   + 17: Good till date plus * User Defined (Order Type)  Can be used to specify the **orderType** variable in the [Discrete Order](../trading-blocks/discrete-order-block.md) block’s **Formulas** block property. The user must use one of the following values:   + 1: Market   + 2: Limit   + 3: Stop   + 4: Stop limit   + 5: Iceberg   + 20: Market with leftover as limit   + 21: Market limit market with leftover as limit   + 30: Stop market to limit   + 31: If-touched market   + 32: If-touched limit   + 33: If-touched market to limit   + 37: Limit post-only |
 
 ←[Previous PostBool block](bool-block.md)
 

@@ -6,13 +6,15 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/autospreade
 
 # Spread Configuration Rules
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/spread-configuration-rules/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/autospreader/description-autospreader/spread-configuration-rules/)
+>
+> **Interpreted in:** [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § AutoSpreader Rules — custom quoting/hedging logic](../../../../guides/spread-trading-autospreader.md#autospreader-rules-custom-quotinghedging-logic)
 
 ## Overview
 
 TT provides some common quoting and hedging rules that you can add to your spread configuration. You can also create a rule or select a rule that was shared with you by your administrator. To create or add a rule, click the **+** button in the **Rules** field.
 
-For a description of each TT rule, refer to [Rule descriptions](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md#rules-desc).
+For a description of each TT rule, refer to [Rule descriptions](../../../order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md).
 
 For more information about creating your own rules, refer to [Autospreader® Rules](../../autospreader-rules/task-autospreader-rules/creating-a-rule.md).
 

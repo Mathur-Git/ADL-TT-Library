@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Displaying Accumulated or Unaccumulated LTQ
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/displaying-accumulated-or-unaccumulated-ltq/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/displaying-accumulated-or-unaccumulated-ltq/)
+>
+> **Interpreted in:** [ADL Block Catalog § Field →](../../../../guides/block-catalog.md#field-ref) · [Design Patterns & Recipe Index § Market data, bars and indicators](../../../../guides/design-patterns.md#market-data-bars-and-indicators)
 
 Unaccumulated LTQ is simply the most recent LTQ. Accumulated LTQ is a summation of all LTQs that occur at a given LTP while the LTP remains unchanged.
 

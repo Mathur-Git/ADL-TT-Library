@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/trading-blocks/instrument-bl
 
 # Instrument block
 
-> Category: **Trading Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/instrument-block/)
+> Category: **Trading Blocks** · [Source](https://library.tradingtechnologies.com/adl/trading-blocks/instrument-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § The four types](../../guides/algo-types.md#the-four-types) · [Algo Types, Launching & Deployment § User-defined variables](../../guides/algo-types.md#user-defined-variables) · [Market Data & Depth § Depth widget & book imbalance](../../../trade-kb/guides/market-data-and-depth.md#depth-widget-book-imbalance) · [Market Data & Depth § Quick lookup](../../../trade-kb/guides/market-data-and-depth.md#quick-lookup) · [Spread Trading: AutoSpreader, Aggregator, Hedge Manager § Cross-references](../../../trade-kb/guides/spread-trading-autospreader.md#cross-references)
 
 ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/tb-instrument-block.png)
 

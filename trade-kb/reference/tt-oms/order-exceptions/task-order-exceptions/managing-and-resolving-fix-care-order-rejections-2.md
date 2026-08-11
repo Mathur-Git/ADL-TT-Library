@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/order-exceptions/ta
 
 # Managing and resolving FIX care order rejections
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-exceptions/task-order-exceptions/managing-and-resolving-fix-care-order-rejections-2/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/order-exceptions/task-order-exceptions/managing-and-resolving-fix-care-order-rejections-2/)
 
 ## Launching the Widget
 

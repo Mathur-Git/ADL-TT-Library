@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Market data in Product Grid
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/description-product-grid/market-data-in-product-grid/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/description-product-grid/market-data-in-product-grid/)
 
 The Product Grid displays market data for multiple products across multiple exchanges in a concise format. Users
 may add or hide columns to display various market data fields and can choose to expand the display of an instrument

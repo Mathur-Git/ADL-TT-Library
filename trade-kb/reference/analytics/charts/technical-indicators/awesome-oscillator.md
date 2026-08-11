@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Awesome Oscillator
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/awesome-oscillator/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/awesome-oscillator/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Awesome Oscillator indicator is designed to measure changes in momentum by comparing two simple moving averages. It subtracts the simple moving average of the price bar’s midpoint for the previous 34 bars from the previous 5 bars simple moving average. The indicator displays a histogram of green and red bars. A red bar indicates the current bar is lower than the previous, while a green bar indicates the current bar is higher than the previous bar. The shape and color of the histogram can help identify trends.
 

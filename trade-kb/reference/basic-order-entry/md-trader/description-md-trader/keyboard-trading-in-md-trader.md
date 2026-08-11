@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Keyboard trading in MD Trader
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/keyboard-trading-in-md-trader/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/description-md-trader/keyboard-trading-in-md-trader/)
+>
+> **Interpreted in:** [Order Types & Execution § MD Trader mechanics](../../../../guides/order-types-and-execution.md#md-trader-mechanics)
 
 In addition to click-trading in MD Trader using a mouse, you can use the keyboard to make trades. Enabling
 keyboard trading provides an alternative method for submitting orders and does not disable the mouse.

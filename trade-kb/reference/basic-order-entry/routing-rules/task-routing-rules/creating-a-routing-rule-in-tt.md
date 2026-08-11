@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/routing-
 
 # Creating a routing rule in TT
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/task-routing-rules/creating-a-routing-rule-in-tt/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/routing-rules/task-routing-rules/creating-a-routing-rule-in-tt/)
+>
+> **Interpreted in:** [Order Types & Execution § Routing rules](../../../../guides/order-types-and-execution.md#routing-rules)
 
 Using the Routing Rules widget, you can define how orders are routed for your most common order routing scenarios. After a rule is created, validated, and enabled, you can [apply it at order entry](applying-a-routing-rule-in-tt.md).
 

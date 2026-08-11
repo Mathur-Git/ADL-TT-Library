@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/trading-
 
 # Trading Firm Users
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/description-trading-crypto-on-tt/trading-firm-users/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/trading-crypto-on-tt/description-trading-crypto-on-tt/trading-firm-users/)
 
 As a member of a trading firm or individual trader managed by a trading firm on the TT® platform, you can trade a variety of digital currencies like Bitcoin, Ethereum, and Litecoin on crypto exchanges. On TT, you also have access to CME Bitcoin futures markets, which provide the opportunity to hedge trades in cryptocurrencies with positions in their respective futures
 contracts.

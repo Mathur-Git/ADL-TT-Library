@@ -6,11 +6,13 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order
 
 # With A Tick OMA
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/with-a-tick-oma/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/tt-order-types/description-tt-order-types/with-a-tick-oma/)
+>
+> **Interpreted in:** [Order Types & Execution § Order Management Algos (OMA) — applied to existing orders](../../../../guides/order-types-and-execution.md#order-management-algos-oma-applied-to-existing-orders)
 
 The With A Tick OMA gives you the ability to apply With A Tick (WAT) logic to a working order using either the Order Book or Floating Order Book widget. The WAT logic automatically reprices the order one tick towards the market based on the price and quantity of the opposite inside market.
 
-**Note:** For an overview of Order Management Algos (OMA), refer to [https://library.tradingtechnologies.com/trade/oma-overview.html](https://library.tradingtechnologies.com/trade/oma-overview.html)
+**Note:** For an overview of Order Management Algos (OMA), refer to [Order Management Algos (OMA) overview](../../../algo-trading/order-management-algos-omas/order-management-algos-oma-overview.md)
 
 You can define the minimum quantity that must be available on the opposite side of the market a single tick from the current working order price. If the available quantity at the opposite price is less than your defined quantity, the order is repriced into the market by a single tick.
 

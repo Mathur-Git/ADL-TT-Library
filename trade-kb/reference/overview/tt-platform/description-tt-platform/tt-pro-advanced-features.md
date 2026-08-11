@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/tt-platform/descr
 
 # TT Pro Advanced Features
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/tt-pro-advanced-features/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/tt-platform/description-tt-platform/tt-pro-advanced-features/)
+>
+> **Interpreted in:** [Platform & Workspace § TT Pro vs TT Standard](../../../../guides/platform-and-workspace.md#tt-pro-vs-tt-standard)
 
 The TT platform offers three trade modes that can be configured by your company administrator: TT Pro, TT Standard, and TT Standard (View-only). While the TT Pro and TT Standard modes allow order routing in all environments, the TT Standard (View-only) mode does not.
 

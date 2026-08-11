@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/tt-oms/lock-and-release/ta
 
 # Locking and Releasing Care Orders
 
-> Category: **TT® OMS** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/tt-oms/lock-and-release/task-lock-and-release/locking-and-releasing-care-orders/)
+> Category: **TT® OMS** · [Source](https://library.tradingtechnologies.com/trade/tt-oms/lock-and-release/task-lock-and-release/locking-and-releasing-care-orders/)
 
 Using the Order Book or orders pane in the Order and Fills widget, you can right-click an individual or bulked care
 order and select the following **Order staging** options from the context menu:

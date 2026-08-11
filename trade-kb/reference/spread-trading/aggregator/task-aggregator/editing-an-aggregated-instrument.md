@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/spread-trading/aggregator/
 
 # Editing an aggregated instrument
 
-> Category: **Spread Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/editing-an-aggregated-instrument/)
+> Category: **Spread Trading** · [Source](https://library.tradingtechnologies.com/trade/spread-trading/aggregator/task-aggregator/editing-an-aggregated-instrument/)
 
 To edit an aggregated instrument:
 
@@ -14,7 +14,7 @@ To edit an aggregated instrument:
 2. Click the checkbox next to an aggregated instrument in the Aggregator Manager.
 3. Click the edit icon next to the selected instrument.
 
-   This opens the Aggregator Configuration dialog box, which is used for editing the [Aggregator routing parameters and settings](../reference-aggregator/aggregator-reference.md#agg-settings) for the selected aggregated instrument. When editing an instrument, **Edit Aggregated Instrument: *(Instrument Name)*** appears in the title bar of the Aggregator Configuration dialog box.
+   This opens the Aggregator Configuration dialog box, which is used for editing the [Aggregator routing parameters and settings](../reference-aggregator/aggregator-reference.md) for the selected aggregated instrument. When editing an instrument, **Edit Aggregated Instrument: *(Instrument Name)*** appears in the title bar of the Aggregator Configuration dialog box.
 
    **Note**: If there are working orders for the aggregated instrument, you can open the **Edit Aggregator: *(Instrument Name)*** screen, however, you can not edit or change any of the instrument’s settings.
 4. Click **Apply** to add the changes, then click **Save**.

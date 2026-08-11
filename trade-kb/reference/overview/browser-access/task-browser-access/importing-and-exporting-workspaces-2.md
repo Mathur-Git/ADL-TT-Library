@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/ta
 
 # Importing and exporting workspaces
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/importing-and-exporting-workspaces-2/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/importing-and-exporting-workspaces-2/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 The TT platform allows users to easily share a configured workspace as a single file. This allows you to save workspaces to your system. You can also give the file to others who can them import it to their workspaces.
 

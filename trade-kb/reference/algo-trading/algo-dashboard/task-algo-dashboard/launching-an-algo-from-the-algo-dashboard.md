@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboar
 
 # Launching an algo from the Algo Dashboard
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/task-algo-dashboard/launching-an-algo-from-the-algo-dashboard/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/algo-dashboard/task-algo-dashboard/launching-an-algo-from-the-algo-dashboard/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § From Algo Dashboard](../../../../guides/algo-ops.md#from-algo-dashboard)
 
 Use the Algo Dashboard to launch algos one at a time and do the following:
 

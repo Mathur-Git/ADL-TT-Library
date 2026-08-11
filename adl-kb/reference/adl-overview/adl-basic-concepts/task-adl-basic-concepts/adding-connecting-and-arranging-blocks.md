@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Adding, Connecting and Arranging Blocks
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/adding-connecting-and-arranging-blocks/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/task-adl-basic-concepts/adding-connecting-and-arranging-blocks/)
 
 To build an algo you will need to drag and drop blocks onto the canvas, define their properties and connect blocks together with edges to define the flow of data.
 
@@ -14,7 +14,7 @@ To build an algo you will need to drag and drop blocks onto the canvas, define t
 
 To add a block to the canvas:
 
-1. In the **Blocks** panel locate, or [search for](../description-adl-basic-concepts/adl-designer.md#block-panel), the block you want to place on the canvas.
+1. In the **Blocks** panel locate, or [search for](../description-adl-basic-concepts/adl-designer.md), the block you want to place on the canvas.
 2. Drag the block to the desired location on the canvas.
 
    ![Add block](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/abc-adding-block-1.png)

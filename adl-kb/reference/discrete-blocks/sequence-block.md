@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/sequence-blo
 
 # Sequence block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/sequence-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/sequence-block/)
+>
+> **Interpreted in:** [Core Semantics § Termination blocks](../../guides/core-semantics.md#termination-blocks) · [Core Semantics § 4. Branching a discrete output is non-deterministic](../../guides/core-semantics.md#4-branching-a-discrete-output-is-non-deterministic) · [Core Semantics § 12. Do not design around assumed latency](../../guides/core-semantics.md#12-do-not-design-around-assumed-latency) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Gotchas, Hard Limits & Platform Constraints § Execution model](../../guides/gotchas-and-limits.md#execution-model)
 
 ### Sequence block
 

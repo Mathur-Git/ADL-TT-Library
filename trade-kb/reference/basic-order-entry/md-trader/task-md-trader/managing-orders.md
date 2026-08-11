@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/basic-order-entry/md-trade
 
 # Managing orders
 
-> Category: **Basic Order Entry** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/managing-orders/)
+> Category: **Basic Order Entry** · [Source](https://library.tradingtechnologies.com/trade/basic-order-entry/md-trader/task-md-trader/managing-orders/)
+>
+> **Interpreted in:** [Order Types & Execution § MD Trader mechanics](../../../../guides/order-types-and-execution.md#md-trader-mechanics)
 
 Working orders can be modified or canceled in MD Trader. You can modify a working order by moving it to a different
 price level with an easy drag-and-drop action, or by clicking on it in the working orders column and launching a
@@ -75,7 +77,7 @@ To reduce the quantities of all orders at a price level:
    ![](https://library.tradingtechnologies.com/wp-content/uploads/2025/12/mdt-reduce-qty-4.png)
 
 **Note**: You can also reduce the total order quantity using the [Floating
-Order Book](../../../order-management/floating-order-book/task-floating-order-book/modifying-an-order-in-the-floating-order-book.md#reduce-multi-qty).
+Order Book](../../../order-management/floating-order-book/task-floating-order-book/modifying-an-order-in-the-floating-order-book.md).
 
 ## Canceling orders in MD Trader
 

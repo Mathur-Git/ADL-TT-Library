@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/positions
 
 # Positions matrix view
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/description-positions/positions-matrix-view/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/positions/description-positions/positions-matrix-view/)
+>
+> **Interpreted in:** [Order Management & Risk § Position tracking (Positions, Position Manager)](../../../../guides/order-management-and-risk.md#position-tracking-positions-position-manager)
 
 The Positions widget provides a “matrix” view that shows positions rolled up per user-defined product group, as well as positions per expiry for each product in the group. The matrix can help you manage positions across many related products by displaying your long/short exposure in an aggregated view.
 

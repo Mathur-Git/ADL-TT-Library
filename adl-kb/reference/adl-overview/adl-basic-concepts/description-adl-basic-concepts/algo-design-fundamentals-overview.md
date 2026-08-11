@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Algo design fundamentals overview
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/algo-design-fundamentals-overview/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/algo-design-fundamentals-overview/)
 
 Before beginning to design and develop your trading algorithms, you need to be aware of some basic concepts about algo design in ADL.
 

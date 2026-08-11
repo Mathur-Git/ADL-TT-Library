@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/order-management/audit-tra
 
 # Audit Trail overview
 
-> Category: **Order Management** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/description-audit-trail/audit-trail-overview/)
+> Category: **Order Management** · [Source](https://library.tradingtechnologies.com/trade/order-management/audit-trail/description-audit-trail/audit-trail-overview/)
+>
+> **Interpreted in:** [Order Management & Risk § Audit trail / query](../../../../guides/order-management-and-risk.md#audit-trail-query)
 
 The Audit Trail widget displays all of the details of your order activity, exchange announcements, and error messages. In real-time, you will only see a subset of all the available messages. If you refresh your Audit Trail, it will pull all of the details from the TT platform. TT stores this information so that you can retrieve the history of all your activity.
 

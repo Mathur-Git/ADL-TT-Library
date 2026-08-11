@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Order of discrete event message propagation
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/order-of-discrete-event-message-propagation/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/order-of-discrete-event-message-propagation/)
+>
+> **Interpreted in:** [Core Semantics § 3. Propagation order within a pathway](../../../../guides/core-semantics.md#3-propagation-order-within-a-pathway)
 
 Understanding the granular order in which the variables are updated is one of the most crucial elements in mastering advanced programming techniques in ADL.
 

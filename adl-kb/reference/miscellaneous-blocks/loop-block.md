@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/miscellaneous-blocks/loop-bl
 
 # Loop block
 
-> Category: **Miscellaneous Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/loop-block/)
+> Category: **Miscellaneous Blocks** · [Source](https://library.tradingtechnologies.com/adl/miscellaneous-blocks/loop-block/)
+>
+> **Interpreted in:** [Core Semantics § 1. Two kinds of message](../../guides/core-semantics.md#1-two-kinds-of-message) · [Core Semantics § 6. The Loop block suspends actors](../../guides/core-semantics.md#6-the-loop-block-suspends-actors) · [Design Patterns & Recipe Index § Order entry](../../guides/design-patterns.md#order-entry) · [Gotchas, Hard Limits & Platform Constraints § Execution model](../../guides/gotchas-and-limits.md#execution-model)
 
 ### Loop block
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/algo-trading/autotrader/re
 
 # Algo Server limitations
 
-> Category: **Algo Trading** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/reference-autotrader/algo-server-limitations/)
+> Category: **Algo Trading** · [Source](https://library.tradingtechnologies.com/trade/algo-trading/autotrader/reference-autotrader/algo-server-limitations/)
+>
+> **Interpreted in:** [Algo Ops: Dashboard, Autotrader & Excel § From Autotrader](../../../../guides/algo-ops.md#from-autotrader)
 
 The number of algos you can run simultaneously is limited as follows:
 

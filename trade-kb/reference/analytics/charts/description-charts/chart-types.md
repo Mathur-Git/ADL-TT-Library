@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/descripti
 
 # Chart types
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/chart-types/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/description-charts/chart-types/)
+>
+> **Interpreted in:** [Charts & Analytics § Chart types & basics](../../../../guides/charts-and-analytics.md#chart-types-basics)
 
 TT offers a variety of chart types to help you display chart data in several different formats. Chart types can be accessed from the **Chart Types** menu and from **Search**, as shown.
 

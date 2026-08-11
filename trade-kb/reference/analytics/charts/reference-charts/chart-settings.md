@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/reference
 
 # Chart Settings
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/reference-charts/chart-settings/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/reference-charts/chart-settings/)
+>
+> **Interpreted in:** [Charts & Analytics § Chart types & basics](../../../../guides/charts-and-analytics.md#chart-types-basics) · [Charts & Analytics § Chart settings & drawing tools](../../../../guides/charts-and-analytics.md#chart-settings-drawing-tools)
 
 ## Available settings
 
@@ -37,7 +39,7 @@ These settings let you customize the colors for different aspects of the selecte
 
 | Setting | Description |
 | --- | --- |
-| Show Fills | Sets whether to display fills on a chart.  * From: Date to start showing fills * Group by: Whether to group the fills by [Interval](../description-charts/chart-trading.md#interval) or [Position](../description-charts/chart-trading.md#position).  For more information, see [Displaying fills](../task-charts/displaying-fills-and-working-orders.md#chart=fills). |
+| Show Fills | Sets whether to display fills on a chart.  * From: Date to start showing fills * Group by: Whether to group the fills by [Interval](../description-charts/chart-trading.md) or [Position](../description-charts/chart-trading.md).  For more information, see [Displaying fills](../task-charts/displaying-fills-and-working-orders.md). |
 | Include Leg Fills | Sets whether to show leg fills in addition to parent order fills. |
 | Show Working Orders | Sets whether to display working orders on a chart. |
 | Enable Trading Mode | Sets whether to display MD Trader in the chart for trading. |
@@ -51,7 +53,7 @@ These settings let you customize the colors for different aspects of the selecte
 
 (Only visible when the **Chart Type** setting is **Price Distribution**)
 
-For more information about these settings, refer to [Interpreting the Price Distribution chart](../description-charts/chart-types.md#interpret-pd-chart).
+For more information about these settings, refer to [Interpreting the Price Distribution chart](../description-charts/chart-types.md).
 
 | Setting | Description |
 | --- | --- |

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Market Explorer overview
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/description-workspace-windows/market-explorer-overview/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/description-workspace-windows/market-explorer-overview/)
+>
+> **Interpreted in:** [Platform & Workspace § Finding instruments](../../../../guides/platform-and-workspace.md#finding-instruments)
 
 The Trade application provides you with the capability to quickly find instruments and trade them in your workspace. After creating and opening a workspace, you can use the Market Explorer in [Basic](#basic) mode or [Advanced](#advanced) mode to [find an instrument](../task-workspace-windows/finding-an-instrument-in-market-explorer.md) and open a widget. You can also [drag instruments](#drag) from the Market Explorer to add them to existing widgets.
 

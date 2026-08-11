@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/discrete-blocks/funnel-block
 
 # Funnel block
 
-> Category: **Discrete Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/funnel-block/)
+> Category: **Discrete Blocks** · [Source](https://library.tradingtechnologies.com/adl/discrete-blocks/funnel-block/)
+>
+> **Interpreted in:** [Algo Types, Launching & Deployment § OMA — Order Management Algo](../../guides/algo-types.md#oma-order-management-algo) · [Design Patterns & Recipe Index § Control flow](../../guides/design-patterns.md#control-flow) · [Design Patterns & Recipe Index § Testing](../../guides/design-patterns.md#testing) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 ### Funnel block
 

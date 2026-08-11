@@ -6,7 +6,7 @@ source: https://library.tradingtechnologies.com/trade/viewing-market-data/produc
 
 # Product Grid Display
 
-> Category: **Viewing Market Data** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/description-product-grid/product-grid-display/)
+> Category: **Viewing Market Data** · [Source](https://library.tradingtechnologies.com/trade/viewing-market-data/product-grid/description-product-grid/product-grid-display/)
 
 There are settings and options available in the Product Grid widget that provide the ability to visualize
 products, contracts, and market data activity.
@@ -15,12 +15,12 @@ products, contracts, and market data activity.
 
 The following display options are available:
 
-1. [Columns](../task-product-grid/configuring-the-product-grid-display.md#change-columns) — Show or hide
+1. [Columns](../task-product-grid/configuring-the-product-grid-display.md) — Show or hide
    columns that are specific to your markets or instruments.
-2. [Product Search](../task-product-grid/configuring-the-product-grid-display.md#adding-products) — Search box to find and add products to the Product Grid.
+2. [Product Search](../task-product-grid/configuring-the-product-grid-display.md) — Search box to find and add products to the Product Grid.
 3. [Product Heading](../task-product-grid/configuring-the-product-grid-display.md) —
    Header row containing the name of the selected products.
-4. [Contracts/Terms](../task-product-grid/configuring-the-product-grid-display.md#highlight-updates) —
+4. [Contracts/Terms](../task-product-grid/configuring-the-product-grid-display.md) —
    Lists all available contracts for the selected product. You can expand each contract to show additional levels of market depth for the contract.
 5. [Tabs](../task-product-grid/using-tabs-in-the-product-grid.md) — Organize your instruments by showing and
    using tabs.

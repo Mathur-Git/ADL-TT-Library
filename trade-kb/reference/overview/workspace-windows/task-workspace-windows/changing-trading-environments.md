@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/workspace-windows
 
 # Changing trading environments
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/changing-trading-environments/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/workspace-windows/task-workspace-windows/changing-trading-environments/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout) · [Platform & Workspace § Simulation vs Live](../../../../guides/platform-and-workspace.md#simulation-vs-live)
 
 While trading in an opened workspace, you can change trading environments (e.g., from Simulation to Live) by using the Edit menu available at the top of the workspace title bar.
 

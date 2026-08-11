@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-conce
 
 # Edges
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/edges/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/adl-basic-concepts/description-adl-basic-concepts/edges/)
+>
+> **Interpreted in:** [ADL Block Catalog § Port type legend](../../../../guides/block-catalog.md#port-type-legend)
 
 An edge is the line that [connects](../task-adl-basic-concepts/adding-connecting-and-arranging-blocks.md#connecting-blocks) an output port of one
 block to the input port of another block. Edges define how information flows through an ADL algo by identifying the

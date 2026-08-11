@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/library-blocks/creating-a-li
 
 # Creating a library block
 
-> Category: **Library Blocks** · [KB Home](../../README.md) · [Source](https://library.tradingtechnologies.com/adl/library-blocks/creating-a-library-block/)
+> Category: **Library Blocks** · [Source](https://library.tradingtechnologies.com/adl/library-blocks/creating-a-library-block/)
+>
+> **Interpreted in:** [ADL Block Catalog § Library →](../../guides/block-catalog.md#library-ref) · [Gotchas, Hard Limits & Platform Constraints § Blocks](../../guides/gotchas-and-limits.md#blocks)
 
 Suppose you find yourself adding the same set of blocks to perform a particular task. If you create a [group block](../group-blocks/creating-a-group-block.md) with this functionality, you can easily add it your block library and then reuse it any time you want.
 

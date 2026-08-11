@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/adl/adl-overview/advanced-concep
 
 # Leave orders on cancel or pause
 
-> Category: **ADL Overview, Concepts & Tutorials** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/leave-orders-on-cancel-or-pause/)
+> Category: **ADL Overview, Concepts & Tutorials** · [Source](https://library.tradingtechnologies.com/adl/adl-overview/advanced-concepts/description/leave-orders-on-cancel-or-pause/)
+>
+> **Interpreted in:** [Core Semantics § 10. What pauses or cancels an algo](../../../../guides/core-semantics.md#10-what-pauses-or-cancels-an-algo)
 
 ### Leave orders on cancel or pause
 

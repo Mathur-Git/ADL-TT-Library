@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/overview/browser-access/ta
 
 # Creating and opening a workspace
 
-> Category: **Overview** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/creating-and-opening-a-workspace/)
+> Category: **Overview** · [Source](https://library.tradingtechnologies.com/trade/overview/browser-access/task-browser-access/creating-and-opening-a-workspace/)
+>
+> **Interpreted in:** [Platform & Workspace § Workspaces & multi-window layout](../../../../guides/platform-and-workspace.md#workspaces-multi-window-layout)
 
 When you create a workspace, you can start with a blank one or modify an existing workspace or template and save it as a new one.
 

@@ -6,7 +6,9 @@ source: https://library.tradingtechnologies.com/trade/analytics/charts/technical
 
 # Accumulation Distribution (ACC Dist)
 
-> Category: **Analytics** · [KB Home](../../../../README.md) · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/accumulation-distribution-acc-dist/)
+> Category: **Analytics** · [Source](https://library.tradingtechnologies.com/trade/analytics/charts/technical-indicators/accumulation-distribution-acc-dist/)
+>
+> **Interpreted in:** [Charts & Analytics § Technical indicators](../../../../guides/charts-and-analytics.md#technical-indicators)
 
 The Accumulation/Distribution (AD) indicator attempts to quantify the amount of volume flowing into or out of an instrument by identifying the position of the close of the period in relation to that period’s high/low range. The volume for the period is then included in a running continuous total.
 
