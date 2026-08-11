@@ -4,7 +4,7 @@ How TT tracks what you actually hold and what happened to your orders — Positi
 Positions, Fills, Order Book, and the alerting you'd wire up as a real-time risk guard around a
 live algo.
 
-[KB Home](../README.md) · [Full Index](../INDEX.md) · [Spread Trading & AutoSpreader](spread-trading-autospreader.md) · [Order Types & Execution](order-types-and-execution.md) · [Algo Ops](algo-ops.md) · [Order Management & Risk](order-management-and-risk.md) (this page) · [Platform & Workspace](platform-and-workspace.md)
+[Trade KB Home](../Trade-KB-Home.md) · [Spread Trading & AutoSpreader](spread-trading-autospreader.md) · [Order Types & Execution](order-types-and-execution.md) · [Algo Ops](algo-ops.md) · [Order Management & Risk](order-management-and-risk.md) (this page) · [Platform & Workspace](platform-and-workspace.md)
 
 ---
 
@@ -128,6 +128,7 @@ threshold is crossed — independent of whatever your ADL algo itself is doing.
 | Alert when P/L in an account drops below a threshold | **Position** condition → `P&L` field, operator, value | [Alerts Reference](../reference/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) |
 | Alert as net position approaches a limit | **Position** condition → `Position` field, `%` operator against max position (net) | [Alerts Reference](../reference/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) |
 | Alert on any fill / reject / cancel on an order | **Order** condition → `Exec Type`, `Status`, `Fill Qty` etc. | [Alerts Reference](../reference/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) |
+| Make the notification say *what* filled, not just that something did | **Custom** alert text with `{orderN.field}` tokens | [Custom alert text](#custom-alert-text-interpolating-fill-fields) (below - not in the TT mirror) |
 | Alert if your algo stops or gets suspended | **Algo** condition → `Status` | [Alerts Reference](../reference/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) |
 | Alert on a price level or spread-market move | **Price** condition → Bid/Ask/Last/Net Change etc. | [Alerts Reference](../reference/order-management/alert-manager-and-alert-viewer/reference-alert-manager-and-alert-viewer/alerts-reference.md) |
 | Build and manage the alert | Alert Manager widget, **Alert Detail** screen | [Creating an alert](../reference/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/creating-an-alert.md) |
@@ -147,6 +148,231 @@ has a bug or was launched without one — see the ADL guide's
 for max-loss, Position Risk block for max-position-per-side, Market State → Terminal for halting
 on a market-state change). Both consume the same underlying fill/position stream described in the
 sections above; the Alert Manager version is just watching it from outside the algo process.
+
+### Custom alert text: interpolating fill fields
+
+> **Provenance: not from the TT documentation.** Every claim in this subsection comes from
+> a working Alert Detail screen shared by a colleague of the user (observed 2026-08-11),
+> not from `library.tradingtechnologies.com`. The mirrored pages
+> ([Creating an alert](../reference/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/creating-an-alert.md),
+> [Viewing alerts](../reference/order-management/alert-manager-and-alert-viewer/task-alert-manager-and-alert-viewer/viewing-alerts.md))
+> mention a **Custom** alert-text checkbox but document **no** substitution mechanism at
+> all, and `viewing-alerts.md` describes a notification as showing only "the color and
+> message text defined for the alert". Taken alone, those pages imply alert text is
+> static. **They are incomplete.** Do not re-derive that wrong conclusion from the mirror.
+
+Ticking **Custom** under **Alert Text** lets the message interpolate fields from the event
+that triggered it, using `{conditionName<N>.field_name}` tokens. This is what turns a fill
+alert from "a fill happened" into a usable notification, and it is the only documented-anywhere
+way to get fill detail onto TT Mobile - the desktop **Fill Alerts** widget (see
+[Fills & Order Book](#fills-order-book)) has no mobile equivalent.
+
+An observed-working fill alert, in full:
+
+| Field | Value |
+|---|---|
+| Alert Name | `Sell Order Filled` |
+| Send notifications to | Desktop (pop-up) **and** TT mobile, both ticked |
+| Conditions | **ALL** of: `order` → `Exec Type` = `Trade`; `order` → `Product Type` = `Spread`; `order` → `Buy/Sell` = `Sell` |
+| Alert Text | Custom: `{order1.instrument_id}, {order1.last_qty}, {order1.price}` |
+
+**The token namespace is the Order-condition field list** `[V]` - confirmed 2026-08-11 by
+reading the rule JSON while adding each condition (procedure below). Selecting `Contract`
+writes `order.instrument_id` and `Fill Qty` writes `order.last_qty`, which are exactly the
+two tokens already observed working in alert text. So **any field in the `Order` condition
+dropdown is available as a token**, and its name is what the JSON panel shows.
+
+Names harvested so far, with the UI label each maps to:
+
+| Token | UI field | Renders as | |
+|---|---|---|---|
+| `{orderN.instrument_id}` | `Contract` | **the readable contract name** - `SR3 Dec26 3mo Butterfly`, *not* the stored integer | `[V]` |
+| `{orderN.last_qty}` | `Fill Qty` | **this execution's** quantity, as a float - `1.0`, `3.0` | `[V]` |
+| `{orderN.last_px}` | **`Fill Price`** | **the price actually filled at** | `[V]` name |
+| `{orderN.price}` | **`Order Price`** | **the price the order was entered at - NOT the fill** | `[V]` name |
+| `{orderN.side}` | `Buy/Sell` | **an uppercase label** - `SELL` | `[V]` |
+| `{orderN.exec_type}` | `Exec Type` | - (`Trade` stores as code `14`) | `[V]` name |
+| `{orderN.product_type}` | `Product Type` | - (`Spread` stores as code `43`) | `[V]` name |
+| others | any dropdown entry | `Account`, `CurrentUser`, `Exchange`, `Order Type`, `Status`, `Synth Status`, `TIF`, `Total Filled Qty`, `Total Qty`, `Working Qty`, ... | names harvestable the same way |
+| `{orderN.buy_sell}` | - | **does not exist.** The side field is `side`. | `[V]` |
+
+**Interpolation resolves ids and enums to display values, not stored codes** `[V]` (observed
+in delivered notifications 2026-08-11). This is the opposite of what the rule JSON suggests -
+conditions store `instrument_id` as an opaque integer (`1694217178440827148`) and enums as
+numeric codes (`side` = `1`) - so **do not infer render behaviour from the JSON panel.** The
+practical consequence: a single alert covering both sides is fully viable, because
+`{orderN.side}` delivers `BUY`/`SELL` on its own and the side does not have to be encoded in
+the alert name via a mirrored per-side pair.
+
+**An unrecognised token fails loudly, which makes the alert text self-checking** `[V]`. A bad
+token renders as its own name with the braces stripped, and TT appends a diagnostic listing
+the rejected names. From a live notification:
+
+```
+… | side=SELL | bs=order1.buy_sell, unknown fields=buy_sell
+```
+
+So `{order1.side}` resolved to `SELL` while `{order1.buy_sell}` echoed back bare, with
+`unknown fields=buy_sell` appended to the message. Use this: probe several candidate tokens in
+one alert text, take one fill, and the notification itself tells you which names are wrong.
+
+**`price` vs `last_px` is a live trap, and the obvious-looking token is the wrong one.**
+`order.price` is the *order* price. An alert built on `{orderN.price}` - as the
+first observed working example was - reports the limit you entered, not the price you got.
+It looks correct indefinitely, because a resting limit order that fills at its own limit
+reports the same number for both. It diverges exactly when the fill is interesting: a
+better-than-limit fill, or a spread filling at an implied price away from the order price.
+**Use `last_px` for the fill price.**
+
+**A live fill does not necessarily discriminate `price` from `last_px`.** In the observed
+notifications both rendered `6.0`, because the order filled at its own limit - the exact
+blind spot described above. The `Fill Price` -> `last_px` / `Order Price` -> `price` mapping
+therefore rests on the rule-JSON harvest, not on the delivered message. To confirm it from a
+fill you need one that prints through the limit.
+
+**`orderN` is a handle to the matched order, not to the field that condition tests** `[V]`.
+The first observed alert tests `exec_type` in condition `id: 1` yet reads
+`{order1.instrument_id}`, `{order1.last_qty}` and `{order1.price}` off it. So any field of
+the order is reachable through any condition's handle; `N` need only match an `id` that
+exists.
+
+**`Exec Type` = `Trade` is the house idiom for "any fill, including partials".** A Trade
+execution report is emitted per fill event, partial or full, so this needs no quantity
+comparison and no dependence on `Status` value names. It also verifies that `Trade` is a
+selectable `Exec Type` value, which `alerts-reference.md:20` only hints at with "e.g., New,
+Canceled, Rejected". Avoid `Total Quantity`, which the reference explicitly defines as
+firing only "when the order is **completely** filled".
+
+**The `N` in `orderN` keys off an explicit stored `id`, not display position** `[V]` - each
+condition block in the rule JSON carries its own `"id"` (`"1"`, `"2"`, ...). The risk this
+creates is sharper than mere renumbering: if ids are *assigned* rather than recomputed on
+delete, removing condition 1 leaves condition 2 still holding `id: "2"` and every
+`{order1.*}` token silently resolves to nothing. `[U]` - untested. **Re-read the rule JSON
+after deleting any condition** (see below).
+
+Collapsing the conditions into one condition plus **Add Criteria** would make the numbering
+moot, but introduces a different unknown: `creating-an-alert.md:66` warns that the ALL/ANY
+choice "applies to the condition only and **not** to the criteria within a condition", and
+never says how criteria within a condition combine. **Prefer the separate-conditions form
+above** - its AND semantics are explicit and it is the form observed working.
+
+**No conflation.** Preferences → Fills and Preferences → Sounds each expose a
+**Conflate partial fills (ms)** setting; Alert Manager exposes no equivalent. An order
+worked in small clips therefore yields one notification per execution report.
+
+#### The rule JSON panel - how to harvest token names without waiting for a fill
+
+The Alert Detail screen has a **collapsed side panel** (the `>` arrow at its top right) that
+exposes the alert's underlying rule tree as JSON, live as you edit `[V]` (observed
+2026-08-11). Two `order` conditions render as:
+
+```json
+{ "condition": "AND",
+  "rules": [
+    { "condition": "AND", "type": "order", "id": "1",
+      "rules": [ { "field": "order.exec_type",    "operator": "equal", "value": "14" } ] },
+    { "condition": "AND", "type": "order", "id": "2",
+      "rules": [ { "field": "order.product_type", "operator": "equal", "value": "43" } ] } ] }
+```
+
+Three things follow, and together they make this panel the cheapest tool in the Alert Manager:
+
+- **Condition fields live in the same `order.<snake_case>` namespace as the alert-text
+  tokens** `[I]`, strongly. `{order1.instrument_id}` / `{order1.last_qty}` are known-working
+  tokens, and `Contract` / `Fill Qty` are condition fields - so if those two conditions write
+  `order.instrument_id` and `order.last_qty`, the condition field list *is* the token
+  vocabulary. **This makes the hypothesis self-verifying against two already-`[V]` tokens.**
+- **The discovery procedure:** add a condition, read the field name the panel writes, delete
+  the condition. Nothing has to fill. Use it to settle the side token (`Buy/Sell`) and the
+  fill-vs-order price ambiguity (add `Fill Price` and `Order Price` and compare the two field
+  names).
+- **Three Order-condition labels in the mirror are stale** `[V]` (dropdown read 2026-08-11).
+  The UI says **`Total Filled Qty`**, **`Total Qty`**, **`Working Qty`**; `alerts-reference.md`
+  calls them `Total Fill Quantity`, `Total Quantity`, `Working Quantity`. The other 17 fields
+  match, and the dropdown's placeholder row is `Choose a field`.
+- **Values are TT-internal enum codes, not FIX** `[V]`. `Exec Type` = `Trade` encodes as
+  `"14"`; `Product Type` = `Spread` as `"43"`. FIX ExecType for a trade is `F`, so these are
+  TT's own numbering and cannot be predicted from FIX tables - harvest them the same way.
+  Operators are word-form (`"equal"`), which is why the mirrored operator table
+  (`alerts-reference.md:70-78`) came through with its comparison symbols mangled.
+
+Still open, and cheap to settle with one live test:
+
+- **Is Alert Manager evaluated server-side?** i.e. does TT Mobile push arrive with the
+  desktop workspace closed. Nothing in the mirror says. That alerts can be run/paused from
+  TT Mobile and the status syncs back to the desktop `Status` column
+  (`managing-alerts.md:36-37`) hints the definitions live server-side, but that is `[I]`.
+  This is the difference between "notifies me while I'm away from the desk" and "notifies me
+  only while TT is running".
+- **Whether `price` and `last_px` really differ on a fill that prints through the limit.**
+  The field-name mapping is `[V]` from the rule JSON, but no observed notification has yet
+  shown the two rendering different values. Everything else about the token vocabulary and
+  its render behaviour is now closed.
+- **The enum code tables.** Confirmed: `exec_type` `Trade` = `14`; `product_type` `Spread` =
+  `43`; `side` `Buy` = `1` `[V]` (dropdown set to Buy, code read back from the JSON), so
+  `Sell` = `2` on the FIX convention `[I]`. Remaining values are harvestable one dropdown
+  selection at a time from the JSON panel; only needed if you *filter* on them, not to
+  interpolate them.
+  Also observed: `instrument_id` stores an opaque TT integer - `1694217178440827148` is
+  SR3 Dec26 3-month butterfly - not a symbol.
+  **Exchange-listed butterflies classify as `Product Type` = `Spread`** `[V]` (SR3 Dec26 3mo
+  fly, confirmed 2026-08-11), so a `product_type = 43` condition does cover flies as well as
+  outright calendar spreads - it does not silently drop them.
+
+**A `Product Type` = `Spread` condition is load-bearing on a fill alert, not optional
+scoping.** Every structure decomposes into outrights, so an alert that also admits outright
+fills reports the *legs* - and a leg-level notification stream cannot tell you which
+structure (spread / fly / double fly) actually filled. Constraining to `Spread` suppresses
+*outright* leg noise, but it is **necessary, not sufficient**: when the legs are themselves
+listed spreads it suppresses nothing, and an `Exchange` condition is needed as well (see
+below). The corollary: **do not
+"test" a spread fill alert by widening it to outrights.** Test it on a real listed-spread
+fill, or you are exercising a different code path *and* recreating the noise the condition
+exists to suppress.
+
+**A `Spread`-scoped alert covers AutoSpreader fills - and fires once per leg as well as once
+for the parent** `[V]`, observed 2026-08-11 on a synthetic VX 1:2 built from two listed CFE
+calendars:
+
+| Exchange | Contract | Fill Type | B/S | Qty | Price | TT Order ID | Parent Order ID |
+|---|---|---|---|---|---|---|---|
+| **ASE** | `Vx Aug26 1:2` | Spread | B | 1 | **-1.11** | `1310136f-…` | - |
+| CFE | `VX Aug26-Sep26 Calendar` | Spread | B | 1 | 1.570 | `d455e5d4-…` | `1310136f-…` |
+| CFE | `VX Sep26-Oct26 Calendar` | Spread | S | 2 | 1.340 | `1d48e329-…` | `1310136f-…` |
+
+The synthetic parent and both legs all report `Fill Type` = **`Spread`**, so `product_type =
+43` matches all three - coverage is fine, but **one structure fill yields N+1 notifications.**
+The leg-noise problem the `Spread` condition exists to suppress therefore returns whenever the
+legs are themselves *listed spreads*: filtering on product type cannot separate a parent from
+its legs when both are spreads. In the Fills widget the only distinguishing columns are
+**TT Order ID** and **Parent Order ID**, and neither is an Order condition field.
+
+**Use `Exchange` as the parent/leg discriminator.** The synthetic parent books on **`ASE`**
+(the AutoSpreader Server) while the legs book on their real exchange (`CFE` here), and
+`Exchange` *is* in the Order condition dropdown. So:
+
+| Goal | Conditions (**ALL**) |
+|---|---|
+| One notification per AutoSpreader structure fill | `Exec Type`=`Trade` · `Product Type`=`Spread` · `Exchange`=`ASE` |
+| Listed spreads/flies traded directly | `Exec Type`=`Trade` · `Product Type`=`Spread` · `Exchange` `!=` `ASE` |
+
+This needs **two alerts**, because the ALL/ANY choice is alert-wide (`creating-an-alert.md:43-44`)
+and one alert cannot mix AND with OR. The split is semantically meaningful rather than
+duplicated logic: "a structure I built filled" vs "a listed spread I traded filled". The
+`ASE` alert is also the more informative one - it carries the **spread** price and **spread**
+quantity (`-1.11`, `1`) instead of per-leg prices and ratio-scaled quantities.
+
+`Synth Status` (Order condition field, status "for a parent synthetic order",
+`alerts-reference.md:29`) is an untested alternative discriminator `[U]`; `Exchange` is
+verified by the fill data above and is the simpler construction.
+
+**Not adding the `Exchange` condition is a legitimate choice**, and was the one taken here.
+The N+1 burst self-groups: three notifications within a second or two, for a structure you
+launched, are evidently one parent plus its legs, and the parent is identifiable as the one
+carrying the *spread* price. The heuristic degrades only when several structures fill
+concurrently - or one fills in multiple clips - since then the bursts interleave and
+timestamp proximity no longer attributes legs to parents. Worth revisiting if you ever run
+more than one spread at a time; not worth the second alert otherwise.
 
 ## Accounts & balances
 
